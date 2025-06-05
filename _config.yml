@@ -23,13 +23,13 @@ repository               : "dgerosa/dgerosa.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Davide Gerosa"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "University professor - research in gravitational waves and black holes."
+  location         : "Milan, Italy"
+  employer         : "University of Milano-Bicocca"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "davide.gerosa@unimib.it" 
 
   # Academic websites
   academia         : # URL
