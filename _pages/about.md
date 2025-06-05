@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm rewriting my academic website. Nothing works today, everything will work tomorrow. I'll try to bring all the pages back online.
+I'm rewriting my academic website. Nothing works today, everything will work tomorrow. I'll try to bring all the pages back online...
