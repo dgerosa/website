@@ -14,4 +14,4 @@ package-lock.json
 
 # Ignore the vendor file and bundle for alternative installation
 vendor/
-.bundle/
+.bundle/.DS_Store
