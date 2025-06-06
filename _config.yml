@@ -22,7 +22,7 @@ repository               : "dgerosa/dgerosa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_orange-min.jpg"
   name             : "Davide Gerosa"
   pronouns         : # example: "she/her"  
   bio              : "University professor - research in gravitational waves and black holes."
