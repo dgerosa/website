@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Davide Gerosa"
+title                    : "davidegerosa.com"
 title_separator          : "-"
 name                     : &name "Davide Gerosa"
 description              : &description "University professor - research in gravitational waves and black holes."

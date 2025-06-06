@@ -10,4 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-My papers go here
+My papers go here.
+
+{% include_relative _publications.md %}
