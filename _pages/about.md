@@ -19,8 +19,10 @@ Besides gravity and all the rest, I love mountains (basically everything up ther
 
 ---
 
+<small>
 *I'm in the proces of rewriting my academic website. Many links are broken now, sorry. I'll try to bring all the pages back online sometime soon.*
 
 *For an archived version of my former website see [here](https://web.archive.org/web/20250530003117/https://davidegerosa.com/).*
+</small>
 
 ---
