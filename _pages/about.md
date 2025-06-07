@@ -7,6 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm rewriting my academic website (oh actually, I broke it). Nothing works today, everything will work tomorrow. I'll try to bring all the pages back online...
 
-For an archived version of my former website see [here](https://web.archive.org/web/20250530003117/https://davidegerosa.com/)
+> “The foundation of General Relativity appeared to me then, and it still does, the greatest feat of human thinking about nature, the most amazing combination of philosophical penetration, physical intuition, and mathematical skill. It appealed to me like a great work of art.”
+>
+> — Max Born (1962)
+
+
+Hi there. I am an associate professor at the University of Milano-Bicocca, Italy. My research is in gravitational-wave astronomy and relativistic astrophysics: I study the impact of Einstein’s general relativity on the astrophysical world. My group is supported by the European Research Council (ERC).
+
+Besides gravity and all the rest, I love mountains (basically everything up there: hiking, climbing, skiing…), playing football (I mean good Italian “soccer” of course!) and rock music (Bruce is the Boss!).
+
+---
+
+**I'm in the proces of rewriting my academic website. Many links are broken now, sorry. I'll try to bring all the pages back online sometime soon.**
+
+**For an archived version of my former website see [here](https://web.archive.org/web/20250530003117/https://davidegerosa.com/).**
+
+---
