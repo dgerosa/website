@@ -1,11 +1,11 @@
 Invited talks marked with ✦.
 
 ## Summary
-**78** [Talks at conferences](#talks at conferences) \
-**43** [Talks at department seminars](#talks at department seminars) \
-**5** [Lectures at PhD schools](#lectures at phd schools) \
-**8** [Posters at conferences](#posters at conferences) \
-**17** [Outreach talks](#outreach talks)
+**78** (**31**✦) [Talks at conferences](#talks-at-conferences) \
+**43** (**43**✦) [Talks at department seminars](#talks-at-department-seminars) \
+**5** (**5**✦) [Lectures at PhD schools](#lectures-at-phd-schools) \
+**8** (**4**✦) [Posters at conferences](#posters-at-conferences) \
+**17** (**17**✦) [Outreach talks](#outreach-talks)
 
 ## Talks at conferences
 
@@ -413,7 +413,7 @@ Eurostrings 2015, Cambridge, UK, Mar 2015.
 
 **3.** ✦ *Analytic solutions to binary black-hole spin precession: recalling Kepler's two-body problem*  \\
 Compact objects as astrophysical and gravitational probes, Leiden, The Netherlands, Jan 2015.  \\
-\textbf{Best  presentation award}.
+Best  presentation award.
 
 **2.** *Efficient precession-averaged evolution of spinning black-hole binaries*  \\
 RAS Specialist Meeting -- Towards gravitational-wave astronomy: data analysis techniques and challenges, London, UK, Dec 2014.
