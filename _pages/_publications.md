@@ -3,6 +3,9 @@
 **96** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **12** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
+
+---
+
 ## Submitted papers
 
 **8.**
@@ -45,6 +48,8 @@ R. Buscicchio, A. Klein, V. Korol, F. Di Renzo, C. J. Moore, **D. Gerosa**, A. 
 A. Klein, G. Pratten, R. Buscicchio, P. Schmidt, C. J. Moore, E. Finch, A. Bonino, L. M. Thomas, N. Williams, **D. Gerosa**, S. McGee, M. Nicholl, A. Vecchio.\
 <a href="https://arxiv.org/abs/2204.03423" style="color: inherit; text-decoration: none;">arXiv:2204.03423 [gr-qc]</a>.
  
+
+---
 
 ## Papers published in major peer-reviewed journals
 
@@ -543,6 +548,8 @@ G. Lodato, **D. Gerosa**.\
 <a href="http://dx.doi.org/10.1093/mnrasl/sls018" style="color: inherit; text-decoration: none;">Monthly Notices of the Royal Astronomical Societyl 429 (2013) L30-L34</a>. <a href="https://arxiv.org/abs/1211.0284" style="color: inherit; text-decoration: none;">arXiv:1211.0284 [astro-ph.CO]</a>.
  
 
+---
+
 ## Other publications (white papers, proceedings, etc.)
 
 **12.**
@@ -607,3 +614,5 @@ E. Berti, et al. (53 authors incl. **D. Gerosa**).\
 **D. Gerosa**.\
 <a href="https://caltechcampuspubs.library.caltech.edu/2800/" style="color: inherit; text-decoration: none;">Caltech Undergraduate Research Journal (CURJ) 15:1 (2014) 17-26</a>. 
  
+
+---

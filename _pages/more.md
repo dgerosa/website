@@ -38,7 +38,6 @@ This is a template github repository to write scientific papers. Templates for t
 - **[filltex](https://github.com/dgerosa/filltex):  Automagically fill LaTex bibliography.** 
 Are you tired of copying bibtex records when writing papers? We got you covered. This is a web-scraping tool to automatically download citation records from both ADS and INSPIRE and automagically fill bib files. Usage from the terminal is straightforward, and our code is also integrated with TexShop.
 
-
 - **[spinprecession](https://github.com/dgerosa/precession): Black-hole binary inspiral: a precession-averaged approach.**
 Some animations and data on black-hole binary spin precession. Supporting
 [arXiv:1411.0674](https://arxiv.org/abs/1411.0674),
@@ -89,20 +88,14 @@ Bilby posterior samples of >100 LIGO/Virgo injections with two large, misaligned
 [arXiv:2207.00030](https://arxiv.org/abs/2207.00030),
 [arXiv:2405.14945](https://arxiv.org/abs/2405.14945).
 
+- **[sfts](https://github.com/rodrigo-tenorio/sfts): Scalable data-analysis framework for long-duration gravitational waves from compact binaries using short Fourier transforms** Compute faster inner products with SFTs! You're going to need it when gravitational-wave signals get too long. Supporting
+[arXiv:2502.11823](https://arxiv.org/abs/2502.11823).
 
-sfts: Scalable data-analysis framework for long-duration gravitational waves from compact binaries using short Fourier transforms
+- **[pymcpop-gw](https://github.com/CosmoStatGW/pymcpop-gw): Sampling the full hierarchical population posterior distribution in gravitational-wave astronomy**. Successfull PyMC sampling of the full gravitational-wave poulation likelihood, withour marginalizing over the single-event parameters. Supporting
+[2502.12156](https://arxiv.org/abs/2502.12156).
 
-https://github.com/rodrigo-tenorio/sfts
-
-
-pymcpop-gw: Sampling the full hierarchical population posterior distribution in gravitational-wave astronomy
-
-https://github.com/CosmoStatGW/pymcpop-gw
-
-gwlabel: Which is which? Identification of the two compact objects in gravitational-wave binaries.
-
-https://github.com/dgerosa/gwlabel
-
+- **[gwlabel](https://github.com/dgerosa/gwlabel): Which is which? Identification of the two compact objects in gravitational-wave binaries.** Separate the two components in a gravitational-wave binary using spectral clustering, which is a flavor of semi-supervised machine learning. Supporting
+[2409.07519](https://arxiv.org/abs/2409.07519).
 
 lisa-mbhb-cats-and-samps: Stars or gas? Constraining the hardening processes of massive black-hole binaries with LISA.
 https://github.com/RiccardoBuscicchio/lisa-mbhb-cats-and-samps

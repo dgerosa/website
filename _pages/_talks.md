@@ -7,6 +7,8 @@ Invited talks marked with ✦.
 **8** (**4**✦) [Posters at conferences](#posters-at-conferences) \
 **17** (**17**✦) [Outreach talks](#outreach-talks)
 
+---
+
 ## Talks at conferences
 
 **78.** ✦ *Machine learning in gravitational-wave population inference*  \\
@@ -246,6 +248,9 @@ BritGrav 14, Cambridge, UK, Mar 2014.
 **1.** *Spin alignment effects in stellar mass black hole binaries*  \\
 22nd Midwest Relativity Meeting, Chicago IL, USA, Sep 2012.
 
+
+---
+
 ## Talks at department seminars
 
 **43.** ✦ *The case of quasar 3C 186 as kicked black hole*  \\
@@ -377,6 +382,9 @@ GR seminars, Department Applied Mathematics and Theoretical Physics, Cambridge, 
 **1.** ✦ *Spin alignment and resonant plane in stellar mass black hole binaries*  \\
 Lunch talks, Leiden Observatory, Leiden, The Netherlands, Jan 2012.
 
+
+---
+
 ## Lectures at PhD schools
 
 **5.** ✦ *Tips on academic job applications for early career scientists*  \\
@@ -393,6 +401,9 @@ Kavli-Villum Summer School on Gravitational Wave, Corfu, Greece, Sep 2023.
 
 **1.** ✦ *Introduction to gravitational waves (theory background)*  \\
 VIPER summer school on PTA GW astrophysics, Nashville TN, USA (online), Jul 2022.
+
+
+---
 
 ## Posters at conferences
 
@@ -420,6 +431,9 @@ RAS Specialist Meeting -- Towards gravitational-wave astronomy: data analysis te
 
 **1.** *Morphologies and binary transfer: a new approach to the post-newtonian dynamics of precessing black-holes binaries*  \\
 DPG Physics School ``General Relativity @99'', Bad Honnef, Germany, Sep 2014.
+
+
+---
 
 ## Outreach talks
 
@@ -473,3 +487,6 @@ Physics Day Experience, Birmingham, UK, Jun 2019.
 
 **1.** ✦ *Onde gravitazionali: ascoltare l'Universo (anzich\'e solo vederlo?)*  \\
 Liceo Candia and Liceo Frassati, Seregno, Italy, Jan 2018.
+
+
+---
