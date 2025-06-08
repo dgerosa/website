@@ -214,7 +214,7 @@ D. Gangardt, **D. Gerosa**, M. Kesden, V. De Renzis, N. Steinle.\
 **64.**
 *Inferring the properties of a population of compact binaries in presence of selection effects*,\
 S. Vitale, **D. Gerosa**, W. M. Farr, S. R. Taylor.\
-<a href="https://doi.org/10.1007/978-981-15-4702-7_45-1" style="color: inherit; text-decoration: none;">Book contribution</a>. <a href="https://arxiv.org/abs/2007.05579" style="color: inherit; text-decoration: none;">arXiv:2007.05579 [astro-ph.IM]</a>.
+<a href="https://doi.org/10.1007/978-981-15-4702-7_45-1" style="color: inherit; text-decoration: none;">Chapter in: Handbook of Gravitational Wave Astronomy, Springer, Singapore</a>. <a href="https://arxiv.org/abs/2007.05579" style="color: inherit; text-decoration: none;">arXiv:2007.05579 [astro-ph.IM]</a>.
  
 **63.**
 *Gravitational-wave population inference at past time infinity*,\
