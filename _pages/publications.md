@@ -12,7 +12,8 @@ redirect_from:
 
 Here is my publication list; click [here for a pdf version](https://github.com/dgerosa/CV/releases/latest/download/DavideGerosa_publist.pdf).
 
-You can find my papers on 
+You can find my papers on
+ 
 - [ADS]({{ '/myads/' | relative_url }})
 - [INSPIRE]({{ '/myinspire/' | relative_url }})
 - [arXiv]({{ '/myarxiv/' | relative_url }})
