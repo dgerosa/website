@@ -13,7 +13,7 @@ Here you'll find:
 - **[Codes and data.](#codes-and-data)** 
 Public codes and datasets supporting my publications. There’s a bit of everything here: black holes, supernovae, machine learning, laTex workflows.
 
-- **[Notes.](#notes)**
+- **[Notes and tutorials.](#notes-and-tutorials)**
 If I don’t remember how to do something, sometimes I write it down here. Hopefully these are useful to others, some of them are probably (surely) outdated.
 
 - **[Teaching.](#teaching)**
@@ -147,7 +147,7 @@ Estimate your own effective-spin posterior with the recipe presented. Supporting
 
 ---
 
-## Notes
+## Notes and tutorials
 
 Work in progress...
 
