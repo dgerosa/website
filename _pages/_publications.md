@@ -146,7 +146,7 @@ A. Spadaro, R. Buscicchio, D. Vetrugno, A. Klein, **D. Gerosa**, S. Vitale, R. D
 <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.123029" style="color: inherit; text-decoration: none;">Physical Review D 108 (2023) 123029</a>. <a href="https://arxiv.org/abs/2306.03923" style="color: inherit; text-decoration: none;">arXiv:2306.03923 [gr-qc]</a>.
  
 **77.**
-*Black-hole mergers in disk-like environments could explain the observed $q-\chi_\mathrm{eff}$ correlation*.\
+*Black-hole mergers in disk-like environments could explain the observed $$q-\chi_\mathrm{eff}$$ correlation*.\
 A. Santini, **D. Gerosa**, R. Cotesta, E. Berti.\
 <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.083033" style="color: inherit; text-decoration: none;">Physical Review D 108 (2023) 083033</a>. <a href="https://arxiv.org/abs/2308.12998" style="color: inherit; text-decoration: none;">arXiv:2308.12998 [astro-ph.HE]</a>.
  
@@ -268,7 +268,7 @@ D. Gangardt, N. Steinle, M. Kesden, **D. Gerosa**, E. Stoikos.\
 <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.124026" style="color: inherit; text-decoration: none;">Physical Review D 103 (2021) 124026</a>. <a href="https://arxiv.org/abs/2103.03894" style="color: inherit; text-decoration: none;">arXiv:2103.03894 [gr-qc]</a>.
  
 **53.**
-*A generalized precession parameter $\chi_\mathrm{p}$ to interpret gravitational-wave data*.\
+*A generalized precession parameter $$\chi_\mathrm{p}$$ to interpret gravitational-wave data*.\
 **D. Gerosa**, M. Mould, D. Gangardt, P. Schmidt, G. Pratten, L. M. Thomas.\
 <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064067" style="color: inherit; text-decoration: none;">Physical Review D 103 (2021) 064067</a>. <a href="https://arxiv.org/abs/2011.11948" style="color: inherit; text-decoration: none;">arXiv:2011.11948 [gr-qc]</a>.
  
