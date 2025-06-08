@@ -8,37 +8,86 @@ author_profile: true
 {% include base_path %}
 
 
-## Data
-Public codes and datasets supporting my publications. There’s a bit of everything here: black holes, supernovae, machine learning, laTex workflows:
+Here you'll find:
 
-- **precession: Dynamics of spinning black-hole binaries with python.**
-Public python module to perform post-Newtornian evolution of precessing exploiting multi-timescale methods. The code is described carefully arXiv:1605.01067 (v1) and arXiv:2304.04801 (v2), and has by now been used in many papers by us and others.
+- **[Codes and data.](#codes-and-data)** 
+Public codes and datasets supporting my publications. There’s a bit of everything here: black holes, supernovae, machine learning, laTex workflows.
 
-- **spinprecession: Black-hole binary inspiral: a precession-averaged approach.**
-Some animations and data on black-hole binary spin precession, supporting arXiv:1411.0674, 1506.03492, 1506.09116, 1711.10038, 1811.05979, 2003.02281, and 1302.4442.
+- **[Notes.](#notes)**
+If I don’t remember how to do something, sometimes I write it down here. Hopefully these are useful to others, some of them are probably (surely) outdated.
 
-- **filltex: Automagically fill LaTex bibliography**
-Are you tired of copying bibtex records when writing papers? We got you covered. This is a web-scraping tool to automatically download citations records from both ADS and INSPIRE and automagically fill bib files. Usage from terminal is straightforward, and it’s also integrated with TexShop!
+- **[Teaching.](#teaching)**
+Materials I developed for my classes. With a huge thanks to all my students!
 
-- **skywalker: Things I like in Python** This is a python module made mostly for myself, where I collect useful functions and tricks to be imported from everywhere.
+- **[Events](#events)**
+This is a log of conferences and workshops I organized, together with the related material (like slides) when available.
 
-- **gwdet: Detectability of gravitational-wave signals from compact binary coalescences.** Tiny python module to compute the probability that a gravitational-signal will be detected averaging over sky location, detector antenna pattern, etc.
+- **[Others](#others)**
+Yet more things on this website...
 
-- **corecollapse: Numerical simulations of stellar collapse in scalar-tensor theories of gravity**
-Animations and data release on core-collapse simulations in scalar-tensor theories of gravity, supporting arXiv:1602.06952.
+---
 
-- **surrkick: Black-hole kicks from numerical-relativity surrogate models.**
-Public python module to extract black hole recoils from waveform approximants by directly integrating the linear momentum flux in gravitational waves. The approach is described in arXiv:1802.04276, here we also provide some animations from that paper.
+## Codes and data
+
+- **[precession](https://github.com/dgerosa/precession): Dynamics of spinning black-hole binaries with python.**
+Public python module to perform post-Newtornian evolution of precessing exploiting multi-timescale methods. The code is described carefully [arXiv:1605.01067](https://arxiv.org/abs/1605.01067) (v1) and [arXiv:2304.04801](https://arxiv.org/abs/2304.04801) (v2), and has by now been used in many papers by us and others.
+
+- **[writeapaper](https://github.com/dgerosa/writeapaper): templates and github action for scientific papers.**
+This is a template github repository to write scientific papers. Templates for the journals I commonly use are provided, and a github action compiles the paper at every commit and deploys it to an orphan branch. So much better (and free!) than overleaf.
+
+- **[filltex](https://github.com/dgerosa/filltex):  Automagically fill LaTex bibliography.** 
+Are you tired of copying bibtex records when writing papers? We got you covered. This is a web-scraping tool to automatically download citation records from both ADS and INSPIRE and automagically fill bib files. Usage from the terminal is straightforward, and our code is also integrated with TexShop.
 
 
-- **spops: *S*pinning black-hole binary *Pop*ulation *S*ynthesis.** Database containing population synthesis simulations from arXiv:1808.02491 and arXiv:1902.00021 2005.04243 1909.06373, together with a simple python code to query it.
+- **[spinprecession](https://github.com/dgerosa/precession): Black-hole binary inspiral: a precession-averaged approach.**
+Some animations and data on black-hole binary spin precession. Supporting
+[arXiv:1411.0674](https://arxiv.org/abs/1411.0674),
+[arXiv:1506.03492](https://arxiv.org/abs/1506.03492),
+[arXiv:1506.09116](https://arxiv.org/abs/1506.09116),
+[arXiv:1711.10038](https://arxiv.org/abs/1711.10038),
+[arXiv:1811.05979](https://arxiv.org/abs/1811.05979),
+[arXiv:2003.02281](https://arxiv.org/abs/2003.02281),
+[arXiv:2012.07147](https://arxiv.org/abs/2012.07147),
+[arXiv:2405.14945](https://arxiv.org/abs/2405.14945).
 
-- **pdetclassifier: Gravitational-wave selection effects using neural-network classifiers**
-Training samples and pre-trained neural networks to estimate LIGO/Virgo detectability. Supporting arXiv:2007.06585.
+- **[skywalker](https://github.com/dgerosa/skywalker): Things I like in Python.**
+This is a python module made mostly for myself, where I collect useful functions and tricks to be imported from everywhere.
 
-- **generalized-chip: A generalized precession parameter to interpret gravitational-wave data.**
-Public python script to compute various definitions of chi_p. Supporting arXiv:2011.11948.
+- **[gwdet](https://github.com/dgerosa/gwdet): Detectability of gravitational-wave signals from compact binary coalescences.**
+Python module to compute the probability that a gravitational-signal will be detected averaging over sky location and detector antenna pattern, using a simple SNR cut. Initially develped for [arXiv:1806.08365](https://arxiv.org/abs/1806.08365) then used in many papers.
 
+- **[pdetclassifier](https://github.com/dgerosa/pdetclassifier): Gravitational-wave selection effects using neural-network classifiers**
+Training samples and pre-trained neural networks to estimate the LIGO/Virgo detectability. Supporting
+[arXiv:2007.06585](https://arxiv.org/abs/2007.06585).
+
+- **[corecollapse](https://github.com/dgerosa/corecollapse): Numerical simulations of stellar collapse in scalar-tensor theories of gravity**
+Animations and data release on core-collapse simulations in scalar-tensor theories of gravity. Supporting
+[arXiv:1602.06952](https://arxiv.org/abs/1602.06952).
+
+- **[surrkick](https://github.com/dgerosa/surrkick): Black-hole kicks from numerical-relativity surrogate models.**
+Python module to extract black-hole recoils from waveform approximants by directly integrating the linear momentum flux in gravitational waves. Supporting
+[arXiv:1802.04276](https://arxiv.org/abs/arXiv:1802.04276).
+
+- **[spops](https://github.com/dgerosa/spops): *S*pinning black-hole binary *Pop*ulation *S*ynthesis.**
+Database containing population synthesis simulations computed with `Startrack` and post-processed with `precession`, together with a simple python code to query it. Supporting 
+[arXiv:1808.02491](https://arxiv.org/abs/1808.02491),
+[arXiv:1902.00021](https://arxiv.org/abs/1902.00021),
+[arXiv:1909.06373](https://arxiv.org/abs/1909.06373),
+[arXiv:2005.04243](https://arxiv.org/abs/2005.04243).
+
+- **[generalizedchip](https://github.com/dgerosa/generalizedchip): A generalized precession parameter $$\chi_{\rm p}$$ to interpret gravitational-wave data.**
+Python script to compute various definitions of $$\chi_{\rm p}$$. Supporting
+[arXiv:2011.11948](https://arxiv.org/abs/2011.11948). 
+Now outdated, use [precession](https://github.com/dgerosa/precession).
+
+- **[updowninjections](https://github.com/ViolaDeRenzis/updowninjections): Parameter estimation of binary black holes in the endpoint of the up-down instability.** 
+Bilby posterior samples of binaries that were aligned but are now precessing. Supporting 
+[arXiv:2304.13063](https://arxiv.org/abs/2304.13063),
+
+- **[twoprecessingspins](https://github.com/ViolaDeRenzis/twoprecessingspins). Characterization of merging black holes with two precessing spins.**
+Bilby posterior samples of >100 LIGO/Virgo injections with two large, misaligned spins. Supporting 
+[arXiv:2207.00030](https://arxiv.org/abs/2207.00030),
+[arXiv:2405.14945](https://arxiv.org/abs/2405.14945).
 
 
 sfts: Scalable data-analysis framework for long-duration gravitational waves from compact binaries using short Fourier transforms
@@ -63,6 +112,10 @@ postmerger (both papers)
 
 marcumQ (Selection effect paper)
 
+QLUSTER
+
+https://github.com/kazewong/GPRHBA
+
 
 One to many: comparing single gravitational-wave events to astrophysical populations
 
@@ -71,11 +124,7 @@ https://github.com/mdmould/popodds
 pAGN: The one-stop solution for AGN disc modeling
 Great public code to easily compute 1D models of AGN disks. Supporting arXiv:2304.13063.
 
-updowninjections: Parameter estimation of binary black holes in the endpoint of the up-down instability
-Bilby posterior samples of binaries that were aligned but are now precessing. Supporting arXiv:2002.10465.
 
-twoprecessingspins: Characterization of merging black holes with two precessing spins
-Posterior samples of >100 LIGO/Virgo injections with two large, misaligned spins. Supporting arXiv:2207.00030.
 
 WDsatellites: Milky Way Satellites Shining Bright in Gravitational Waves. LISA white dwarf posteriors. Supporting arXiv:2002.10465.
 
@@ -88,27 +137,32 @@ Public python module to estimate post-merger masses, spins, and kicks for generi
 GWpriors: Impact of bayesian priors on the characterization of binary black hole coalescences
 Full posterior samples of the LIGO 01 events with different priors. Supporting arXiv:1707.04637.
 
+https://github.com/vitale82/GWpriors
+
 gw_catalog_mining: Mining gravitational-wave catalogs
 What are we going to do with thousands of gravitational wave observations? Maybe Gaussain process emulators and hierarchical analyses. Webpage and public code supporting arXiv:1806.08365.
+
+https://github.com/stevertaylor/gw_catalog_mining
 
 welovespins: Asymmetries and selection biases in effective-spin measurements
 Estimate your own effective-spin posterior with the recipe presented. Supporting arXiv:1805.03046.
 
-
+---
 
 ## Notes
-If I don’t remember how to do something, sometimes I write it down here. Hopefully these are useful to others, some of them are probably (surely) outdated.
+
+
+---
 
 ## Teaching
-### (Supporting material for my classes)
 
-These are the classes I have been teaching. With a huge thanks to all my students!
 
+---
 
 ## Events
 
-This a log of conferences and workshops I organized, together with the related material (like slides) when available.
 
+---
 
 ## Others
-### (Yet more things on this website...)
+### ()
