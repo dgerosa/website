@@ -55,6 +55,8 @@ This is a python module made mostly for myself, where I collect useful functions
 - **[gwdet](https://github.com/dgerosa/gwdet): Detectability of gravitational-wave signals from compact binary coalescences.**
 Python module to compute the probability that a gravitational-signal will be detected averaging over sky location and detector antenna pattern, using a simple SNR cut. Initially develped for [arXiv:1806.08365](https://arxiv.org/abs/1806.08365) then used in many papers.
 
+- **[QLUSTER](https://github.com/mdmould/qluster): Quick clusters of merging black holes.** Toy model for the evolution of black hole binaries in star clusters, with a specific focus on hierarchical mergers. The code is described in [arXiv:2305.04987](https://arxiv.org/abs/2305.04987). Key results were reported in [arXiv:2305.04987](https://arxiv.org/abs/2305.04987) and [arXiv:2305.04987](https://arxiv.org/abs/2305.04987).
+
 - **[pdetclassifier](https://github.com/dgerosa/pdetclassifier): Gravitational-wave selection effects using neural-network classifiers**
 Training samples and pre-trained neural networks to estimate the LIGO/Virgo detectability. Supporting
 [arXiv:2007.06585](https://arxiv.org/abs/2007.06585).
@@ -97,15 +99,18 @@ Bilby posterior samples of >100 LIGO/Virgo injections with two large, misaligned
 - **[gwlabel](https://github.com/dgerosa/gwlabel): Which is which? Identification of the two compact objects in gravitational-wave binaries.** Separate the two components in a gravitational-wave binary using spectral clustering, which is a flavor of semi-supervised machine learning. Supporting
 [2409.07519](https://arxiv.org/abs/2409.07519).
 
-lisa-mbhb-cats-and-samps: Stars or gas? Constraining the hardening processes of massive black-hole binaries with LISA.
-https://github.com/RiccardoBuscicchio/lisa-mbhb-cats-and-samps
-Posteriors of LISA massive black-hole binaries. 2409.13011
+- **[lisa-mbhb-cats-and-samps](https://github.com/RiccardoBuscicchio/lisa-mbhb-cats-and-samps): Stars or gas? Constraining the hardening processes of massive black-hole binaries with LISA.** Posteriors of LISA massive black-hole binaries from the `Balrog` code. Supporting
+[2409.13011](https://arxiv.org/abs/2409.13011).
+
+- **[marcumQ](https://github.com/dgerosa/marcumq): Marcum-Q function with scipy.** This is a scipy wrapper to evaluate the generalized Marcum-Q function. It turns out they are useful to compute selection effects in gravitational-wave astronomy. Supporting
+[2404.16930](https://arxiv.org/abs/2404.16930).
+
+
+
+
 
 postmerger (both papers)
 
-marcumQ (Selection effect paper)
-
-QLUSTER
 
 https://github.com/kazewong/GPRHBA
 
