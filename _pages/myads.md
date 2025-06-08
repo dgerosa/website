@@ -1,0 +1,5 @@
+---
+layout: redirect
+permalink: /myads/
+redirect_to: https://ui.adsabs.harvard.edu/search/filter_bibstem_facet_fq_bibstem_facet=NOT&filter_bibstem_facet_fq_bibstem_facet=((*%3A*%20NOT%20bibstem_facet%3A%22eas..conf%22)%20NOT%20bibstem_facet%3A%22tsra.conf%22)&filter_bibstem_facet_fq_bibstem_facet=bibstem_facet%3A%22MiRe%22&filter_doctype_facet_hier_fq_doctype=NOT&filter_doctype_facet_hier_fq_doctype=*%3A*&filter_doctype_facet_hier_fq_doctype=doctype_facet_hier%3A%220%2FNon-Article%22&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq=%7B!type%3Daqp%20v%3D%24fq_bibstem_facet%7D&fq_bibstem_facet=(((*%3A*%20NOT%20bibstem_facet%3A%22eas..conf%22)%20NOT%20bibstem_facet%3A%22tsra.conf%22)%20NOT%20bibstem_facet%3A%22MiRe%22)&fq_doctype=(*%3A*%20NOT%20doctype_facet_hier%3A%220%2FNon-Article%22)&p_=0&q=%20author%3A%22Gerosa%2C%20Davide%22&sort=citation_count%20desc%2C%20bibcode%20desc
+---
