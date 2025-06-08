@@ -149,18 +149,22 @@ Estimate your own effective-spin posterior with the recipe presented. Supporting
 
 ## Notes
 
+Work in progress...
 
 ---
 
 ## Teaching
 
+Work in progress...
 
 ---
 
 ## Events
 
+Work in progress...
 
 ---
 
 ## Others
-### ()
+
+Work in progress...
