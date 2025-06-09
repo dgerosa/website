@@ -27,6 +27,18 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Codes"
+    url: /more/   
+
+  - title: "Notes"
+    url: /more/   
+
+  - title: "Teaching"
+    url: /more/   
+
+  - title: "Events"
+    url: /more/   
+
   - title: "More"
     url: /more/   
 
