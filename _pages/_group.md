@@ -1,4 +1,4 @@
-## Current group members
+Here are the amazing people in my group. Come visit and chat science with us!
 
 **Arianna Renzini**  
 *ERC Marie Skłodowska-Curie Fellow*;  [arianna.renzini@unimib.it](mailto:arianna.renzini@unimib.it)  
@@ -57,6 +57,7 @@ Glitch hunter, LISA responser, gravitational-wave lover. Cares for nature, addic
 Eccentricity calculator, outlier nightmare, PN analyzer. Likes gravitational waves, black holes, and cats. Specialized in cakes, cookies, and any sweet treats (by far the best chocolate brownie in town!). A marathon every now and then just to let off steam.
 
 ## Current MSc and Bsc students
+Here are the amazing students who are currently completing research projects with us in the group… Taking the first fun steps into the perilous world of black holes!
 
 - **Pietro Zeduri**, MSc thesis, Milano-Bicocca, 2025.
 - **Alessia Corelli**, MSc thesis, Milano-Bicocca, 2025.
@@ -72,24 +73,26 @@ Eccentricity calculator, outlier nightmare, PN analyzer. Likes gravitational wav
 - **Federico Quattrini**, BSc thesis, Milano-Bicocca, 2025.
 
 ---
----
+<br>
 
-## Former group members
+# Former group members
 
-### Former postdocs
+...and here are those who passed through our group at some stage. Thank you all!
+
+## Former postdocs
 
 - **Swetha Baghwat**. Birmingham 2022–2025. Stephen Hawking Fellow.
 - **Michele Mancarella**. Milano-Bicocca 2022–2024. Supported by the ERC. Then faculty at the University of Aix-Marseille, France.
 - **Nathan Steinle**. Birmingham 2021–2023. Supported by the Leverhulme Trust. Then postdoc at the University of Manitoba, Winnipeg (Canada).
 - **Nicola Giacobbo**. Birmingham 2020–2021. Supported by the Leverhulme Trust. Then software developer at IRS Srl (Italy).
 
-### Former PhD students
+## Former PhD students
 
 - **Viola De Renzis**. Milano-Bicocca 2021–2024. Supported by the ERC. Then postdoc at the University of Aix-Marseille, France.
 - **Daria Gangardt**. Birmingham 2020–2024. Supported by STFC. Then Research Associate at the UK Centre for Ecology & Hydrology (UKCEH).
 - **Matthew Mould**. Birmingham 2019–2023. Supported by STFC. Then postdoc at the Massachusetts Institute of Technology (MIT), Boston MA (USA).
 
-### Former MSc students
+## Former MSc students
 
 - **Olga Pietrosanti**. Milano-Bicocca 2025
 - **Nicole Grillo**. Milano-Bicocca 2025
@@ -111,7 +114,7 @@ Eccentricity calculator, outlier nightmare, PN analyzer. Likes gravitational wav
 - **Abdullah Aziz**. Birmingham 2020. Then software engineer at Menlo Security Inc (UK).
 - **Riccardo Barbieri**. Caltech and Pavia 2018. Then PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany). Resulting publication: [arXiv:2004.02894](https://arxiv.org/abs/2004.02894).
 
-### Former BSc students
+## Former BSc students
 
 - **Alessandro Malfasi**. Milano-Bicocca 2025
 - **Rocco Giugni**. Milano-Bicocca 2024
