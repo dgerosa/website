@@ -11,7 +11,7 @@ author_profile: true
 Here you'll find:
 
 - **[Codes and data.](#codes-and-data)** 
-Public codes and datasets supporting my publications. There’s a bit of everything here: black holes, supernovae, machine learning, laTex workflows.
+Public codes and datasets supporting my publications and other software I've contributed to. There’s a bit of everything here: black holes, machine learning, laTex workflows.
 
 - **[Notes and tutorials.](#notes-and-tutorials)**
 If I don’t remember how to do something, sometimes I write it down here. Hopefully these are useful to others, some of them are probably (surely) outdated.
@@ -28,6 +28,8 @@ Yet more things on this website...
 ---
 
 ## Codes and data
+
+Public codes and datasets supporting my publications and other software I've contributed to. There’s a bit of everything here: black holes, machine learning, laTex workflows.
 
 - **[precession](https://github.com/dgerosa/precession): Dynamics of spinning black-hole binaries with python.**
 Public python module to perform post-Newtornian evolution of precessing exploiting multi-timescale methods. The code is described carefully [arXiv:1605.01067](https://arxiv.org/abs/1605.01067) (v1) and [arXiv:2304.04801](https://arxiv.org/abs/2304.04801) (v2), and has by now been used in many papers by us and others.
@@ -149,22 +151,24 @@ Estimate your own effective-spin posterior with the recipe presented. Supporting
 
 ## Notes and tutorials
 
-Work in progress...
+If I don’t remember how to do something, sometimes I write it down here. Hopefully these are useful to others, some of them are probably (surely) outdated.
+
 
 ---
 
 ## Teaching
 
-Work in progress...
+Materials I developed for my classes. With a huge thanks to all my students!
 
 ---
 
 ## Events
 
-Work in progress...
+This is a log of conferences and workshops I organized, together with the related material (like slides) when available.
+
 
 ---
 
 ## Others
 
-Work in progress...
+Yet more things on this website...
