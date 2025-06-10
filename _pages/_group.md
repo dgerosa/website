@@ -72,6 +72,7 @@ Here are the amazing students who are currently completing research projects wit
 - **Leonardo Toti**, MSc thesis, Milano-Bicocca, 2025.
 - **Federico Quattrini**, BSc thesis, Milano-Bicocca, 2025.
 
+<br>
 ---
 <br>
 
@@ -158,4 +159,6 @@ Here are the amazing students who are currently completing research projects wit
 - **Riccardo Barbieri**. Cambridge and Pavia 2016
 - **Jakub Vosmera**. Cambridge 2015. Resulting publication: [arXiv:1612.05263](https://arxiv.org/abs/1612.05263).
 
+<br>
 ---
+<br>
