@@ -96,9 +96,9 @@ Here are the amazing students who are currently completing research projects wit
 
 ## Former MSc students
 
-- **Olga Pietrosanti**. Milano-Bicocca 2025
-- **Nicole Grillo**. Milano-Bicocca 2025
-- **Giovanni Giarda**. Milano-Bicocca 2025
+- **Olga Pietrosanti**. Milano-Bicocca 2025.
+- **Nicole Grillo**. Milano-Bicocca 2025.
+- **Giovanni Giarda**. Milano-Bicocca 2025.
 - **Federica Tettoni**. Milano-Bicocca 2024. Resulting publication: [arXiv:2409.07519](https://arxiv.org/abs/2409.07519).
 - **Cecilia Fabbri**. Milano-Bicocca 2024. Then PhD student at the University of Nottingham (UK). Resulting publication: [arXiv:2501.17233](https://arxiv.org/abs/2501.17233).
 - **Alessandro Pedrotti**. Milano-Bicocca 2024. Then PhD student at the University of Aix-Marseille (France). Resulting publication: [arXiv:2504.10482](https://arxiv.org/abs/2504.10482).
@@ -118,46 +118,46 @@ Here are the amazing students who are currently completing research projects wit
 
 ## Former BSc students
 
-- **Alessandro Malfasi**. Milano-Bicocca 2025
-- **Rocco Giugni**. Milano-Bicocca 2024
-- **Giulia Foroni**. Milano-Bicocca 2024
-- **Matilde Vergani**. Milano-Bicocca 2024
-- **Laura Tassoni**. Milano-Bicocca 2024
-- **Francesca Rattegni**. Milano-Bicocca 2024
-- **Matteo Pagani**. Milano-Bicocca 2024
-- **William Toscani**. Milano-Bicocca 2024
-- **Ava Bailey**. Milano-Bicocca and Duke 2024
-- **Alessandro Crespi**. Milano-Bicocca 2024
-- **Annalisa Amigoni**. Milano-Bicocca 2024
-- **Alice Palladino**. Milano-Bicocca 2024
-- **Lisa Merlo**. Milano-Bicocca 2024
-- **Serena Caslini**. Milano-Bicocca 2023
-- **Matteo Falcone**. Milano-Bicocca 2023
-- **Marco Bianchi**. Milano-Bicocca 2023
-- **Martin Gerini**. Milano-Bicocca 2023
-- **Federico Ravelli**. Milano-Bicocca 2023
-- **Simone Sferlazzo**. Milano-Bicocca 2023
+- **Alessandro Malfasi**. Milano-Bicocca 2025.
+- **Rocco Giugni**. Milano-Bicocca 2024.
+- **Giulia Foroni**. Milano-Bicocca 2024.
+- **Matilde Vergani**. Milano-Bicocca 2024.
+- **Laura Tassoni**. Milano-Bicocca 2024.
+- **Francesca Rattegni**. Milano-Bicocca 2024.
+- **Matteo Pagani**. Milano-Bicocca 2024.
+- **William Toscani**. Milano-Bicocca 2024.
+- **Ava Bailey**. Milano-Bicocca and Duke 2024.
+- **Alessandro Crespi**. Milano-Bicocca 2024.
+- **Annalisa Amigoni**. Milano-Bicocca 2024.
+- **Alice Palladino**. Milano-Bicocca 2024.
+- **Lisa Merlo**. Milano-Bicocca 2024.
+- **Serena Caslini**. Milano-Bicocca 2023.
+- **Matteo Falcone**. Milano-Bicocca 2023.
+- **Marco Bianchi**. Milano-Bicocca 2023.
+- **Martin Gerini**. Milano-Bicocca 2023.
+- **Federico Ravelli**. Milano-Bicocca 2023.
+- **Simone Sferlazzo**. Milano-Bicocca 2023.
 - **Malvina Bellotti**. Milano-Bicocca 2023. Resulting publication: [arXiv:2404.16930](https://arxiv.org/abs/2404.16930).
-- **Riccardo Bosoni De Martini**. Milano-Bicocca 2023
-- **Ludovica Carbone**. Milano-Bicocca 2023
-- **Harrison Blake**. Milano-Bicocca and Ohio State 2023
-- **Leonardo Toti**. Milano-Bicocca 2023
-- **Simone Restuccia**. Milano-Bicocca 2023
-- **Daniele Chirico**. Milano-Bicocca 2023
-- **Matteo Muriano**. Milano-Bicocca 2022
+- **Riccardo Bosoni De Martini**. Milano-Bicocca 2023.
+- **Ludovica Carbone**. Milano-Bicocca 2023.
+- **Harrison Blake**. Milano-Bicocca and Ohio State 2023.
+- **Leonardo Toti**. Milano-Bicocca 2023.
+- **Simone Restuccia**. Milano-Bicocca 2023.
+- **Daniele Chirico**. Milano-Bicocca 2023.
+- **Matteo Muriano**. Milano-Bicocca 2022.
 - **Lorenzo Zanga**. Milano-Bicocca 2022. Resulting publication: [arXiv:2304.13063](https://arxiv.org/abs/2304.13063).
-- **Oliver Rossi**. Milano-Bicocca 2022
-- **Sayan Neogi**. Birmingham and IISER Pune 2022
+- **Oliver Rossi**. Milano-Bicocca 2022.
+- **Sayan Neogi**. Birmingham and IISER Pune 2022.
 - **Diego Padilla Monroy**. Milano-Bicocca and Florida International 2022. Resulting publication: [arXiv:2304.04801](https://arxiv.org/abs/2304.04801).
-- **Sarah Al Humaikani**. Birmingham and ENSTA Paris 2022
-- **Nesibe Sivrioglu**. Milano-Bicocca and Grinell College 2022
+- **Sarah Al Humaikani**. Birmingham and ENSTA Paris 2022.
+- **Nesibe Sivrioglu**. Milano-Bicocca and Grinell College 2022.
 - **Cecilia Fabbri**. Milano-Bicocca 2022. Resulting publication: [arXiv:2202.08848](https://arxiv.org/abs/2202.08848).
-- **Meredith Vogel**. Birmingham and Missouri State 2021
+- **Meredith Vogel**. Birmingham and Missouri State 2021.
 - **Daria Gangardt**. Birmingham 2019. Resulting publication: [arXiv:2103.03894](https://arxiv.org/abs/2103.03894).
 - **Luca Reali**. Birmingham and Milano-Statale 2019. Resulting publication: [arXiv:2005.01747](https://arxiv.org/abs/2005.01747).
 - **Alica Lima**. Caltech and Bowdoin College 2018. Resulting publication: [arXiv:1811.05979](https://arxiv.org/abs/1811.05979).
 - **Katie Chamberlain**. Caltech and Montana State 2017. Resulting publication: [arXiv:1809.04799](https://arxiv.org/abs/1809.04799).
-- **Riccardo Barbieri**. Cambridge and Pavia 2016
+- **Riccardo Barbieri**. Cambridge and Pavia 2016.
 - **Jakub Vosmera**. Cambridge 2015. Resulting publication: [arXiv:1612.05263](https://arxiv.org/abs/1612.05263).
 
 <br>
