@@ -3,7 +3,7 @@ name: Update redirect targets
 on:
   schedule:
     - cron: '0 7 * * 1'  # Every Monday at 07:00 UTC
-  workflow_dispatch:     # Allows manual trigger via GitHub UI
+  workflow_dispatch:     # Allow manual trigger from GitHub UI
 
 jobs:
   update-redirects:
@@ -33,4 +33,25 @@ jobs:
           git config user.email "github-actions@github.com"
           git add ../_pages/*.md
           git commit -m "Auto-update redirect links [skip ci]" || echo "No changes to commit"
-          git push
+          git push || echo "No changes to push"
+
+      - name: Check if any .md files changed
+        id: check_diff
+        run: |
+          git diff --name-only HEAD~1 HEAD | grep '_pages/.*\.md' && echo "changed=true" >> $GITHUB_OUTPUT || echo "changed=false" >> $GITHUB_OUTPUT
+
+      - name: Create or update notification issue
+        if: steps.check_diff.outputs.changed == 'true'
+        run: |
+          ISSUE=$(gh issue list --search "Redirects updated" --state open --json number -q '.[0].number')
+          if [ -z "$ISSUE" ]; then
+            gh issue create \
+              --title "Redirects updated" \
+              --body "Redirect files were updated in [this commit](https://github.com/${{ github.repository }}/commit/${{ github.sha }})." \
+              --label automation
+          else
+            gh issue comment "$ISSUE" \
+              --body "Redirects were updated again in [this commit](https://github.com/${{ github.repository }}/commit/${{ github.sha }})."
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
