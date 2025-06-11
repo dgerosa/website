@@ -47,7 +47,6 @@ Machine learning and data mining are quickly becoming essential techniques in th
 
 **Previous editions:**
 
-- [Machine for Physics and Astronomy. 2024-2025](https://github.com/dgerosa/machinelearning4physics_bicocca_2025)
 - [Machine for Physics and Astronomy. 2023-2024](https://github.com/dgerosa/machinelearning4physics_bicocca_2024)
 
 ## General physics for Computer Science majors
