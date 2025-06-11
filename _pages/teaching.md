@@ -79,10 +79,5 @@ Astrolab is a first-year undergraduate class in observational astronomy. Unfortu
 
 ## Other teaching material
 
-- **[simplestrocket](/simplestrocket/)**: Stacked ball drop
-
-A neat calculation on dropping balls on top of each other, from my year 1 tutoring sessions in Birmingham.
-
-- **[nsphere](/nsphere/)**: Volumes of spheres in N-dimensions
-
-This is based on a “postdoc-lunch” discussion I lead at Caltech in 2018ish. I calculate the volume of spheres in many dimensions... Some surprises here.
+- **[simplestrocket](/simplestrocket/): Stacked ball drop.** A neat calculation on dropping balls on top of each other, from my year 1 tutoring sessions in Birmingham.
+- **[nsphere](/nsphere/): Volumes of spheres in N-dimensions.** This is based on a “postdoc-lunch” discussion I lead at Caltech in 2018ish. I calculate the volume of spheres in many dimensions... Some surprises here.
