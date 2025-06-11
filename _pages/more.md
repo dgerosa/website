@@ -19,7 +19,6 @@ Classes I have been teaching and the related material I developed. With a huge t
 - **[Notes.](/notes/)**
 If I don’t remember how to do something, sometimes I write it down here. Hopefully these are useful to others, some of them are probably (surely) outdated.
 
-
 - **[Conferences.](/conferences/)**
 List of conferences, workshops, and study groups I have organized, together with the related material (like slides) when available.
 
