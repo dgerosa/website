@@ -27,6 +27,6 @@ Here is my CV in pdf format:
 
 ## Metrics
 
-- [Publication list]({{ '/publications' | relative_url }})
-- [Talk list]({{ '/talks' | relative_url }}).
-- [Citation tracking]({{ '/citations' | relative_url }}).
+- [Publication list](/publications/)
+- [Talk list](/talks/).
+- [Citation tracking](/citations/).
