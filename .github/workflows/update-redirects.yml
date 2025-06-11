@@ -55,3 +55,9 @@ jobs:
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trigger Jekyll build
+        if: steps.check_diff.outputs.changed == 'true'
+        run: gh workflow run jekyll.yml
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
