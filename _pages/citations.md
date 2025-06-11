@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my citation count, with data from [ADS](/myads/) and [INSPIRE](/myinspire). The 
-
+Here is my citation count, with data from [ADS](/myads/) and [INSPIRE](/myinspire). The MAX column indicates the maximum value between the two databases for each entry.
 
 
 {% include_relative _citations.md %}
