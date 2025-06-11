@@ -55,7 +55,7 @@
 | **44** | Sperhake | 2017 | Long-lived inverse chirp signals from core collapse in massive scalar-tensor gravity | 43 | 48 | 48 |
 | **45** | Gerosa | 2015 | Missing black holes in brightest cluster galaxies as evidence for the occurrence of superkicks in nature | 41 | 47 | 47 |
 | **46** | Roebber | 2020 | Milky Way satellites shining bright in gravitational waves | 42 | 46 | 46 |
-| **47** | Trifir\o | 2016 | Distinguishing black-hole spin-orbit resonances by their gravitational wave signatures. II: Full parameter estimation | 35 | 41 | 41 |
+| **47** | Trifiro' | 2016 | Distinguishing black-hole spin-orbit resonances by their gravitational wave signatures. II: Full parameter estimation | 35 | 41 | 41 |
 | **48** | Moore | 2021 | Testing general relativity with gravitational-wave catalogs: the insidious nature of waveform systematics | 36 | 41 | 41 |
 | **49** | Tso | 2019 | Optimizing LIGO with LISA forewarnings to improve black-hole spectroscopy | 35 | 39 | 39 |
 | **50** | Mould | 2022 | Deep learning and Bayesian inference of gravitational-wave populations: hierarchical black-hole mergers | 36 | 39 | 39 |
@@ -152,24 +152,24 @@
 | PRD | 54 |
 | MNRAS | 12 |
 | CQG | 10 |
-| arXiv | 9 |
 | PRL | 9 |
+| arXiv | 9 |
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| Symmetry | 1 |
 | NatAstro | 1 |
-| IAU | 1 |
+| GRG | 1 |
+| Lincei | 1 |
 | CURJ | 1 |
 | iScience | 1 |
-| JoPCS | 1 |
-| PhD thesis | 1 |
-| AaSSP | 1 |
-| book | 1 |
-| Lincei | 1 |
 | JOSS | 1 |
-| GRG | 1 |
+| IAU | 1 |
+| JoPCS | 1 |
 | PRR | 1 |
+| AaSSP | 1 |
+| PhD thesis | 1 |
+| Symmetry | 1 |
+| book | 1 |
 | Moriond | 1 |
 
 ## arXiv Categories
