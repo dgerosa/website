@@ -1,0 +1,36 @@
+name: Update redirect targets
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'  # Every Monday at 07:00 UTC
+  workflow_dispatch:     # Allows manual trigger via GitHub UI
+
+jobs:
+  update-redirects:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: scripts
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run redirect update script
+        run: python update_redirects.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add ../_pages/*.md
+          git commit -m "Auto-update redirect links [skip ci]" || echo "No changes to commit"
+          git push
