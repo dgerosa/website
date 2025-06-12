@@ -13,7 +13,7 @@ redirect_from:
 > — Max Born (1962)
 
 
-Hi there. I am an associate professor at the University of Milano-Bicocca, Italy, where I lead a research group in gravitational-wave astronomy and relativistic astrophysics. We study the impact of Einstein’s general relativity on the astrophysical world. My group is supported by the European Research Council (ERC).
+Hi there. I am an associate professor at the University of Milano-Bicocca, Italy, where I lead a research group in gravitational-wave astronomy and relativistic astrophysics. We study the impact of Einstein’s general relativity on the astrophysical world. My group is supported by the European Research Council (ERC). 
 
 Besides gravity and all the rest, I love mountains (basically everything up there: hiking, climbing, skiing…), playing football (I mean good Italian “soccer” of course!) and rock music (Bruce is the Boss!).
 
