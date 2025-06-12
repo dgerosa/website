@@ -1,8 +1,8 @@
 ## Citation Summary
 
 - **Total ADS citations**: 8304
-- **Total INSPIRE citations**: 9029
-- **Total MAX citations**: 9081
+- **Total INSPIRE citations**: 9033
+- **Total MAX citations**: 9084
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
@@ -11,10 +11,10 @@
 |---|--------|------|-------|-----|---------|-----|
 | **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1290 | 1439 | 1439 |
 | **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 758 | 838 | 838 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 545 | 523 | 545 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 545 | 524 | 545 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 432 | 443 | 443 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 342 | 389 | 389 |
-| **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 332 | 356 | 356 |
+| **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 332 | 357 | 357 |
 | **7** | Gerosa | 2017 | Are merging black holes born from stellar collapse or previous mergers? | 283 | 304 | 304 |
 | **8** | Arun | 2022 | New horizons for fundamental physics with LISA | 234 | 271 | 271 |
 | **9** | Gerosa | 2018 | Spin orientations of merging black holes formed from the evolution of stellar binaries | 191 | 215 | 215 |
@@ -24,7 +24,7 @@
 | **13** | Varma | 2019 | High-accuracy mass, spin, and recoil predictions of generic black-hole merger remnants | 130 | 142 | 142 |
 | **14** | Kesden | 2015 | Effective potentials and morphological transitions for binary black-hole spin precession | 111 | 127 | 127 |
 | **15** | Ng | 2018 | Gravitational-wave astrophysics with effective-spin measurements: asymmetries and selection biases | 104 | 117 | 117 |
-| **16** | Afshordi | 2023 | Waveform modelling for the Laser Interferometer Space Antenna | 98 | 113 | 113 |
+| **16** | Afshordi | 2023 | Waveform modelling for the Laser Interferometer Space Antenna | 98 | 114 | 114 |
 | **17** | Islam | 2021 | Eccentric binary black hole surrogate models for the gravitational waveform and remnant properties: comparable mass, nonspinning case | 108 | 113 | 113 |
 | **18** | Baibhav | 2019 | Gravitational-wave detection rates for compact binaries formed in isolation: LIGO/Virgo O3 and beyond | 99 | 113 | 113 |
 | **19** | Vitale | 2020 | Inferring the properties of a population of compact binaries in presence of selection effects | 105 | 109 | 109 |
@@ -64,8 +64,8 @@
 | **53** | Gerosa | 2020 | Gravitational-wave selection effects using neural-network classifiers | 31 | 35 | 35 |
 | **54** | Rosca-Mead | 2020 | Core collapse in massive scalar-tensor gravity | 27 | 32 | 32 |
 | **55** | Gangardt | 2024 | pAGN: the one-stop solution for AGN disc modeling | 28 | 29 | 29 |
-| **56** | Wong | 2019 | Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: a case study. | 25 | 29 | 29 |
-| **57** | Santini | 2023 | Black-hole mergers in disk-like environments could explain the observed $$q-\chi_\mathrm{eff}$$ correlation | 26 | 28 | 28 |
+| **56** | Santini | 2023 | Black-hole mergers in disk-like environments could explain the observed $$q-\chi_\mathrm{eff}$$ correlation | 26 | 29 | 29 |
+| **57** | Wong | 2019 | Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: a case study. | 25 | 29 | 29 |
 | **58** | Gerosa | 2021 | High mass but low spin: an exclusion region to rule out hierarchical black-hole mergers as a mechanism to populate the pair-instability mass gap | 25 | 27 | 27 |
 | **59** | Rosca-Mead | 2020 | Structure of neutron stars in massive scalar-tensor gravity | 22 | 26 | 26 |
 | **60** | Chamberlain | 2019 | Frequency-domain waveform approximants capturing Doppler shifts | 24 | 26 | 26 |
@@ -152,25 +152,25 @@
 | PRD | 54 |
 | MNRAS | 12 |
 | CQG | 10 |
-| PRL | 9 |
 | arXiv | 9 |
+| PRL | 9 |
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| Symmetry | 1 |
-| GRG | 1 |
-| IAU | 1 |
-| JOSS | 1 |
-| PhD thesis | 1 |
-| Lincei | 1 |
-| AaSSP | 1 |
-| book | 1 |
-| PRR | 1 |
 | NatAstro | 1 |
-| Moriond | 1 |
-| iScience | 1 |
+| GRG | 1 |
 | CURJ | 1 |
+| Lincei | 1 |
+| Symmetry | 1 |
+| book | 1 |
+| JOSS | 1 |
+| iScience | 1 |
+| PRR | 1 |
+| IAU | 1 |
 | JoPCS | 1 |
+| Moriond | 1 |
+| PhD thesis | 1 |
+| AaSSP | 1 |
 
 ## arXiv Categories
 
