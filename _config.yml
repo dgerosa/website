@@ -13,7 +13,7 @@ title                    : "davidegerosa.com"
 title_separator          : "-"
 name                     : &name "Davide Gerosa"
 description              : &description "University professor - research in gravitational waves and black holes."
-url                      : https://davidegerosa.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://website-8dq.pages.dev # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dgerosa/website"
 
