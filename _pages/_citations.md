@@ -152,25 +152,25 @@
 | PRD | 54 |
 | MNRAS | 12 |
 | CQG | 10 |
-| arXiv | 9 |
 | PRL | 9 |
+| arXiv | 9 |
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| NatAstro | 1 |
-| GRG | 1 |
-| CURJ | 1 |
-| Lincei | 1 |
-| Symmetry | 1 |
-| book | 1 |
-| JOSS | 1 |
-| iScience | 1 |
-| PRR | 1 |
-| IAU | 1 |
-| JoPCS | 1 |
 | Moriond | 1 |
+| Lincei | 1 |
 | PhD thesis | 1 |
+| Symmetry | 1 |
 | AaSSP | 1 |
+| NatAstro | 1 |
+| PRR | 1 |
+| JOSS | 1 |
+| GRG | 1 |
+| JoPCS | 1 |
+| IAU | 1 |
+| iScience | 1 |
+| CURJ | 1 |
+| book | 1 |
 
 ## arXiv Categories
 

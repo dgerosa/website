@@ -133,7 +133,7 @@ Open source code.
 **81.**
 *Catalog variance of testing general relativity with gravitational-wave data*.\
 C. Pacilio, **D. Gerosa**, S. Bhagwat.\
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.L081302" style="color: inherit; text-decoration: none;">Physical Review Dl 109 (2024) L081302</a>. <a href="https://arxiv.org/abs/2310.03811" style="color: inherit; text-decoration: none;">arXiv:2310.03811 [gr-qc]</a>.
+<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.L081302" style="color: inherit; text-decoration: none;">Physical Review D 109 (2024) L081302</a>. <a href="https://arxiv.org/abs/2310.03811" style="color: inherit; text-decoration: none;">arXiv:2310.03811 [gr-qc]</a>.
  
 **80.**
 *Calibrating signal-to-noise ratio detection thresholds using gravitational-wave catalogs*.\
@@ -179,7 +179,7 @@ V. De Renzis, **D. Gerosa**, M. Mould, R. Buscicchio, L. Zanga.\
 **72.**
 *Inferring, not just detecting: metrics for high-redshift sources observed with third-generation gravitational-wave detectors*.\
 M. Mancarella, F. Iacovelli, **D. Gerosa**.\
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.L101302" style="color: inherit; text-decoration: none;">Physical Review Dl 107 (2023) L101302</a>. <a href="https://arxiv.org/abs/2303.16323" style="color: inherit; text-decoration: none;">arXiv:2303.16323 [gr-qc]</a>.
+<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.L101302" style="color: inherit; text-decoration: none;">Physical Review D 107 (2023) L101302</a>. <a href="https://arxiv.org/abs/2303.16323" style="color: inherit; text-decoration: none;">arXiv:2303.16323 [gr-qc]</a>.
  
 **71.**
 *Eccentricity or spin precession? Distinguishing subdominant effects in gravitational-wave data*.\
@@ -346,7 +346,7 @@ A. Gupta, **D. Gerosa**, K. G. Arun, E. Berti, W. Farr, B. S. Sathyaprakash.\
 **39.**
 *Milky Way satellites shining bright in gravitational waves*.\
 E. Roebber, R. Buscicchio, A. Vecchio, C. J. Moore, A. Klein, V. Korol, S. Toonen, **D. Gerosa**, J. Goldstein, S. M. Gaebel, T. E. Woods.\
-<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab8ac9" style="color: inherit; text-decoration: none;">Astrophysical Journall 894 (2020) L15</a>. <a href="https://arxiv.org/abs/2002.10465" style="color: inherit; text-decoration: none;">arXiv:2002.10465 [astro-ph.GA]</a>.
+<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab8ac9" style="color: inherit; text-decoration: none;">Astrophysical Journal 894 (2020) L15</a>. <a href="https://arxiv.org/abs/2002.10465" style="color: inherit; text-decoration: none;">arXiv:2002.10465 [astro-ph.GA]</a>.
  
 **38.**
 *Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes*.\
@@ -381,13 +381,13 @@ V. Baibhav, E. Berti, **D. Gerosa**, M. Mapelli, N. Giacobbo, Y. Bouffanais, U. 
 **32.**
 *Escape speed of stellar clusters from multiple-generation black-hole mergers in the upper mass gap*.\
 **D. Gerosa**, E. Berti.\
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.041301" style="color: inherit; text-decoration: none;">Physical Review Drc 100 (2019) 041301R</a>. <a href="https://arxiv.org/abs/1906.05295" style="color: inherit; text-decoration: none;">arXiv:1906.05295 [astro-ph.HE]</a>.\
+<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.041301" style="color: inherit; text-decoration: none;">Physical Review D 100 (2019) 041301R</a>. <a href="https://arxiv.org/abs/1906.05295" style="color: inherit; text-decoration: none;">arXiv:1906.05295 [astro-ph.HE]</a>.\
 Covered by press release.
  
 **31.**
 *Are stellar-mass black-hole binaries too quiet for LISA?*.\
 C. J. Moore, **D. Gerosa**, A. Klein.\
-<a href="https://doi.org/10.1093/mnrasl/slz104" style="color: inherit; text-decoration: none;">Monthly Notices of the Royal Astronomical Societyl 488 (2019) L94-L98</a>. <a href="https://arxiv.org/abs/1905.11998" style="color: inherit; text-decoration: none;">arXiv:1905.11998 [astro-ph.HE]</a>.
+<a href="https://doi.org/10.1093/mnrasl/slz104" style="color: inherit; text-decoration: none;">Monthly Notices of the Royal Astronomical Society 488 (2019) L94-L98</a>. <a href="https://arxiv.org/abs/1905.11998" style="color: inherit; text-decoration: none;">arXiv:1905.11998 [astro-ph.HE]</a>.
  
 **30.**
 *Optimizing LIGO with LISA forewarnings to improve black-hole spectroscopy*.\
@@ -545,7 +545,7 @@ Covered by press release.
 **1.**
 *Black hole mergers: do gas discs lead to spin alignment?*.\
 G. Lodato, **D. Gerosa**.\
-<a href="http://dx.doi.org/10.1093/mnrasl/sls018" style="color: inherit; text-decoration: none;">Monthly Notices of the Royal Astronomical Societyl 429 (2013) L30-L34</a>. <a href="https://arxiv.org/abs/1211.0284" style="color: inherit; text-decoration: none;">arXiv:1211.0284 [astro-ph.CO]</a>.
+<a href="http://dx.doi.org/10.1093/mnrasl/sls018" style="color: inherit; text-decoration: none;">Monthly Notices of the Royal Astronomical Society 429 (2013) L30-L34</a>. <a href="https://arxiv.org/abs/1211.0284" style="color: inherit; text-decoration: none;">arXiv:1211.0284 [astro-ph.CO]</a>.
  
 
 ---
