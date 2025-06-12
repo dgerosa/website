@@ -1,17 +1,17 @@
 ## Citation Summary
 
 - **Total ADS citations**: 8308
-- **Total INSPIRE citations**: 9033
-- **Total MAX citations**: 9083
+- **Total INSPIRE citations**: 9031
+- **Total MAX citations**: 9082
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
 
 | # | Author | Year | Title | ADS | INSPIRE | MAX |
 |---|--------|------|-------|-----|---------|-----|
-| **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1291 | 1439 | 1439 |
+| **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1291 | 1438 | 1438 |
 | **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 758 | 838 | 838 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 545 | 524 | 545 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 545 | 523 | 545 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 432 | 443 | 443 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 344 | 389 | 389 |
 | **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 332 | 357 | 357 |
@@ -152,25 +152,25 @@
 | PRD | 54 |
 | MNRAS | 12 |
 | CQG | 10 |
-| arXiv | 9 |
 | PRL | 9 |
+| arXiv | 9 |
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| iScience | 1 |
-| Symmetry | 1 |
-| book | 1 |
-| Moriond | 1 |
-| JOSS | 1 |
-| JoPCS | 1 |
-| PhD thesis | 1 |
-| IAU | 1 |
-| GRG | 1 |
-| Lincei | 1 |
-| NatAstro | 1 |
-| CURJ | 1 |
-| PRR | 1 |
 | AaSSP | 1 |
+| JoPCS | 1 |
+| GRG | 1 |
+| PRR | 1 |
+| NatAstro | 1 |
+| IAU | 1 |
+| JOSS | 1 |
+| CURJ | 1 |
+| Symmetry | 1 |
+| Lincei | 1 |
+| PhD thesis | 1 |
+| book | 1 |
+| iScience | 1 |
+| Moriond | 1 |
 
 ## arXiv Categories
 
