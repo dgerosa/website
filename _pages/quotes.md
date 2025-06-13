@@ -13,7 +13,7 @@ Here I collect some quotations on General Relativity, and science in general, wh
 
 ## Max Born
 
-> The foundation of General Relativity appeared to me then, and it still does, the greatest feat of human thinking about nature, the most amazing combination of philosophical penetration, physical intuition, and mathematical skill… It appealed to me like a great work of art.  
+> "The foundation of General Relativity appeared to me then, and it still does, the greatest feat of human thinking about nature, the most amazing combination of philosophical penetration, physical intuition, and mathematical skill… It appealed to me like a great work of art."
 >
 > — *Max Born, Bern’s Colloquium, 1955. Available in: Max Born, Physics in My Generation, Springer-Verlag New York (1968)*
 
