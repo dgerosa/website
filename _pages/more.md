@@ -10,20 +10,20 @@ author_profile: true
 
 Here you'll find:
 
-- **[Codes.](/codes/)** 
+- **[Codes](/codes/)**
 Public codes and datasets supporting my publications and other software I've contributed to. There’s a bit of everything here: black holes, machine learning, laTex workflows.
 
-- **[Teaching.](/teaching/)**
+- **[Teaching](/teaching/)**
 Classes I have been teaching and the related material I developed. With a huge thanks to all my students!
 
-- **[Notes.](/notes/)**
+- **[Notes](/notes/)**
 If I don’t remember how to do something, sometimes I write it down here. Hopefully these are useful to others, some of them are probably (surely) outdated.
 
-- **[Conferences.](/conferences/)**
+- **[Conferences](/conferences/)**
 List of conferences, workshops, and study groups I have organized, together with the related material (like slides) when available.
 
 - **[Quotes](/quotes/)**
-Here I collect some quotations on General Relativity, and science in general, which are particularly dear to me.
+Here I collect some quotations on General Relativity, science in general, and more (like music), which are particularly dear to me.
 
-- **[Other.](/other/)**
+- **[Other](/other/)**
 Yet more things on this website...
