@@ -22,7 +22,7 @@ If I don’t remember how to do something, sometimes I write it down here. Hopef
 - **[Conferences.](/conferences/)**
 List of conferences, workshops, and study groups I have organized, together with the related material (like slides) when available.
 
--**[Quotes](/quotes/)**
+- **[Quotes](/quotes/)**
 Here I collect some quotations on General Relativity, and science in general, which are particularly dear to me.
 
 - **[Other.](/other/)**
