@@ -1,5 +1,5 @@
 ## Summary
-**8** [Submitted papers](#submitted-papers)\
+**9** [Submitted papers](#submitted-papers)\
 **96** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **12** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
@@ -8,6 +8,11 @@
 
 ## Submitted papers
 
+**9.**
+*Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters*.\
+D. Tornotti, M. Fossati, M. Fumagalli, **D. Gerosa**, L. Pizzuti, F. Arrigoni Battaia.\
+<a href="https://arxiv.org/abs/2506.10083" style="color: inherit; text-decoration: none;">arXiv:2506.10083 [astro-ph.GA]</a>.
+ 
 **8.**
 *Sequential simulation-based inference for extreme mass ratio inspirals*.\
 P. S. Cole, J. Alvey, L. Speri, C. Weniger, U. Bhardwaj, **D. Gerosa**, G. Bertone.\

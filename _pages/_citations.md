@@ -123,9 +123,10 @@
 | **112** | Gerosa | 2018 | Reanalysis of LIGO black-hole coalescences with alternative prior assumptions | 2 | 2 | 2 |
 | **113** | Stegmann | 2025 | Distinguishing the origin of eccentric black-hole mergers with gravitational-wave spin measurements | 0 | 1 | 1 |
 | **114** | Gerosa | 2015 | Rival families: waveforms from resonant black-hole binaries as probes of their astrophysical formation history | 0 | 1 | 1 |
-| **115** | Cole | 2025 | Sequential simulation-based inference for extreme mass ratio inspirals | 0 | 0 | 0 |
-| **116** | Gerosa | 2016 | Source modelling at the dawn of gravitational-wave astronomy | 0 | 0 | 0 |
-| **117** | Gerosa | 2014 | Spin alignment effects in black hole binaries | 0 | 0 | 0 |
+| **115** | Tornotti | 2025 | Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters | 0 | 0 | 0 |
+| **116** | Cole | 2025 | Sequential simulation-based inference for extreme mass ratio inspirals | 0 | 0 | 0 |
+| **117** | Gerosa | 2016 | Source modelling at the dawn of gravitational-wave astronomy | 0 | 0 | 0 |
+| **118** | Gerosa | 2014 | Spin alignment effects in black hole binaries | 0 | 0 | 0 |
 
 ## Papers per year
 
@@ -143,7 +144,7 @@
 | 2022 | 10 |
 | 2023 | 12 |
 | 2024 | 11 |
-| 2025 | 13 |
+| 2025 | 14 |
 
 ## Papers per journal
 
@@ -151,26 +152,26 @@
 |---------|--------------|
 | PRD | 54 |
 | MNRAS | 12 |
+| arXiv | 10 |
 | CQG | 10 |
 | PRL | 9 |
-| arXiv | 9 |
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| JOSS | 1 |
-| IAU | 1 |
-| Lincei | 1 |
-| PRR | 1 |
-| book | 1 |
-| iScience | 1 |
-| JoPCS | 1 |
-| Moriond | 1 |
-| AaSSP | 1 |
-| GRG | 1 |
-| Symmetry | 1 |
 | NatAstro | 1 |
-| PhD thesis | 1 |
+| iScience | 1 |
+| AaSSP | 1 |
+| Symmetry | 1 |
+| GRG | 1 |
+| JOSS | 1 |
+| PRR | 1 |
+| Lincei | 1 |
+| Moriond | 1 |
+| JoPCS | 1 |
 | CURJ | 1 |
+| book | 1 |
+| PhD thesis | 1 |
+| IAU | 1 |
 
 ## Papers per arXiv category
 
@@ -178,6 +179,6 @@
 |----------|--------------|
 | gr-qc | 63 |
 | astro-ph.HE | 39 |
-| astro-ph.GA | 8 |
+| astro-ph.GA | 9 |
 | astro-ph.CO | 2 |
 | astro-ph.IM | 1 |
