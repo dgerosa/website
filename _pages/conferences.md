@@ -19,8 +19,7 @@ List of conferences, workshops, and study groups I have organized, together with
 - **Conference: [Challenges and future perspectives in gravitational-wave astronomy: O4 and beyond](https://www.lorentzcenter.nl/challenges-and-future-perspectives-in-gravitational-wave-astronomy-o4-and-beyond.html)**  
   Conference at the Lorentz Center (Leiden, the Netherlands) on "new" GW things, with O4 predictions.
 
-- **Workshop: [Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)](/lautaro/)**  
-- **Workshop: [Theoretical Horizons in Unraveling Relativity, Astrophysics, and Mergers (THURAM)](../?p=6295)**  
+- **Workshops: [Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)](/lautaro/)** and **[Theoretical Horizons in Unraveling Relativity, Astrophysics, and Mergers (THURAM)](../?p=6295)**  
   Mini-workshops with Andrea Maselli’s group from GSSI L’Aquila supporting our joint PRIN grant.
 
 - **MSc school: [Masterclass in big data within science and industry](https://sites.google.com/unimib.it/bigdatamasterclass)**  
