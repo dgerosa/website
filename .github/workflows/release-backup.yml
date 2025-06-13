@@ -1,8 +1,12 @@
-name: Backup Jekyll Site on Every Commit
+name: Daily Jekyll Backup
 
 on:
-  push:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at 00:00 UTC
+  workflow_dispatch:      # Optional: allows manual trigger from GitHub UI
+
+permissions:
+  contents: write  # Needed to create releases
 
 jobs:
   backup:
@@ -29,20 +33,18 @@ jobs:
         run: |
           tar -czf jekyll-site.tar.gz -C _site .
 
-      - name: Get timestamp
-        id: timestamp
-        run: |
-          echo "timestamp=$(date -u +'%Y-%m-%d-%H-%M-%S')" >> "$GITHUB_OUTPUT"
+      - name: Get date
+        id: datestamp
+        run: echo "date=$(date -u +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
 
-      - name: Create GitHub release with timestamp
+      - name: Create GitHub release with date
         uses: ncipollo/release-action@v1
         with:
-          tag: ${{ steps.timestamp.outputs.timestamp }}
-          name: "Backup ${{ steps.timestamp.outputs.timestamp }}"
+          tag: ${{ steps.datestamp.outputs.date }}
+          name: "Backup ${{ steps.datestamp.outputs.date }}"
           body: |
-            Automatic backup created on ${{ steps.timestamp.outputs.timestamp }} UTC
+            Daily automatic backup for ${{ steps.datestamp.outputs.date }} UTC
             Commit: ${{ github.sha }}
-            Message: ${{ github.event.head_commit.message }}
           artifacts: jekyll-site.tar.gz
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
