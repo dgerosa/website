@@ -496,7 +496,7 @@ Open source code.
  
 **10.**
 *Distinguishing black-hole spin-orbit resonances by their gravitational wave signatures. II: Full parameter estimation*.\
-D. s, R. O'Shaughnessy, **D. Gerosa**, E. Berti, M. Kesden, T. Littenberg, U. Sperhake.\
+D. Trifir\`o, R. O'Shaughnessy, **D. Gerosa**, E. Berti, M. Kesden, T. Littenberg, U. Sperhake.\
 <a href="http://dx.doi.org/10.1103/PhysRevD.93.044071" style="color: inherit; text-decoration: none;">Physical Review D 93 (2016) 044071</a>. <a href="https://arxiv.org/abs/1507.05587" style="color: inherit; text-decoration: none;">arXiv:1507.05587 [gr-qc]</a>.
  
 **9.**

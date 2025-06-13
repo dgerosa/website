@@ -1,8 +1,8 @@
 ## Citation Summary
 
 - **Total ADS citations**: 8308
-- **Total INSPIRE citations**: 9031
-- **Total MAX citations**: 9082
+- **Total INSPIRE citations**: 9035
+- **Total MAX citations**: 9086
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
@@ -27,14 +27,14 @@
 | **16** | Afshordi | 2023 | Waveform modelling for the Laser Interferometer Space Antenna | 98 | 114 | 114 |
 | **17** | Islam | 2021 | Eccentric binary black hole surrogate models for the gravitational waveform and remnant properties: comparable mass, nonspinning case | 108 | 113 | 113 |
 | **18** | Baibhav | 2019 | Gravitational-wave detection rates for compact binaries formed in isolation: LIGO/Virgo O3 and beyond | 99 | 113 | 113 |
-| **19** | Vitale | 2020 | Inferring the properties of a population of compact binaries in presence of selection effects | 105 | 109 | 109 |
+| **19** | Vitale | 2020 | Inferring the properties of a population of compact binaries in presence of selection effects | 105 | 110 | 110 |
 | **20** | Gerosa | 2019 | Escape speed of stellar clusters from multiple-generation black-hole mergers in the upper mass gap | 101 | 109 | 109 |
 | **21** | Gerosa | 2019 | Multiband gravitational-wave event rates and stellar physics | 103 | 109 | 109 |
 | **22** | Vitale | 2017 | Impact of Bayesian priors on the characterization of binary black hole coalescences | 84 | 94 | 94 |
 | **23** | Gerosa | 2016 | PRECESSION: Dynamics of spinning black-hole binaries with python | 87 | 94 | 94 |
 | **24** | Wysocki | 2018 | Explaining LIGO's observations via isolated binary evolution with natal kicks | 88 | 92 | 92 |
 | **25** | Moore | 2019 | Are stellar-mass black-hole binaries too quiet for LISA? | 82 | 91 | 91 |
-| **26** | Taylor | 2018 | Mining gravitational-wave catalogs to understand binary stellar evolution: a new hierarchical bayesian framework | 86 | 87 | 87 |
+| **26** | Taylor | 2018 | Mining gravitational-wave catalogs to understand binary stellar evolution: a new hierarchical bayesian framework | 86 | 88 | 88 |
 | **27** | Baibhav | 2020 | The mass gap, the spin gap, and the origin of merging binary black holes | 66 | 81 | 81 |
 | **28** | O'Shaughnessy | 2017 | Inferences about supernova physics from gravitational-wave measurements: GW151226 spin misalignment as an indicator of strong black-hole natal kicks | 73 | 80 | 80 |
 | **29** | Bouffanais | 2019 | Constraining the fraction of binary black holes formed in isolation and young star clusters with gravitational-wave data | 73 | 75 | 75 |
@@ -56,7 +56,7 @@
 | **45** | Gerosa | 2015 | Missing black holes in brightest cluster galaxies as evidence for the occurrence of superkicks in nature | 41 | 47 | 47 |
 | **46** | Roebber | 2020 | Milky Way satellites shining bright in gravitational waves | 42 | 46 | 46 |
 | **47** | Moore | 2021 | Testing general relativity with gravitational-wave catalogs: the insidious nature of waveform systematics | 36 | 41 | 41 |
-| **48** | s | 2016 | Distinguishing black-hole spin-orbit resonances by their gravitational wave signatures. II: Full parameter estimation | 35 | 41 | 41 |
+| **48** | Trifiro' | 2016 | Distinguishing black-hole spin-orbit resonances by their gravitational wave signatures. II: Full parameter estimation | 35 | 41 | 41 |
 | **49** | Mould | 2022 | Deep learning and Bayesian inference of gravitational-wave populations: hierarchical black-hole mergers | 36 | 39 | 39 |
 | **50** | Mould | 2022 | Which black hole formed first? Mass-ratio reversal in massive binary stars from gravitational-wave data | 37 | 39 | 39 |
 | **51** | Tso | 2019 | Optimizing LIGO with LISA forewarnings to improve black-hole spectroscopy | 35 | 39 | 39 |
@@ -81,8 +81,8 @@
 | **70** | Sperhake | 2020 | Amplification of superkicks in black-hole binaries through orbital eccentricity | 17 | 19 | 19 |
 | **71** | Fumagalli | 2023 | Spin-eccentricity interplay in merging binary black holes | 15 | 18 | 18 |
 | **72** | Moore | 2021 | Population-informed priors in gravitational-wave astronomy | 18 | 17 | 18 |
-| **73** | Mancarella | 2023 | Inferring, not just detecting: metrics for high-redshift sources observed with third-generation gravitational-wave detectors | 13 | 17 | 17 |
-| **74** | Fumagalli | 2024 | Residual eccentricity as a systematic uncertainty on the formation channels of binary black holes | 15 | 16 | 16 |
+| **73** | Fumagalli | 2024 | Residual eccentricity as a systematic uncertainty on the formation channels of binary black holes | 15 | 17 | 17 |
+| **74** | Mancarella | 2023 | Inferring, not just detecting: metrics for high-redshift sources observed with third-generation gravitational-wave detectors | 13 | 17 | 17 |
 | **75** | Nealon | 2022 | The Bardeen-Petterson effect in accreting supermassive black-hole binaries: disc breaking and critical obliquity | 16 | 11 | 16 |
 | **76** | Gangardt | 2021 | A taxonomy of black-hole binary spin precession and nutation | 13 | 16 | 16 |
 | **77** | Boschini | 2025 | Orbital eccentricity in general relativity from catastrophe theory | 14 | 15 | 15 |
@@ -112,11 +112,11 @@
 | **101** | Steinle | 2024 | Probing AGN jet precession with LISA | 4 | 2 | 4 |
 | **102** | Varma | 2019 | The binary black hole explorer: on-the-fly visualizations of precessing binary black holes | 3 | 4 | 4 |
 | **103** | Nobili | 2025 | Ringdown mode amplitudes of precessing binary black holes | 3 | 3 | 3 |
-| **104** | Fumagalli | 2025 | Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory | 2 | 3 | 3 |
-| **105** | Chiaberge | 2025 | A confirmed recoiling supermassive black hole in a powerful quasar | 3 | 2 | 3 |
-| **106** | Mancarella | 2025 | Sampling the full hierarchical population posterior distribution in gravitational-wave astronomy | 2 | 3 | 3 |
-| **107** | Kritos | 2024 | Minimum gas mass accreted by spinning intermediate-mass black holes in stellar clusters | 2 | 3 | 3 |
-| **108** | Pedrotti | 2025 | Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey | 2 | 2 | 2 |
+| **104** | Pedrotti | 2025 | Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey | 2 | 3 | 3 |
+| **105** | Fumagalli | 2025 | Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory | 2 | 3 | 3 |
+| **106** | Chiaberge | 2025 | A confirmed recoiling supermassive black hole in a powerful quasar | 3 | 2 | 3 |
+| **107** | Mancarella | 2025 | Sampling the full hierarchical population posterior distribution in gravitational-wave astronomy | 2 | 3 | 3 |
+| **108** | Kritos | 2024 | Minimum gas mass accreted by spinning intermediate-mass black holes in stellar clusters | 2 | 3 | 3 |
 | **109** | Tenorio | 2025 | Scalable data-analysis framework for long-duration gravitational waves from compact binaries using short Fourier transforms. | 2 | 2 | 2 |
 | **110** | Boschini | 2024 | Astrophysical and relativistic modeling of the recoiling black-hole candidate in quasar 3C 186 | 2 | 1 | 2 |
 | **111** | Gerosa | 2023 | QLUSTER: quick clusters of merging binary black holes | 2 | 0 | 2 |
@@ -127,7 +127,7 @@
 | **116** | Gerosa | 2016 | Source modelling at the dawn of gravitational-wave astronomy | 0 | 0 | 0 |
 | **117** | Gerosa | 2014 | Spin alignment effects in black hole binaries | 0 | 0 | 0 |
 
-## Citations per Year
+## Papers per year
 
 | Year | Paper Count |
 |------|--------------|
@@ -145,7 +145,7 @@
 | 2024 | 11 |
 | 2025 | 13 |
 
-## Journals
+## Papers per journal
 
 | Journal | Paper Count |
 |---------|--------------|
@@ -157,22 +157,22 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| AaSSP | 1 |
-| JoPCS | 1 |
-| GRG | 1 |
-| PRR | 1 |
-| NatAstro | 1 |
-| IAU | 1 |
 | JOSS | 1 |
-| CURJ | 1 |
-| Symmetry | 1 |
+| IAU | 1 |
 | Lincei | 1 |
-| PhD thesis | 1 |
+| PRR | 1 |
 | book | 1 |
 | iScience | 1 |
+| JoPCS | 1 |
 | Moriond | 1 |
+| AaSSP | 1 |
+| GRG | 1 |
+| Symmetry | 1 |
+| NatAstro | 1 |
+| PhD thesis | 1 |
+| CURJ | 1 |
 
-## arXiv Categories
+## Papers per arXiv category
 
 | Category | Paper Count |
 |----------|--------------|
