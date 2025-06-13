@@ -1,0 +1,48 @@
+name: Backup Jekyll Site on Every Commit
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Archive _site
+        run: |
+          tar -czf jekyll-site.tar.gz -C _site .
+
+      - name: Get timestamp
+        id: timestamp
+        run: |
+          echo "timestamp=$(date -u +'%Y-%m-%d-%H-%M-%S')" >> "$GITHUB_OUTPUT"
+
+      - name: Create GitHub release with timestamp
+        uses: ncipollo/release-action@v1
+        with:
+          tag: ${{ steps.timestamp.outputs.timestamp }}
+          name: "Backup ${{ steps.timestamp.outputs.timestamp }}"
+          body: |
+            Automatic backup created on ${{ steps.timestamp.outputs.timestamp }} UTC
+            Commit: ${{ github.sha }}
+            Message: ${{ github.event.head_commit.message }}
+          artifacts: jekyll-site.tar.gz
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
