@@ -1,6 +1,6 @@
 ## Summary
-**9** [Submitted papers](#submitted-papers)\
-**96** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
+**8** [Submitted papers](#submitted-papers)\
+**97** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **12** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
 
@@ -8,35 +8,30 @@
 
 ## Submitted papers
 
-**9.**
+**8.**
 *Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters*.\
 D. Tornotti, M. Fossati, M. Fumagalli, **D. Gerosa**, L. Pizzuti, F. Arrigoni Battaia.\
 <a href="https://arxiv.org/abs/2506.10083" style="color: inherit; text-decoration: none;">arXiv:2506.10083 [astro-ph.GA]</a>.
  
-**8.**
+**7.**
 *Sequential simulation-based inference for extreme mass ratio inspirals*.\
 P. S. Cole, J. Alvey, L. Speri, C. Weniger, U. Bhardwaj, **D. Gerosa**, G. Bertone.\
 <a href="https://arxiv.org/abs/2505.16795" style="color: inherit; text-decoration: none;">arXiv:2505.16795 [gr-qc]</a>.
  
-**7.**
+**6.**
 *Distinguishing the origin of eccentric black-hole mergers with gravitational-wave spin measurements*.\
 J. Stegmann, **D. Gerosa**, I. Romero-Shaw, G. Fumagalli, H. Tagawa, L. Zwick.\
 <a href="https://arxiv.org/abs/2505.13589" style="color: inherit; text-decoration: none;">arXiv:2505.13589 [astro-ph.HE]</a>.
  
-**6.**
+**5.**
 *Ringdown mode amplitudes of precessing binary black holes*.\
 F. Nobili, S. Bhagwat, C. Pacilio, **D. Gerosa**.\
 <a href="https://arxiv.org/abs/2504.17021" style="color: inherit; text-decoration: none;">arXiv:2504.17021 [gr-qc]</a>.
  
-**5.**
+**4.**
 *Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey*.\
 A. Pedrotti, M. Mancarella, J. Bel, **D. Gerosa**.\
 <a href="https://arxiv.org/abs/2504.10482" style="color: inherit; text-decoration: none;">arXiv:2504.10482 [astro-ph.CO]</a>.
- 
-**4.**
-*Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory*.\
-G. Fumagalli, N. Loutrel, **D. Gerosa**, M. Boschini.\
-<a href="https://arxiv.org/abs/2502.06952" style="color: inherit; text-decoration: none;">arXiv:2502.06952 [gr-qc]</a>.
  
 **3.**
 *A confirmed recoiling supermassive black hole in a powerful quasar*.\
@@ -58,6 +53,11 @@ A. Klein, G. Pratten, R. Buscicchio, P. Schmidt, C. J. Moore, E. Finch, A. Bonin
 
 ## Papers published in major peer-reviewed journals
 
+**97.**
+*Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory*.\
+G. Fumagalli, N. Loutrel, **D. Gerosa**, M. Boschini.\
+Physical Review D in press. <a href="https://arxiv.org/abs/2502.06952" style="color: inherit; text-decoration: none;">arXiv:2502.06952 [gr-qc]</a>.
+ 
 **96.**
 *Reconstructing parametric gravitational-wave population fits from non-parametric results without refitting the data*.\
 C. M. Fabbri, **D. Gerosa**, A. Santini, M. Mould, A. Toubiana, J. Gair.\
