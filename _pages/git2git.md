@@ -8,7 +8,7 @@ redirect_from:
 
 This is a short guide to migrate repositories between different hosts, while preserving the history. 
 
-### git to git
+## git to git
 
 First, let's go from git to git. We want to migrate from one server to another, say because you're copying that repository somewhere else. The naive way is to clone the old repo, move files manually, and push to the new repo. That works but you're not going to preserve the history of the old repository.  You'll find a million solutions around if you google this problem, but [this](https://stackoverflow.com/a/26552740) is by far the best one:
 
@@ -20,7 +20,7 @@ git push --mirror origin
 ```  
 
 
-### svn to git
+## svn to git
 
 Once upon a time, I was using svn to handle my research projects, then saw the light and discovered git (there are a billion of GIT tutorials on the web, but if you’re looking for a recommendation, I found [this](https://www.atlassian.com/git) page from Bitbucket very nice!).
 
@@ -38,7 +38,7 @@ git push origin --all
 ```
 
 
-### Repo too big?
+## Repo too big?
 
 I recently tried to run these commands again, and found out one of my old repo was too big for the remote server I want to use. Just want to say that this tool called [bfg](https://rtyley.github.io/bfg-repo-cleaner/) is great to reduce a repo size while removing only some of the previous history.
 
