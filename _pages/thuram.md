@@ -54,10 +54,13 @@ Sara Gliorio (chair), Costantino Pacilio, Andrea Maselli, Davide Gerosa.
 - Alex Toubiana (Postdoc @ UNIMIB)  
 - Cristiano Ugolini (Postdoc @ GSSI)
 
+<br>
 
 <p style="text-align: center;">
   <img src="/images/thuram_workshop.jpg" alt="Thuram workshop" style="max-width: 60%; height: auto;" />
 </p>
+
+<br>
 
 ## Timetable
 

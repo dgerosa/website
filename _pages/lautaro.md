@@ -54,9 +54,13 @@ Costantino Pacilio (chair), Sara Gliorio, Andrea Maselli, Davide Gerosa.
 **Other**
 - Michele Mancarella (Marseille)
 
+<br>
+
 <p style="text-align: center;">
   <img src="/images/lautaro_workshop.jpg" alt="Lautaro workshop" style="max-width: 60%; height: auto;" />
 </p>
+
+<br>
 
 ## Timetable
 
