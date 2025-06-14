@@ -5,7 +5,7 @@ permalink: /ptaprimer/
 author_profile: true
 ---
 
-> *Organized at the Birmingham GW Institute and led by Chris Moore, this journal club/mini class/group study introduces the basic physics of Pulsar Timing Array and some of the latest developments.*
+> *Organized at the Birmingham GW Institute in 2021 and led by Chris Moore and Davide Gerosa, this journal club/mini class/group study introduces the basic physics of Pulsar Timing Array and some of the latest developments.*
 
 
 The next few years are expected to be a golden age for pulsar timing array (PTA) science. The recent tentative claim of a detection of an astrophysical signal in the NANOGrav 12.5-year data set is expected to be confirmed, thereby opening a new observational window on supermassive black holes. In order to better follow these developments, we will run a spring journal club in which we aim to review some key papers in the field. 
