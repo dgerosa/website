@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-This is a nice calculation on dropping balls stacked on top of each other; it was also an activity of my [Postgraduate Certificate for Higher Education (PGCHE)](https://www.birmingham.ac.uk/university/hefi/staff-development/The-Postgraduate-Certificate-in-Higher-Education.aspx) in Birmingham. Many thanks to my Year 1 students for discussing this topic with me.
+This is a nice calculation on dropping balls stacked on top of each other; it was also an activity of my [Postgraduate Certificate for Higher Education (PGCHE)](https://www.birmingham.ac.uk/study/postgraduate/subjects/teacher-education-courses/higher-education-policy-into-practice-online) in Birmingham. Many thanks to my Year 1 students for discussing this topic with me.
 
 ### Material
 
