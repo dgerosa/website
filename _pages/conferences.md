@@ -37,7 +37,7 @@ List of conferences, workshops, and study groups I have organized, together with
 - **Study group: [stellar-mass black-hole binaries in AGN disks](/bhbin-agndisks/)**  
   This was a journal club / study group held at the University of Birmingham from October 2020 to March 2021. We studied the formation of LIGO-like binaries promoted by gas accretion in AGNs.
 
-- **Workshop: [Hopbham](/hopbham-workshop/)**  
+- **Workshop: [Hopbham](/hopbham/)**  
   Series of joint group meetings between my group in Birmingham and Emanuele Berti’s group at Johns Hopkins University (January 2021). An attempt to feel less lonely during the COVID pandemic.
 
 - **PhD school: [GrEAT (Gravitational-wave Excellence through Alliance Training)](https://sites.google.com/view/greatnetworkschool)**  
