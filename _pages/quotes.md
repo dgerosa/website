@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Quotes: "on the shoulders of giants"'
+title: "Quotes: on the shoulders of giants"
 permalink: /quotes/
 author_profile: true
 redirect_from:
