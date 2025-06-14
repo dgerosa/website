@@ -48,6 +48,6 @@ I recently tried to run these commands again, and found out one of my old repo w
 If you get stuck with git, this always works:
 
 <p style="text-align: center;">
-  <img src="https://imgs.xkcd.com/comics/git_2x.png" alt="git" style="max-width: 60%; height: auto;" />
+  <img src="https://imgs.xkcd.com/comics/git_2x.png" alt="git" style="max-width: 50%; height: auto;" />
 </p>
 Credit: [xkcd n. 1597](https://xkcd.com/1597/)
