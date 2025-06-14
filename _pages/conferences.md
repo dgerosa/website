@@ -32,7 +32,7 @@ List of conferences, workshops, and study groups I have organized, together with
   One-day workshop held on April 13, 2022 in Baltimore to foster collaboration between the gravity groups of Johns Hopkins, Penn State and Milano-Bicocca.
 
 - **Study group: [a PTA primer](/ptaprimer/)**  
-  Organized at the Birmingham GW Institute and led by Chris Moore, this journal club/mini class/group study introduces the basic physics of Pulsar Timing Array and some of the latest developments.
+  Organized at the Birmingham GW Institute in 2021, this journal club/mini class/group study introduces the basic physics of Pulsar Timing Array and some of the latest developments.
 
 - **Study group: [stellar-mass black-hole binaries in AGN disks](/bhbin-agndisks/)**  
   This was a journal club / study group held at the University of Birmingham from October 2020 to March 2021. We studied the formation of LIGO-like binaries promoted by gas accretion in AGNs.
