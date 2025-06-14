@@ -17,7 +17,7 @@ We’ll meet in Zoomland. Link will be circulated via email.
 <br>
 
 <p style="text-align: center;">
-  <img src="/images/hopbham_workshop.jpg" alt="Thuram workshop" style="max-width: 60%; height: auto;" />
+  <img src="/images/hopbham_workshop.jpg" alt="Hopbham workshop" style="max-width: 60%; height: auto;" />
 </p>
 
 <br>

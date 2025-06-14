@@ -28,7 +28,7 @@ List of conferences, workshops, and study groups I have organized, together with
 - **Conference: [Gravitational-wave populations: what’s next?](https://sites.google.com/unimib.it/gwpopnext)**  
   This was an amazing conference we organized in Milan in summer of 2023. An entire conference (almost) without talks. Just discussions. And an amazing trip+dinner+thunderstorm on the lake. We should do it again!
 
-- **Workshop: [With a little help from my friends](with-a-little-help-from-my-friends-workshop/)**  
+- **Workshop: [With a little help from my friends](with-a-little-help-from-my-friends/)**  
   One-day workshop held on April 13, 2022 in Baltimore to foster collaboration between the gravity groups of Johns Hopkins, Penn State and Milano-Bicocca.
 
 - **Study group: [a PTA primer](/ptaprimer/)**  
