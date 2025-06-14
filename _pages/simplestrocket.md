@@ -17,7 +17,7 @@ This is a nice calculation on dropping balls stacked on top of each other; it wa
 Before we start, grab these things:
 
 - Pen and paper.
-- Two balls of different weight (like basketball and tennis ball, or a tennis and a squash ball, but any two bouncing objects would work).
+- Two balls of different weights (like a basketball and a tennis ball, or a tennis and a squash ball, but any two bouncing objects would work).
 
 ### Try it yourself
 
@@ -48,7 +48,7 @@ $$
 p = mv.
 $$
 
-In our case we have two objects, so let’s indicate the mass of the big ball with $$M$$ and that of the small ball with $$m$$. Their velocities are $$v_M$$ and $$v_m$$.  
+In our case, we have two objects, so let’s indicate the mass of the big ball with $$M$$ and that of the small ball with $$m$$. Their velocities are $$v_M$$ and $$v_m$$.  
 
 Initially, both balls are falling down with the same velocity. Let’s call this $$v$$. So, we start with both velocities directed downwards and  
 $$v_M = v_m = v$$.  
@@ -63,7 +63,7 @@ To understand why the tennis ball shoots up, we now need to track what happens t
 <br>
 
 1. **The first collision that takes place is that of the big ball and the ground**  
-   (forget about the small ball for a second). We can very safely assume that the mass of the Earth is much (much) bigger than the mass of the ball. In other terms, the Earth does not move! If the Earth does not move, its linear momentum is obviously zero. That means that all of the linear momentum is in the big ball. Because linear momentum is conserved, the velocity of the big ball after hitting the floor must be the same it had before but is now directed upwards. So, still $$v$$.
+   (Forget about the small ball for a second.) We can very safely assume that the mass of the Earth is much (much) bigger than the mass of the ball. In other words, the Earth does not move! If the Earth does not move, its linear momentum is obviously zero. That means that all of the linear momentum is in the big ball. Because linear momentum is conserved, the velocity of the big ball after hitting the floor must be the same as it had before, but is now directed upwards. So, still $$v$$.
 
 2. **Now the big ball is bouncing up while the small ball is still falling down.**  
    We need to study the head-on collision between the two balls. The unknowns of the problem are the final velocities of the balls, let’s call them $$v'_m$$ and $$v'_M$$.  
@@ -111,9 +111,9 @@ If the first ball is much more massive than the second one $$M \gg m$$, the fina
 $$
 v'_m \simeq 3v
 $$  
-(can you see why? Formally, this is a [mathematical limit](https://en.wikipedia.org/wiki/Limit_(mathematics))). The small ball goes up approximately three times faster!
+(Can you see why? Formally, this is a [mathematical limit](https://en.wikipedia.org/wiki/Limit_(mathematics))). The small ball goes up approximately three times faster!
 
-In other terms, the small ball is stealing some of the energy and momentum from the big ball. This is the same thing that happens in a rocket. Fuel is pushed down such that the capsules with the astronauts can gain energy and momentum and reach, say, the International Space Station.
+In other words, the small ball is stealing some of the energy and momentum from the big ball. This is the same thing that happens in a rocket. Fuel is pushed down such that the capsules with the astronauts can gain energy and momentum and reach, say, the International Space Station.
 
 More about rockets: you know they can steal momentum even from other planets? That’s called [gravitational slingshot](https://en.wikipedia.org/wiki/Gravity_assist) and it’s the only way rockets can reach the outer Solar System relatively quickly.
 
