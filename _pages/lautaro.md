@@ -2,10 +2,6 @@
 layout: archive
 title: "Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)"
 permalink: /lautaro/
-redirect_from:
-  - /linking-advances-in-our-understanding-of-theoretical-astrophysics-and-relativity-to-observations/
-  - /linking-advances-in-our-understanding-of-theoretical-astrophysics-and-relativity-to-observations-lautaro/
-
 author_profile: true
 ---
 
@@ -27,7 +23,7 @@ Aula Marchetti, U1 Building
 
 Costantino Pacilio (chair), Sara Gliorio, Andrea Maselli, Davide Gerosa.
 
-## Participant list
+## Participants
 
 **UNIMIB**
 - Ssorhab Bohranian  
