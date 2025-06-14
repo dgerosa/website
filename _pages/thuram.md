@@ -54,6 +54,11 @@ Sara Gliorio (chair), Costantino Pacilio, Andrea Maselli, Davide Gerosa.
 - Alex Toubiana (Postdoc @ UNIMIB)  
 - Cristiano Ugolini (Postdoc @ GSSI)
 
+
+<p style="text-align: center;">
+  <img src="/images/thuram_workshop.jpg" alt="Thuram workshop" style="max-width: 60%; height: auto;" />
+</p>
+
 ## Timetable
 
 ### Session 1 (Wednesday, May 7th, 2.15 pm – 5.30 pm)
@@ -141,8 +146,3 @@ Coffee break (10:30 am – 11:00 am)
 - Cariplo Foundation [Grant No. 2021-0555](https://www.fondazionecariplo.it/en/)  
 - Gran Sasso Science Institute  
 
-## Here we are:
-
-<p style="text-align: center;">
-  <img src="/images/thuram_workshop.jpg" alt="Thuram workshop" style="max-width: 60%; height: auto;" />
-</p>
