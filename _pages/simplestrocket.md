@@ -58,7 +58,9 @@ If you’re not sure why the two velocities must be the same, it’s time to rev
 
 To understand why the tennis ball shoots up, we now need to track what happens to energy and momentum during the various collisions. Here is a schematic representation:
 
-![Ball Drop Diagram](../wp-content/uploads/2020/06/balldrop.001-1024x320.jpeg)
+![Ball Drop Diagram](/images/balldrop.jpg)
+
+<br>
 
 1. **The first collision that takes place is that of the big ball and the ground**  
    (forget about the small ball for a second). We can very safely assume that the mass of the Earth is much (much) bigger than the mass of the ball. In other terms, the Earth does not move! If the Earth does not move, its linear momentum is obviously zero. That means that all of the linear momentum is in the big ball. Because linear momentum is conserved, the velocity of the big ball after hitting the floor must be the same it had before but is now directed upwards. So, still $$v$$.
