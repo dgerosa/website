@@ -49,5 +49,5 @@ List of conferences, workshops, and study groups I have organized, together with
 - **Conference: [34th Pacific Coast Gravity Meeting](https://web.archive.org/web/20240605204541/http://www.tapir.caltech.edu/~pcgm34/)**  
   I co-organized the 34th edition of Pacific Coast Gravity Meeting at Caltech, Pasadena, CA, in March 2018.
 
-- **Conference: [The disc migration issue: from protoplanets to supermassive black holes](https://www.ast.cam.ac.uk/meetings/2017/migration.issue.protoplanets.supermassive.black.holes)**  
+- **Conference: [The disc migration issue: from protoplanets to supermassive black holes](https://web.archive.org/web/20230531170901/https://www.ast.cam.ac.uk/meetings/2017/migration.issue.protoplanets.supermassive.black.holes)**  
   International workshop on inspiral/migration in accretion disks, Cambridge UK, May 2017. It turns out planets and supermassive black holes have a lot in common!
