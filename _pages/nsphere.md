@@ -148,7 +148,7 @@ This code is really good only up to $$D=15$$ or so. After that, the sphere is so
 This is the same information in a plot. The two solutions seem to agree on that scale, but if you look at the errors (bottom plot), that becomes huge.
 
 <p style="text-align: center;">
-  <img src="/images/nsphere.png" alt="Volume of N-spheres" />
+  <img src="/images/nsphere.png" alt="Volume of N-spheres" style="max-width: 60%; height: auto;" />
 </p>
 
 BTW, I still think it’s weird. What happens if you pour water in an $$N$$-dimensional spherical ball? Can’t fit any water in it. Wait. What’s $$N$$-dimensional water?
