@@ -4,6 +4,7 @@ title: "Local apps from a remote server"
 permalink: /local-apps-remote-server/
 redirect_from:
   - /local-browser-on-ssh-tunnel/
+  - /local-browser-remote-server/
 ---
 
 This is a short guide to access remote resources with your local (i.e. laptopt) machine. Includes browsing the internet and using jupyter notebooks
