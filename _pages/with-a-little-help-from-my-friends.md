@@ -55,7 +55,7 @@ Here we are! And huge thanks to the cookies...
 
 ### **Afternoon, 1pm–5pm. Discussion – start projects together**
 
-#### **1pm–2pm: Tools**
+### **1pm–2pm: Tools**
 
 What tools do we have and what we can do with them.
 
@@ -64,7 +64,7 @@ What tools do we have and what we can do with them.
 - pyRing, Issues in ringdown parameter estimation, and tests of GR (Roberto, Costantino, Mark, Sathya, Arnab…)
 - Including systematics, beyond-GR effects and lensing; population effects
 
-#### **2pm–3pm: Astrophysical models**
+### **2pm–3pm: Astrophysical models**
 
 We love to do astro with GWs.
 
@@ -77,11 +77,11 @@ We love to do astro with GWs.
   (Nate, Veome, Daria, Viola, Kostas, Vladimir, Veome, Gabriele…)
 - *Coffee!*
 
-#### **3pm–4pm: Population inference methods**
+### **3pm–4pm: Population inference methods**
 
 Davide will start with a brief introduction to his work on machine learning with Matthew Mould + Steve Taylor and then we’ll think about what can be done with those tools, plus the PE tools we discussed earlier.
 
-#### **4pm–5pm: 3G/LISA science, systematic errors, tests of GR/BH spectroscopy**
+### **4pm–5pm: 3G/LISA science, systematic errors, tests of GR/BH spectroscopy**
 
 The wrap-up: what cool science can future detectors do? What are the best long-term projects we can come up with by combining all these tools?
 
