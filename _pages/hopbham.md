@@ -49,5 +49,3 @@ We’ll meet in Zoomland. Link will be circulated via email.
 - Thomas Helfer, JHU: *GRChombo and superradiance*
 - Nick Speeney, JHU: *Dark matter profiles around massive BHs*
 - Zipeng Wang, JHU: *Plasma-induced superradiance around black holes*
-
-## Here we are
