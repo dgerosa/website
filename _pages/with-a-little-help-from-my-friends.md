@@ -1,14 +1,12 @@
 ---
 layout: archive
 title: "With a little help from my friends - Workshop"
-permalink: /with-a-little-help-from-my-friends//
+permalink: /with-a-little-help-from-my-friends/
 author_profile: true
 redirect_from:
   - /with-a-little-help-from-my-friends-workshop/
 ---
 
-
-# 1st “With a little help from my friends” Workshop
 
 Following the April APS meeting, we will host a mini-workshop at Johns Hopkins University to foster collaboration between the gravity groups of JHU, Penn State and Milano-Bicocca. The idea is to get ["a little help from my friends"](https://www.youtube.com/watch?v=0C58ttB2-Qg&ab_channel=TheBeatles-Topic).
 
