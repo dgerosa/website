@@ -76,8 +76,10 @@ ssh -L 8080:localhost:8080 xwing
 The number 8080 is just an example, pick a different port as only one user can use a given port at once.
 
 - On the remote server, run jupyter while sending outputs to that port:
+
 ```
 jupyter notebook --no-browser --port=8080
 ```
+
 - Jupyter will print a web url to screen. Just paste that into your local browser and you should be good to go.
 
