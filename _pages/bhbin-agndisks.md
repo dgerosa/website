@@ -10,7 +10,7 @@ author_profile: true
 
 Ok, we'll study black-hole binary formation in AGN disks, which is a "new" formation channel for GW sources. Here is an [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/QiIk9oyiRJS3uppM8OY9vg) with these papers
 
-#### **Discussion log**
+## **Discussion log**
 
 *   Before we start… If you need to refresh the physics of accretion disks, [Lodato (2008)](https://ui.adsabs.harvard.edu/abs/2008NewAR..52...21L/abstract) wrote a short and sweet review.
 *   **Oct 12, 2020 \[Davide\].** _Bellovary+ 2016_. Migration Traps in Disks Around Supermassive Black Holes. [1511.00005](https://arxiv.org/abs/1511.00005)
@@ -34,7 +34,7 @@ Ok, we'll study black-hole binary formation in AGN disks, which is a "new" forma
 *   **Mar 22, 2021 \[Chris\].** _Pan and Yang._ Formation Rate of Extreme Mass Ratio Inspirals in Active Galactic Nucleus. [2101.09146](https://arxiv.org/abs/2101.09146)
 *   **Mar 31, 2021 \[all\]**. The season finale: wider group meeting discussion on BHs in AGN disks.
 
-#### **Other papers** on the topic
+## Other papers on the topic
 
 *   _Tagawa+ 2020._ Spin Evolution of Stellar-mass Black Hole Binaries in Active Galactic Nuclei. [2004.11914](https://arxiv.org/abs/2004.11914)
 *   _Secunda+ 2020._ Orbital Migration of Interacting Stellar Mass Black Holes in Disks around Supermassive Black Holes II. Spins and Incoming Objects. [2004.11936](https://arxiv.org/abs/2004.11936)
