@@ -1,0 +1,438 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+        
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+        
+                <meta name="viewport" content="width=device-width,
+                    initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+                <style>
+                    #map_56848e50b177d116f02c030a0e3c3f4c {
+                        position: relative;
+                        width: 100.0%;
+                        height: 100.0%;
+                        left: 0.0%;
+                        top: 0.0%;
+                    }
+                    .leaflet-container { font-size: 1rem; }
+                </style>
+
+                <style>html, body {
+                    width: 100%;
+                    height: 100%;
+                    margin: 0;
+                    padding: 0;
+                }
+                </style>
+
+                <style>#map {
+                    position:absolute;
+                    top:0;
+                    bottom:0;
+                    right:0;
+                    left:0;
+                    }
+                </style>
+
+                <script>
+                    L_NO_TOUCH = false;
+                    L_DISABLE_3D = false;
+                </script>
+
+            
+    </head>
+    <body>
+        
+        
+                <div class="folium-map" id="map_56848e50b177d116f02c030a0e3c3f4c" ></div>
+            
+        
+    <div style="
+        position: fixed;
+        bottom: 50px;
+        left: 50px;
+        z-index: 9999;
+        background-color: white;
+        border: 2px solid grey;
+        padding: 10px 12px;
+        font-size: 14px;
+        line-height: 1.6;
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+        font-family: Arial, sans-serif;
+    ">
+        <b>Legend</b><br>
+        <span style="
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            background-color: #38aadd;
+            border-radius: 50%;
+            margin-right: 8px;
+            border: 1px solid #555;
+            vertical-align: middle;
+        "></span>
+        Blue Locations<br>
+        <span style="
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            background-color: #72b025;
+            border-radius: 50%;
+            margin-right: 8px;
+            border: 1px solid #555;
+            vertical-align: middle;
+        "></span>
+        Yellow Locations<br>
+        <span style="
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            background-color: #f69730;
+            border-radius: 50%;
+            margin-right: 8px;
+            border: 1px solid #555;
+            vertical-align: middle;
+        "></span>
+        Green Locations
+    </div>
+    </body>
+    <script>
+        
+        
+                var map_56848e50b177d116f02c030a0e3c3f4c = L.map(
+                    "map_56848e50b177d116f02c030a0e3c3f4c",
+                    {
+                        center: [20.0, 0.0],
+                        crs: L.CRS.EPSG3857,
+                        ...{
+    "zoom": 2,
+    "zoomControl": true,
+    "preferCanvas": false,
+    }
+
+                    }
+                );
+
+                
+
+            
+        
+                var tile_layer_190f769fd365355b5d3e3c23526fb55f = L.tileLayer(
+                    "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                    {
+    "minZoom": 0,
+    "maxZoom": 19,
+    "maxNativeZoom": 19,
+    "noWrap": false,
+    "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+    "subdomains": "abc",
+    "detectRetina": false,
+    "tms": false,
+    "opacity": 1,
+    }
+
+                );
+            
+        
+                tile_layer_190f769fd365355b5d3e3c23526fb55f.addTo(map_56848e50b177d116f02c030a0e3c3f4c);
+            
+        
+                var marker_58562c8a9ec1ef6b7e3fd5a9c4cd9043 = L.marker(
+                    [40.6892, -74.0445],
+                    {
+    }
+                ).addTo(map_56848e50b177d116f02c030a0e3c3f4c);
+            
+        
+                var icon_783cb0ccc499c9da3bf700cb60b8f51e = L.AwesomeMarkers.icon(
+                    {
+    "markerColor": "blue",
+    "iconColor": "white",
+    "icon": "",
+    "prefix": "glyphicon",
+    "extraClasses": "fa-rotate-0",
+    }
+                );
+            
+        
+            var popup_42c91404d1a62c7ed81663ad128d5dc9 = L.popup({
+    "maxWidth": "100%",
+    });
+
+            
+                
+                    var html_1bd996336a7d6f8422bfe9873b6376b8 = $(`<div id="html_1bd996336a7d6f8422bfe9873b6376b8" style="width: 100.0%; height: 100.0%;">Statue of Liberty</div>`)[0];
+                    popup_42c91404d1a62c7ed81663ad128d5dc9.setContent(html_1bd996336a7d6f8422bfe9873b6376b8);
+                
+            
+
+            marker_58562c8a9ec1ef6b7e3fd5a9c4cd9043.bindPopup(popup_42c91404d1a62c7ed81663ad128d5dc9)
+            ;
+
+            
+        
+        
+                marker_58562c8a9ec1ef6b7e3fd5a9c4cd9043.bindTooltip(
+                    `<div>
+                        Statue of Liberty
+                    </div>`,
+                    {
+    "sticky": true,
+    }
+                );
+            
+        
+                    marker_58562c8a9ec1ef6b7e3fd5a9c4cd9043.setIcon(icon_783cb0ccc499c9da3bf700cb60b8f51e);
+                
+        
+                var marker_15375c6e7aa512b9fe969a7786cbb63c = L.marker(
+                    [37.8199, -122.4783],
+                    {
+    }
+                ).addTo(map_56848e50b177d116f02c030a0e3c3f4c);
+            
+        
+                var icon_29f034618e685e0e6a480224df6057b7 = L.AwesomeMarkers.icon(
+                    {
+    "markerColor": "blue",
+    "iconColor": "white",
+    "icon": "",
+    "prefix": "glyphicon",
+    "extraClasses": "fa-rotate-0",
+    }
+                );
+            
+        
+            var popup_139a620e14fbb116bf3de54094d35e04 = L.popup({
+    "maxWidth": "100%",
+    });
+
+            
+                
+                    var html_8000277cf2256fa969e5b84aa71a96e1 = $(`<div id="html_8000277cf2256fa969e5b84aa71a96e1" style="width: 100.0%; height: 100.0%;">Golden Gate Bridge</div>`)[0];
+                    popup_139a620e14fbb116bf3de54094d35e04.setContent(html_8000277cf2256fa969e5b84aa71a96e1);
+                
+            
+
+            marker_15375c6e7aa512b9fe969a7786cbb63c.bindPopup(popup_139a620e14fbb116bf3de54094d35e04)
+            ;
+
+            
+        
+        
+                marker_15375c6e7aa512b9fe969a7786cbb63c.bindTooltip(
+                    `<div>
+                        Golden Gate Bridge
+                    </div>`,
+                    {
+    "sticky": true,
+    }
+                );
+            
+        
+                    marker_15375c6e7aa512b9fe969a7786cbb63c.setIcon(icon_29f034618e685e0e6a480224df6057b7);
+                
+        
+                var marker_e8e2e2f70292fe8899c91b44c812c52b = L.marker(
+                    [29.9792, 31.1342],
+                    {
+    }
+                ).addTo(map_56848e50b177d116f02c030a0e3c3f4c);
+            
+        
+                var icon_1902993a1e512ae62072c24f9d132bbe = L.AwesomeMarkers.icon(
+                    {
+    "markerColor": "orange",
+    "iconColor": "white",
+    "icon": "",
+    "prefix": "glyphicon",
+    "extraClasses": "fa-rotate-0",
+    }
+                );
+            
+        
+            var popup_1f743a58dfec6c6b26904d468802628e = L.popup({
+    "maxWidth": "100%",
+    });
+
+            
+                
+                    var html_207ea69a2b3a711d27ec78aee7c1a11f = $(`<div id="html_207ea69a2b3a711d27ec78aee7c1a11f" style="width: 100.0%; height: 100.0%;">Great Pyramid of Giza</div>`)[0];
+                    popup_1f743a58dfec6c6b26904d468802628e.setContent(html_207ea69a2b3a711d27ec78aee7c1a11f);
+                
+            
+
+            marker_e8e2e2f70292fe8899c91b44c812c52b.bindPopup(popup_1f743a58dfec6c6b26904d468802628e)
+            ;
+
+            
+        
+        
+                marker_e8e2e2f70292fe8899c91b44c812c52b.bindTooltip(
+                    `<div>
+                        Great Pyramid of Giza
+                    </div>`,
+                    {
+    "sticky": true,
+    }
+                );
+            
+        
+                    marker_e8e2e2f70292fe8899c91b44c812c52b.setIcon(icon_1902993a1e512ae62072c24f9d132bbe);
+                
+        
+                var marker_318f8f237029361e875560adc0287022 = L.marker(
+                    [-33.8568, 151.2153],
+                    {
+    }
+                ).addTo(map_56848e50b177d116f02c030a0e3c3f4c);
+            
+        
+                var icon_3edf18fbb5db3fc7884874bfed58154d = L.AwesomeMarkers.icon(
+                    {
+    "markerColor": "orange",
+    "iconColor": "white",
+    "icon": "",
+    "prefix": "glyphicon",
+    "extraClasses": "fa-rotate-0",
+    }
+                );
+            
+        
+            var popup_f161c6d144c7d39b148ed16c8772b49b = L.popup({
+    "maxWidth": "100%",
+    });
+
+            
+                
+                    var html_7f0733ac41a25f60d7abdbe945ce0366 = $(`<div id="html_7f0733ac41a25f60d7abdbe945ce0366" style="width: 100.0%; height: 100.0%;">Sydney Opera House</div>`)[0];
+                    popup_f161c6d144c7d39b148ed16c8772b49b.setContent(html_7f0733ac41a25f60d7abdbe945ce0366);
+                
+            
+
+            marker_318f8f237029361e875560adc0287022.bindPopup(popup_f161c6d144c7d39b148ed16c8772b49b)
+            ;
+
+            
+        
+        
+                marker_318f8f237029361e875560adc0287022.bindTooltip(
+                    `<div>
+                        Sydney Opera House
+                    </div>`,
+                    {
+    "sticky": true,
+    }
+                );
+            
+        
+                    marker_318f8f237029361e875560adc0287022.setIcon(icon_3edf18fbb5db3fc7884874bfed58154d);
+                
+        
+                var marker_5ee63fa9f75dad0a01ea6910347943ca = L.marker(
+                    [48.8584, 2.2945],
+                    {
+    }
+                ).addTo(map_56848e50b177d116f02c030a0e3c3f4c);
+            
+        
+                var icon_84d979151281652b1f04cba2a852f7d8 = L.AwesomeMarkers.icon(
+                    {
+    "markerColor": "green",
+    "iconColor": "white",
+    "icon": "",
+    "prefix": "glyphicon",
+    "extraClasses": "fa-rotate-0",
+    }
+                );
+            
+        
+            var popup_5e2168978e07e77534dac966e00981af = L.popup({
+    "maxWidth": "100%",
+    });
+
+            
+                
+                    var html_a6444a85e29001f8ebc7ae79165c09cd = $(`<div id="html_a6444a85e29001f8ebc7ae79165c09cd" style="width: 100.0%; height: 100.0%;">Eiffel Tower</div>`)[0];
+                    popup_5e2168978e07e77534dac966e00981af.setContent(html_a6444a85e29001f8ebc7ae79165c09cd);
+                
+            
+
+            marker_5ee63fa9f75dad0a01ea6910347943ca.bindPopup(popup_5e2168978e07e77534dac966e00981af)
+            ;
+
+            
+        
+        
+                marker_5ee63fa9f75dad0a01ea6910347943ca.bindTooltip(
+                    `<div>
+                        Eiffel Tower
+                    </div>`,
+                    {
+    "sticky": true,
+    }
+                );
+            
+        
+                    marker_5ee63fa9f75dad0a01ea6910347943ca.setIcon(icon_84d979151281652b1f04cba2a852f7d8);
+                
+        
+                var marker_f8a494232053033aa70406ab30acc8e6 = L.marker(
+                    [41.8902, 12.4922],
+                    {
+    }
+                ).addTo(map_56848e50b177d116f02c030a0e3c3f4c);
+            
+        
+                var icon_1290d9683de67749e58bded5ede74ef9 = L.AwesomeMarkers.icon(
+                    {
+    "markerColor": "green",
+    "iconColor": "white",
+    "icon": "",
+    "prefix": "glyphicon",
+    "extraClasses": "fa-rotate-0",
+    }
+                );
+            
+        
+            var popup_1184726c22b1628ede90ae5996a3496e = L.popup({
+    "maxWidth": "100%",
+    });
+
+            
+                
+                    var html_7055874eb24a3f4b06e70daac64bda62 = $(`<div id="html_7055874eb24a3f4b06e70daac64bda62" style="width: 100.0%; height: 100.0%;">Colosseum</div>`)[0];
+                    popup_1184726c22b1628ede90ae5996a3496e.setContent(html_7055874eb24a3f4b06e70daac64bda62);
+                
+            
+
+            marker_f8a494232053033aa70406ab30acc8e6.bindPopup(popup_1184726c22b1628ede90ae5996a3496e)
+            ;
+
+            
+        
+        
+                marker_f8a494232053033aa70406ab30acc8e6.bindTooltip(
+                    `<div>
+                        Colosseum
+                    </div>`,
+                    {
+    "sticky": true,
+    }
+                );
+            
+        
+                    marker_f8a494232053033aa70406ab30acc8e6.setIcon(icon_1290d9683de67749e58bded5ede74ef9);
+                
+    </script>
+    </html>
