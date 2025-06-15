@@ -293,8 +293,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10
-paginate_path: "/news/:num/"
+#paginate: 10
+#paginate_path: "/news/:num/"
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
