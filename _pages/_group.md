@@ -1,61 +1,134 @@
-Here are the amazing people in my group. Come visit and chat science with us!
+Here are the amazing people in my group. Come visit and chat science with us! If you're interested in joining, please check out the [jobs](/jobs) page.
 
-**Arianna Renzini**  
-*ERC Marie Skłodowska-Curie Fellow*;  [arianna.renzini@unimib.it](mailto:arianna.renzini@unimib.it)  
-Stochastic backgrounder, anisotropy locator, non-gaussianizer. Writes python packages, merges pull requests, dances acrobatic rock’n’roll.
-
-**Tristan Bruel**  
-*Postdoc*;  [tristan.bruel@unimib.it](mailto:tristan.bruel@unimib.it)  
-Binary black holes enjoyer, population synthesizer, star cluster simulator. Dream of identifying the host galaxies of black hole mergers. Addicted to endurance sports and eager to bring a French touch to local Italian rugby.
-
-**Alexandre Toubiana**  
-*Postdoc*;  [alexandre.toubiana@unimib.it](mailto:alexandre.toubiana@unimib.it)  
-Data analyzer, astrophysical modeler, GR tester. I try to decipher the mystery of gravitational waves between tap dance, cinema sessions, tennis games, and food exploration.
-
-**Rodrigo Tenorio**  
-*Postdoc*;  [rodrigo.tenorio@unimib.it](mailto:rodrigo.tenorio@unimib.it)  
-Long-signal searcher, stats geek, thinks that everything is a sinusoid if you look close enough. He enjoys crunching numbers on a GPU, playing bagpipes, and using Bayesian probability to climb up walls efficiently. Also, Fëanor did nothing wrong.
-
-**Caroline Owen**  
-*Postdoc*;  [caroline.owen@unimib.it](mailto:caroline.owen@unimib.it)  
-Inspiral modeler, fundamental physics explorer, gravitational-wave enthusiast. Loves a long walk. Prefers to be in the woods.
-
-**Philippa Cole**  
-*Postdoc*;  [philippa.cole@unimib.it](mailto:philippa.cole@unimib.it)  
-Dark matter hunter, gravitational wave decipherer, primordial black hole dreamer. Looking for signatures of dark matter in gravitational wave signals. Enjoys food-centric trips around the world and dancing to Beyonce.
-
-**Ssohrab Borhanian**  
-*Postdoc*;  [ssohrab.borhanian@unimib.it](mailto:ssohrab.borhanian@unimib.it)  
-Third generation forecaster, open sourcer, gravitational-wave counterparter, golden eventer. Exploring Milan’s restaurant scene without drinking coffee and meandering through Italy while taking too many pictures.
-
-**Nicholas Loutrel**  
-*Postdoc*;  [nicholas.loutrel@unimib.it](mailto:nicholas.loutrel@unimib.it)  
-Stationary phaser, burst calculator, catastrophe theorizer. Perhaps a secret agent. Still can’t understand why we talk probabilities while he lives in a deterministic world.
-
-**Costantino Pacilio**  
-*Postdoc*;  [costantino.pacilio@unimib.it](mailto:costantino.pacilio@unimib.it)  
-Black-hole spectroscoper, simulation-based inferer, pizza purist, coffee obsessed. Using black holes and neutron stars to understand our Universe. Reading comic books to explore parallel worlds. Listening to Bob Dylan to refresh my emotions.
-
-**Chiara Anselmo**  
-*PhD student*;  [c.anselmo@campus.unimib.it](mailto:c.anselmo@campus.unimib.it)  
-Black hole enthusiast, curious about gravitational waves. Outside of research, you’ll find her perfecting recipes in the kitchen, lost in books, immersed in anime, working out, or curating the perfect playlist.
-
-**Federico De Santi**  
-*PhD student*;  [f.desanti@campus.unimib.it](mailto:f.desanti@campus.unimib.it)  
-Machine learning keeps him busy, Gravitational waves keep him curious. Astrophotographer, always in awe of the night sky. When not dealing with the universe he’s lost in movies, games, or the keys of a piano.
-
-**Matteo Boschini**  
-*PhD student*;  [m.boschini1@campus.unimib.it](mailto:m.boschini1@campus.unimib.it)  
-Gaussian Processor, black-hole surrogator, Tolkien addict. Likes discovering new places, whether in the real world or in fantasy books. Often bothers friends with “simple” board games. Probably knows even how to build a nuclear reactor.
-
-**Alice Spadaro**  
-*PhD student*;  [a.spadaro3@campus.unimib.it](mailto:a.spadaro3@campus.unimib.it)  
-Glitch hunter, LISA responser, gravitational-wave lover. Cares for nature, addicted to adventure sports (surf!). Likes building fun stuff with Lego bricks and gets charged up with rock music. Curious to learn something new and explore the universe.
-
-**Giulia Fumagalli**  
-*PhD student*;  [g.fumagalli47@campus.unimib.it](mailto:g.fumagalli47@campus.unimib.it)  
-Eccentricity calculator, outlier nightmare, PN analyzer. Likes gravitational waves, black holes, and cats. Specialized in cakes, cookies, and any sweet treats (by far the best chocolate brownie in town!). A marathon every now and then just to let off steam.
-
+## Current group members
+<div class="people-list">
+<div class="person">
+  <img src="{{ '/images/arianna-renzini.jpg' | relative_url }}" alt="Arianna Renzini" class="person-photo">
+  <div class="person-text">
+    <strong>Arianna Renzini</strong><br>
+    ERC Marie Skłodowska-Curie Fellow<br>
+<a href="mailto:arianna.renzini@unimib.it">arianna.renzini@unimib.it</a><br>
+    <em>Stochastic backgrounder, anisotropy locator, non-gaussianizer. Writes python packages, merges pull requests, dances acrobatic rock’n’roll.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/tristan-bruel.jpg' | relative_url }}" alt="Tristan Bruel" class="person-photo">
+  <div class="person-text">
+    <strong>Tristan Bruel</strong><br>
+    Postdoc<br>
+<a href="mailto:tristan.bruel@unimib.it">tristan.bruel@unimib.it</a><br>
+    <em>Binary black holes enjoyer, population synthesizer, star cluster simulator. Dream of identifying the host galaxies of black hole mergers. Addicted to endurance sports and eager to bring a French touch to local Italian rugby.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/alexandre-toubiana.jpg' | relative_url }}" alt="Alexandre Toubiana" class="person-photo">
+  <div class="person-text">
+    <strong>Alexandre Toubiana</strong><br>
+    Postdoc<br>
+<a href="mailto:alexandre.toubiana@unimib.it">alexandre.toubiana@unimib.it</a><br>
+    <em>Data analyzer, astrophysical modeler, GR tester. I try to decipher the mystery of gravitational waves between tap dance, cinema sessions, tennis games, and food exploration.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/rodrigo-tenorio.jpg' | relative_url }}" alt="Rodrigo Tenorio" class="person-photo">
+  <div class="person-text">
+    <strong>Rodrigo Tenorio</strong><br>
+    Postdoc<br>
+<a href="mailto:rodrigo.tenorio@unimib.it">rodrigo.tenorio@unimib.it</a><br>
+    <em>Long-signal searcher, stats geek, thinks that everything is a sinusoid if you look close enough. He enjoys crunching numbers on a GPU, playing bagpipes, and using Bayesian probability to climb up walls efficiently. Also, Fëanor did nothing wrong.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/caroline-owen.jpg' | relative_url }}" alt="Caroline Owen" class="person-photo">
+  <div class="person-text">
+    <strong>Caroline Owen</strong><br>
+    Postdoc<br>
+<a href="mailto:caroline.owen@unimib.it">caroline.owen@unimib.it</a><br>
+    <em>Inspiral modeler, fundamental physics explorer, gravitational-wave enthusiast. Loves a long walk. Prefers to be in the woods.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/philippa-cole.jpg' | relative_url }}" alt="Philippa Cole" class="person-photo">
+  <div class="person-text">
+    <strong>Philippa Cole</strong><br>
+    Postdoc<br>
+<a href="mailto:philippa.cole@unimib.it">philippa.cole@unimib.it</a><br>
+    <em>Dark matter hunter, gravitational wave decipherer, primordial black hole dreamer. Looking for signatures of dark matter in gravitational wave signals. Enjoys food-centric trips around the world and dancing to Beyonce.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/ssohrab-borhanian.jpg' | relative_url }}" alt="Ssohrab Borhanian" class="person-photo">
+  <div class="person-text">
+    <strong>Ssohrab Borhanian</strong><br>
+    Postdoc<br>
+<a href="mailto:ssohrab.borhanian@unimib.it">ssohrab.borhanian@unimib.it</a><br>
+    <em>Third generation forecaster, open sourcer, gravitational-wave counterparter, golden eventer. Exploring Milan’s restaurant scene without drinking coffee and meandering through Italy while taking too many pictures.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/nicholas-loutrel.jpg' | relative_url }}" alt="Nicholas Loutrel" class="person-photo">
+  <div class="person-text">
+    <strong>Nicholas Loutrel</strong><br>
+    Postdoc<br>
+<a href="mailto:nicholas.loutrel@unimib.it">nicholas.loutrel@unimib.it</a><br>
+    <em>Stationary phaser, burst calculator, catastrophe theorizer. Perhaps a secret agent. Still can’t understand why we talk probabilities while he lives in a deterministic world.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/costantino-pacilio.jpg' | relative_url }}" alt="Costantino Pacilio" class="person-photo">
+  <div class="person-text">
+    <strong>Costantino Pacilio</strong><br>
+    Postdoc<br>
+<a href="mailto:costantino.pacilio@unimib.it">costantino.pacilio@unimib.it</a><br>
+    <em>Black-hole spectroscoper, simulation-based inferer, pizza purist, coffee obsessed. Using black holes and neutron stars to understand our Universe. Reading comic books to explore parallel worlds. Listening to Bob Dylan to refresh my emotions.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/chiara-anselmo.jpg' | relative_url }}" alt="Chiara Anselmo" class="person-photo">
+  <div class="person-text">
+    <strong>Chiara Anselmo</strong><br>
+    PhD student<br>
+<a href="mailto:c.anselmo@campus.unimib.it">c.anselmo@campus.unimib.it</a><br>
+    <em>Black hole enthusiast, curious about gravitational waves. Outside of research, you’ll find her perfecting recipes in the kitchen, lost in books, immersed in anime, working out, or curating the perfect playlist.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/federico-de-santi.jpg' | relative_url }}" alt="Federico De Santi" class="person-photo">
+  <div class="person-text">
+    <strong>Federico De Santi</strong><br>
+    PhD student<br>
+<a href="mailto:f.desanti@campus.unimib.it">f.desanti@campus.unimib.it</a><br>
+    <em>Machine learning keeps him busy, Gravitational waves keep him curious. Astrophotographer, always in awe of the night sky. When not dealing with the universe he’s lost in movies, games, or the keys of a piano.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/matteo-boschini.jpg' | relative_url }}" alt="Matteo Boschini" class="person-photo">
+  <div class="person-text">
+    <strong>Matteo Boschini</strong><br>
+    PhD student<br>
+<a href="mailto:m.boschini1@campus.unimib.it">m.boschini1@campus.unimib.it</a><br>
+    <em>Gaussian Processor, black-hole surrogator, Tolkien addict. Likes discovering new places, whether in the real world or in fantasy books. Often bothers friends with “simple” board games. Probably knows even how to build a nuclear reactor.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/alice-spadaro.jpg' | relative_url }}" alt="Alice Spadaro" class="person-photo">
+  <div class="person-text">
+    <strong>Alice Spadaro</strong><br>
+    PhD student<br>
+<a href="mailto:a.spadaro3@campus.unimib.it">a.spadaro3@campus.unimib.it</a><br>
+    <em>Glitch hunter, LISA responser, gravitational-wave lover. Cares for nature, addicted to adventure sports (surf!). Likes building fun stuff with Lego bricks and gets charged up with rock music. Curious to learn something new and explore the universe.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/giulia-fumagalli.jpg' | relative_url }}" alt="Giulia Fumagalli" class="person-photo">
+  <div class="person-text">
+    <strong>Giulia Fumagalli</strong><br>
+    PhD student<br>
+<a href="mailto:g.fumagalli47@campus.unimib.it">g.fumagalli47@campus.unimib.it</a><br>
+    <em>Eccentricity calculator, outlier nightmare, PN analyzer. Likes gravitational waves, black holes, and cats. Specialized in cakes, cookies, and any sweet treats (by far the best chocolate brownie in town!). A marathon every now and then just to let off steam.</em>
+  </div>
+</div>
+</div>
 ## Current MSc and Bsc students
 Here are the amazing students who are currently completing research projects with us in the group… Taking the first fun steps into the perilous world of black holes!
 
@@ -76,7 +149,6 @@ Here are the amazing students who are currently completing research projects wit
 <br>
 
 ---
-<br>
 
 # Former group members
 
