@@ -6,18 +6,6 @@ author_profile: true
 ---
 
 <style>
-:root {
-  --person-bg: #f2f2f2;
-  --person-text: #000;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --person-bg: #2b2b2b;
-    --person-text: #ddd;
-  }
-}
-
 .people-list {
   display: flex;
   flex-direction: column;
@@ -28,11 +16,10 @@ author_profile: true
 .person {
   display: flex;
   align-items: center;
-  background-color: var(--person-bg);
-  color: var(--person-text);
+  background-color: #f2f2f2; /* light mode gray */
   padding: 1em;
   border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
 .person-photo {
@@ -48,7 +35,7 @@ author_profile: true
   line-height: 1.5;
 }
 
-/* Mobile layout */
+/* Responsive layout */
 @media (max-width: 600px) {
   .person {
     flex-direction: column;
@@ -58,6 +45,12 @@ author_profile: true
   .person-photo {
     margin: 0 0 1em 0;
   }
+}
+
+/* Dark mode using attribute selector */
+html[data-theme="dark"] .person {
+  background-color: #5a5a5a !important;
+  color: #ddd !important;
 }
 </style>
 
