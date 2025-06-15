@@ -8,7 +8,6 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
   gem "jekyll-archives"
-  gem 'jekyll-analytics'
 end
 
 gem 'github-pages'
