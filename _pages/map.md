@@ -14,8 +14,6 @@ redirect_from:
 
 Here is a map with the places where I gave a talk (blue), those where I organized a conference (red), and those where I had an academic position (orange). 
 
-> Dummy locations for now... will fix it soon
-
 <br>
 
 {% comment %}
