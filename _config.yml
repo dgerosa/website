@@ -148,9 +148,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-XVTCEZHYGG"
 
 
 # Reading Files
@@ -306,7 +306,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-analytics
+#  - jekyll-analytics
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -356,7 +356,7 @@ compress_html:
   ignore:
     envs: development
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-XVTCEZHYGG         # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+#jekyll_analytics:
+#  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+#    id: G-XVTCEZHYGG         # Required - replace with your tracking id
+#    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
