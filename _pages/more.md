@@ -24,6 +24,3 @@ List of conferences, workshops, and study groups I have organized, together with
 
 - **[Quotes](/quotes/)**
 Here I collect some quotations on General Relativity, science in general, and more (like music), which are particularly dear to me.
-
-- **[Other](/other/)**
-Yet more things on this website...
