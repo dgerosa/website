@@ -1,5 +1,5 @@
 ## Summary
-**8** [Submitted papers](#submitted-papers)\
+**9** [Submitted papers](#submitted-papers)\
 **97** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **12** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
@@ -8,6 +8,11 @@
 
 ## Submitted papers
 
+**9.**
+*Accelerated inference of binary black-hole populations from the stochastic gravitational-wave background*.\
+G. Giarda, A. I. Renzini, C. Pacilio, **D. Gerosa**.\
+<a href="https://arxiv.org/abs/2506.12572" style="color: inherit; text-decoration: none;">arXiv:2506.12572 [gr-qc]</a>.
+ 
 **8.**
 *Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters*.\
 D. Tornotti, M. Fossati, M. Fumagalli, **D. Gerosa**, L. Pizzuti, F. Arrigoni Battaia.\
