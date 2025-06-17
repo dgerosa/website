@@ -12,4 +12,3 @@ These are my proceedings of the 3rd Session of the Sant Cugat Forum on Astrophys
 **Davide Gerosa.**  
 Astrophysics and Space Science Proceedings 40 (2015) [137-145](<http://link.springer.com/chapter/10.1007%2F978-3-319-10488-1_12>).
 
-[comment]: Machine generated below here

@@ -11,4 +11,3 @@ This semester I’m back teaching my “Scientific computing with Python” modu
 
 [github.com/dgerosa/scientificcomputing_bicocca_2024](<https://github.com/dgerosa/scientificcomputing_bicocca_2024>)
 
-[comment]: Machine generated below here

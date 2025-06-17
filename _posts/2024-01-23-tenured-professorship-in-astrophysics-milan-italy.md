@@ -17,4 +17,3 @@ Current strategic interests include the development of gravitational-wave data-a
 
 Interested applicants are encouraged to send their CVs and a short cover letter to bruno.giacomazzo@unimib.it by February 15th, 2024. The CV should include the names and email addresses of three referees who might be approached for references.
 
-[comment]: Machine generated below here

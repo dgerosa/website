@@ -13,4 +13,3 @@ We’ve got the best name ever for a numerical code! Let me introduce QLUSTER wh
 Proceedings of the [57th Rencontres de Moriond](<https://doi.org/10.58027/bsnq-2422>).  
 arXiv:[2305.04987](<https://arxiv.org/abs/arXiv:2305.04987>) [astro-ph.HE].
 
-[comment]: Machine generated below here

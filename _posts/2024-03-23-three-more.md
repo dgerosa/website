@@ -9,4 +9,3 @@ tags:
 
 Three more students graduated in March with research projects completed in our [group](<../../../../../index.html?p=2466>)!
 
-[comment]: Machine generated below here

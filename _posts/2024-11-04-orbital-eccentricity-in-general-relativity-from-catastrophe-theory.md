@@ -14,4 +14,3 @@ Matteo Boschini, Nicholas Loutrel, **Davide Gerosa** , Giulia Fumagalli.
 Physical Review D 111 (2025) [024008](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.024008>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2411.00098](<https://arxiv.org/abs/2411.00098>) [gr-qc].
 
-[comment]: Machine generated below here

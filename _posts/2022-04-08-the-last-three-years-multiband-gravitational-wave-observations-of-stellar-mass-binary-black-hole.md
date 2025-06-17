@@ -13,4 +13,3 @@ Observing gravitational waves from the ground (i.e. LIGO, Virgo, etc) give us a 
 Antoine Klein, Geraint Pratten, Riccardo Buscicchio, Patricia Schmidt, Christopher J. Moore, Eliot Finch, Alice Bonino, Lucy M. Thomas, Natalie Williams, **Davide Gerosa** , Sean McGee, Matt Nicholl and Alberto Vecchio.  
 arXiv:[2204.03423](<https://arxiv.org/abs/2204.03423>) [gr-qc].
 
-[comment]: Machine generated below here

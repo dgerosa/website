@@ -15,4 +15,3 @@ Salvatore Vitale, **Davide Gerosa** , Will M. Farr, Stephen R. Taylor.
 Chapter of “Handbook of Gravitational Wave Astronomy”; Springer Singapore (2021).  
 arXiv:[2007.05579](<https://arxiv.org/abs/2006.06647>) [astro-ph.IM].
 
-[comment]: Machine generated below here

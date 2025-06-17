@@ -12,4 +12,3 @@ Quasar 3C 186 strikes back! Matteo and I got interested in this funny quasar las
 Marco Chiaberge, Takahiro Morishita, Matteo Boschini, Stefano Bianchi, Alessandro Capetti, Gianluca Castignani, **Davide Gerosa** , Masahiro Konishi, Shuhei Koyama, Kosuke Kushibiki, Erini Lambrides, Eileen T. Meyer, Kentaro Motohara, Massimo Stiavelli, Hidenori Takahashi, Grant R. Tremblay, Colin Norman.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2501.18730](<https://arxiv.org/abs/2501.18730>) [astro-ph.GA].
 
-[comment]: Machine generated below here

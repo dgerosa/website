@@ -12,4 +12,3 @@ Welcome to the beautiful world of SBI, with this terrific piece of work by Pippa
 Philippa S. Cole, James Alvey, Lorenzo Speri, Christoph Weniger, Uddipta Bhardwaj, **Davide Gerosa** , Gianfranco Bertone.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2505.16795](<https://arxiv.org/abs/2505.16795>) [gr-qc].
 
-[comment]: Machine generated below here

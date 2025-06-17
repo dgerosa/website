@@ -16,4 +16,3 @@ Matteo Boschini, **Davide Gerosa** , Om Sharan Salafia, Massimo Dotti.
 Astronomy & Astrophysics 686 (2024) [A245](<https://doi.org/10.1051/0004-6361/202449596>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2402.08740](<https://arxiv.org/abs/2402.08740>) [astro-ph.GA].
 
-[comment]: Machine generated below here

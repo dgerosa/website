@@ -17,4 +17,3 @@ Other press coverage: [indiescience](<https://insidescience.org/news/tests-gener
 
 ps. The codename for this paper was SANITY: **S** ystem**A** tics usi**N** g populat**I** ons to **T** est general relativit**Y**.
 
-[comment]: Machine generated below here

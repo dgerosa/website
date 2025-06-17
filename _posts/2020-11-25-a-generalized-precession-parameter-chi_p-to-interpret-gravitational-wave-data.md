@@ -15,4 +15,3 @@ Physical Review D 103 (2021) [064067](<https://journals.aps.org/prd/abstract/10.
 arXiv:[2011.11948](<https://arxiv.org/abs/2011.11948>) [gr-qc].  
 Open-source code: [homepage](<../../../../../index.html?p=3529>), [repository](<https://github.com/dgerosa/generalizedchip>).
 
-[comment]: Machine generated below here

@@ -11,4 +11,3 @@ Four BSc+MSc students just graduated with projects in our group!
 
 … congrats all!
 
-[comment]: Machine generated below here

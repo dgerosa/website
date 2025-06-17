@@ -14,4 +14,3 @@ Tousif Islam, Vijay Varma, Jackie Lodman, Scott E. Field, Gaurav Khanna, Mark A.
 Physical Review D 103 (2021) [064022](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064022>).  
 arXiv:[2101.11798](<https://arxiv.org/abs/2101.11798>) [gr-qc].
 
-[comment]: Machine generated below here

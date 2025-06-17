@@ -17,4 +17,3 @@ arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423
 Physical Review D 108 (2023) [083033](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.083033>).  
 Other press coverage: [astrobites](<https://astrobites.org/2023/09/01/bhballet/>).
 
-[comment]: Machine generated below here

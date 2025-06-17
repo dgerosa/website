@@ -12,4 +12,3 @@ Long gravitational-wave signals are, well, long. And long often means painful, a
 Rodrigo Tenorio, **Davide Gerosa**.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2502.11823](<https://arxiv.org/abs/2502.11823>) [gr-qc].
 
-[comment]: Machine generated below here

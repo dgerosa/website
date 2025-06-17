@@ -15,4 +15,3 @@ Matthew Mould, **Davide Gerosa** , Floor S. Broekgaarden, Nathan Steinle.
 Monthly Notices of the Royal Astronomical Society 517 (2022) [2738–2745](<https://doi.org/10.1093/mnras/stac2859>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2205.12329](<https://arxiv.org/abs/2205.12329>) [astro-ph.HE].
 
-[comment]: Machine generated below here

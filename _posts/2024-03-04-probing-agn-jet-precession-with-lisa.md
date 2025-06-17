@@ -14,4 +14,3 @@ Nathan Steinle, **Davide Gerosa** , Martin G. H. Krause.
 Physical Review D 110 (2024) [123034](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.123034>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2403.00066](<https://arxiv.org/abs/2403.00066>) [astro-ph.HE].
 
-[comment]: Machine generated below here

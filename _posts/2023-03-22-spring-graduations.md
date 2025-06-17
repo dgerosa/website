@@ -14,4 +14,3 @@ The star of the day is Matteo Boschini, who completed his MSc project with me af
 
 Daniele Chirico completed his BSc studies with a sweet research project on supernova explosions, orbits, and kicks. He’s staying in Milan for his MSc degree now, so wait a bit for his successes!
 
-[comment]: Machine generated below here

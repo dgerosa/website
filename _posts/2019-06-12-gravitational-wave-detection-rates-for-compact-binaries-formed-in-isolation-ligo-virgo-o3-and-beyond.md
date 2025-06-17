@@ -14,4 +14,3 @@ Vishal Baibhav, Emanuele Berti, **Davide Gerosa** , Michela Mapelli, Nicola Giac
 Physical Review D 100 (2019) [064060](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.064060>).  
 arXiv:[1906.04197](<http://arxiv.org/abs/arXiv:1906.04197>) [gr-qc].
 
-[comment]: Machine generated below here

@@ -13,4 +13,3 @@ Viola De Renzis, Francesco Iacovelli, **Davide Gerosa** , Michele Mancarella, Co
 Physical Review D 111 (2025) [044048](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.044048>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2410.17325](<https://arxiv.org/abs/2410.17325>) [astro-ph.HE].
 
-[comment]: Machine generated below here

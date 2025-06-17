@@ -12,4 +12,3 @@ This is the latest of the amazing reviews coming out on the LISA space mission. 
 Niaesh Afshordi, et al. (105 authors incl. **Davide Gerosa**).  
 arXiv:[2311.01300](<https://arxiv.org/abs/arXiv:2311.01300>) [gr-qc].
 
-[comment]: Machine generated below here

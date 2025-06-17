@@ -10,4 +10,3 @@ Happy to report about the great success of our workshop ”[Numerical Relativity
 
 I only wish the rain would have stopped for more than a few hours over the entire week. This is us with Einstein; we’re all beyond!
 
-[comment]: Machine generated below here

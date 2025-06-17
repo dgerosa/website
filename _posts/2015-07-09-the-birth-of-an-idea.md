@@ -17,4 +17,3 @@ _At some stage, it’s time to go home, and that moment is precious to me. You k
 
 _An idea, a good one at least, is like a gift you can say thanks for._
 
-[comment]: Machine generated below here

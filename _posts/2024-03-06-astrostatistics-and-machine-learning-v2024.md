@@ -11,4 +11,3 @@ The teaching semester is back and I’ll be delivering my “Astrostatistics and
 
 Astro-data freaks, go here! [github.com/dgerosa/astrostatistics_bicocca_2024](<https://github.com/dgerosa/astrostatistics_bicocca_2024>)
 
-[comment]: Machine generated below here

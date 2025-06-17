@@ -15,4 +15,3 @@ Physical Review D 101 (2020) [124037](<https://journals.aps.org/prd/abstract/10.
 arXiv:[2003.02281](<https://arxiv.org/abs/2003.02281>) [gr-qc].  
 Supporting material available [here](<../../../../../index.html?p=224>).
 
-[comment]: Machine generated below here

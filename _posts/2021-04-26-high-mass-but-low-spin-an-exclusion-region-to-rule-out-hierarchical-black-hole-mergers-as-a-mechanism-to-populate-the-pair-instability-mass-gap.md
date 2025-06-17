@@ -14,4 +14,3 @@ Hierarchical mergers are the new black. LIGO is seeing black holes that are just
 Astrophysical Journal, 915 (2021) [56](<https://iopscience.iop.org/article/10.3847/1538-4357/ab4a79>).  
 arXiv:[2104.11247](<https://arxiv.org/abs/2104.11247>) [astro-ph.HE].
 
-[comment]: Machine generated below here

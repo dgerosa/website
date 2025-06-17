@@ -16,4 +16,3 @@ One population fit to find them features
 One population fit to Bayes them all, and in the stats bind them.   
 In the land of LIGO where the data lie._
 
-[comment]: Machine generated below here

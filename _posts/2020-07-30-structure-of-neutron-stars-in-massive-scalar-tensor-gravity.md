@@ -14,4 +14,3 @@ Roxana Rosca-Mead, Christopher J. Moore, Ulrich Sperhake, Michalis Agathos, **Da
 Symmetry 12 (2020) [1384](<https://www.mdpi.com/2073-8994/12/9/1384>).  
 arXiv:[2007.14429](<https://arxiv.org/abs/2007.14429>) [gr-qc]
 
-[comment]: Machine generated below here

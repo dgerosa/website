@@ -14,4 +14,3 @@ The prize was officially awarded at the [12th Edoardo Amaldi Conference on Gravi
 
 ![](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMwOSIgd2lkdGg9IjU0OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=)![DEor_9FUAAES7kH.jpg](http://34.75.75.174/wp-content/uploads/2018/11/deor_9fuaaes7kh1.jpg)
 
-[comment]: Machine generated below here

@@ -12,4 +12,3 @@ We’re having four (!) summer students joining [the group](<../../../../../inde
 
 Welcome all! We look forward to seeing your summer discoveries!
 
-[comment]: Machine generated below here

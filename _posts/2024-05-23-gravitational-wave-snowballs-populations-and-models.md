@@ -22,4 +22,3 @@ Ilya Mandel
 Davide Gerosa  
 Salvatore Vitale
 
-[comment]: Machine generated below here

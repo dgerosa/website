@@ -17,4 +17,3 @@ Physical Review D 93 (2016) [124066](<http://journals.aps.org/prd/abstract/10.11
 arXiv:[1605.01067](<http://arxiv.org/abs/arXiv:1605.01067>) [astro-ph.HE].  
 Open-source code: [homepage](<../../../../../index.html?p=658>), [repository](<https://github.com/dgerosa/precession>), [documentation](<http://dgerosa.github.io/precession/>).
 
-[comment]: Machine generated below here

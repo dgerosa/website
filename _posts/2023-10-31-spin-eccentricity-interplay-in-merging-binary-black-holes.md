@@ -14,4 +14,3 @@ Giulia Fumagalli, **Davide Gerosa**.
 Physical Review D 108 (2023) [124055](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.124055>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2310.16893](<https://arxiv.org/abs/2310.16893>) [gr-qc].
 
-[comment]: Machine generated below here

@@ -15,4 +15,3 @@ Before the talk, I was awarded the [2016 Stefano Braccini Thesis prize](<https:/
 Journal of Physics: Conference Series 957 (2018) 1, [012014](<http://iopscience.iop.org/article/10.1088/1742-6596/957/1/012014>).  
 arXiv:[1711.10038](<http://arxiv.org/abs/arXiv:1711.10038>) [astro-ph.HE].
 
-[comment]: Machine generated below here

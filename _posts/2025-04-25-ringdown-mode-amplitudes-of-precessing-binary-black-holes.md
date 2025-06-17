@@ -12,4 +12,3 @@ We’re back to predicting the excitation amplitude of black hole merger ringdow
 Francesco Nobili, Swetha Bhagwat, Costantino Pacilio, **Davide Gerosa**.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2504.17021](<https://arxiv.org/abs/2504.17021>) [gr-qc].
 
-[comment]: Machine generated below here

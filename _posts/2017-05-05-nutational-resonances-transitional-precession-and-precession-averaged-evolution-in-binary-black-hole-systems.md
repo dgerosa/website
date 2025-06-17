@@ -14,4 +14,3 @@ Xinyu Zhao, Michael Kesden, **Davide Gerosa**.
 Physical Review D 96 (2017) [024007](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.024007>).  
 arXiv:[1705.02369](<http://arxiv.org/abs/arXiv:1705.02369>) [gr-qc].
 
-[comment]: Machine generated below here

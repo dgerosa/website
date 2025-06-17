@@ -16,4 +16,3 @@ Katie Chamberlain, Christopher J. Moore, **Davide Gerosa** , Nicolas Yunes.
 Physical Review D 99 (2019) [024025](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.024025>).  
 arXiv:[1809.04799](<http://arxiv.org/abs/arXiv:1809.04799>) [gr-qc].
 
-[comment]: Machine generated below here

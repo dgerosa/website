@@ -11,4 +11,3 @@ I was awarded a [Starting Grant](<https://erc.europa.eu/news/StG-recipients-2020
 
 Thank you Europe, you’re great.
 
-[comment]: Machine generated below here

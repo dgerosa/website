@@ -12,4 +12,3 @@ The [COST](<https://www.cost.eu/cost-actions/>) action [GWverse](<https://gwvers
 
 We’re having our first visitors. [Serguei Ossokine](<https://www.aei.mpg.de/person/44382/1589487>) from the [AEI](<https://www.aei.mpg.de/>), is here to work with me on a black-hole binary spin project. Yann Bouffanais from [University of Padova](<http://www.unipd.it>) (Italy) is coming to collaborate on formation channels. Welcome Serguei and Yann, and thanks to [COST](<https://www.cost.eu/cost-actions/>) for supporting our science!
 
-[comment]: Machine generated below here

@@ -11,4 +11,3 @@ Traveling is (kind of) coming back, and we’re having lots of visitors around, 
 
 Safe travel everyone, it’s time we move our group meetings to a larger room.
 
-[comment]: Machine generated below here

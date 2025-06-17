@@ -11,4 +11,3 @@ I just had the first lectures of a class I’m teaching for the first time: Astr
 
 The entire class is available under the form of jupyter notebooks at [github.com/dgerosa/astrostatistics_bicocca_2022](<https://github.com/dgerosa/astrostatistics_bicocca_2022>). The repository is hooked up with the [mybinder](<https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2022/HEAD>) service.
 
-[comment]: Machine generated below here

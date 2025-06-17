@@ -12,4 +12,3 @@ LISA astrophysics is awesome and everything you might ever want to know is writt
 Pau Amaro-Seoane, et al. (155 authors incl. **Davide Gerosa**).  
 arXiv:[2203.06016](<https://arxiv.org/abs/arXiv:2203.06016>) [gr-qc].
 
-[comment]: Machine generated below here

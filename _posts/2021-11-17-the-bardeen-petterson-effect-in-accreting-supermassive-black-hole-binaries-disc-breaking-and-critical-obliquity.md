@@ -16,4 +16,3 @@ Rebecca Nealon, Enrico Ragusa, **Davide Gerosa** , Giovanni Rosotti, Riccardo Ba
 Monthly Notices of the Royal Astronomical Society 509 (2022) [5608–5621](<https://doi.org/10.1093/mnras/stab3328>).  
 arXiv:[2111.08065](<https://arxiv.org/abs/2111.08065>) [astro-ph.HE].
 
-[comment]: Machine generated below here

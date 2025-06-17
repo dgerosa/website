@@ -14,4 +14,3 @@ Giulia Fumagalli, Isobel Romero-Shaw, **Davide Gerosa** , Viola De Renzis, Konst
 Physical Review D 110 (2024) [063012](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.063012>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2405.14945](<https://arxiv.org/abs/2405.14945>) [astro-ph.HE].
 
-[comment]: Machine generated below here

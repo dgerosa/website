@@ -27,4 +27,3 @@ We strive to build a diverse and inclusive environment and welcome expressions o
 
 For inquiries please do not hesitate to contact Davide Gerosa at [davide.gerosa@unimib.it](<mailto:davide.gerosa@unimib.it>)
 
-[comment]: Machine generated below here

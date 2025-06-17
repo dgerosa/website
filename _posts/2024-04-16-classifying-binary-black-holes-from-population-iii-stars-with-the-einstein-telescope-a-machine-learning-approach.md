@@ -14,4 +14,3 @@ Filippo Santoliquido, Ulyana Dupletsa, Jacopo Tissino, Marica Branchesi, Frances
 Astronomy & Astrophysics 690 (2024) [A362](<https://doi.org/10.1051/0004-6361/202450381>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2404.10048](<https://arxiv.org/abs/2404.10048>) [astro-ph.HE].
 
-[comment]: Machine generated below here

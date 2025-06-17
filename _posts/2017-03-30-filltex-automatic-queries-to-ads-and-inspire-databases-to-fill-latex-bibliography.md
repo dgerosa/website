@@ -13,4 +13,3 @@ My [little latex project](<../../../../../index.html?p=1108>) to compile bibliog
 The Journal of Open Source Software 2 (2017) [13](<http://joss.theoj.org/papers/10.21105/joss.00222>).  
 Open-source code: [homepage](<../../../../../index.html?p=1108>), [repository](<https://github.com/dgerosa/filltex>).
 
-[comment]: Machine generated below here

@@ -14,4 +14,3 @@ Vishal Baibhav, Emanuele Berti, **Davide Gerosa** , Matthew Mould, Kaze W. K. Wo
 Physical Review D 104 (2021) [084002](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.084002>).  
 arXiv:[2105.12140](<https://arxiv.org/abs/2105.12140>) [gr-qc].
 
-[comment]: Machine generated below here

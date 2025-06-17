@@ -17,4 +17,3 @@ Classical and Quantum Gravity 36 (2019) 9, [095007](<https://iopscience.iop.org/
 arXiv:[1811.06552](<http://arxiv.org/abs/arXiv:1811.06552>) [astro-ph.HE].  
 Supporting material available [here](<https://vijayvarma392.github.io/binaryBHexp>).
 
-[comment]: Machine generated below here

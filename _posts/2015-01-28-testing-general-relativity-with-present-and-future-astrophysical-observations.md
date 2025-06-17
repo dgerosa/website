@@ -15,4 +15,3 @@ Emanuele Berti, et al. (53 authors incl. **Davide Gerosa**).
 Classical and Quantum Gravity 32 (2015) 24, [243001](<http://iopscience.iop.org/article/10.1088/0264-9381/32/24/243001>).  
 arXiv:[1501.07274](<http://arxiv.org/abs/arXiv:1501.07274>) [gr-qc].
 
-[comment]: Machine generated below here

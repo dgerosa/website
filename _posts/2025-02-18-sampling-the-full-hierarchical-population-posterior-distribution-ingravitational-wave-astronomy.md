@@ -12,4 +12,3 @@ When inferring black holes from gravitational-wave data, we tend to do two thing
 Michele Mancarella, **Davide Gerosa**.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2502.12156](<https://arxiv.org/abs/2502.12156>) [gr-qc].
 
-[comment]: Machine generated below here

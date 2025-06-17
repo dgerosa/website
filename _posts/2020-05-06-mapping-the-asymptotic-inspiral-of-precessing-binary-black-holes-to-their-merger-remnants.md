@@ -14,4 +14,3 @@ Luca Reali, Matthew Mould, **Davide Gerosa** , Vijay Varma.
 Classical and Quantum Gravity 37 (2020) [225005](<https://iopscience.iop.org/article/10.1088/1361-6382/abb639/meta>).  
 arXiv:[](<https://arxiv.org/abs/2005.01747>)[2005.01747](<https://arxiv.org/abs/2005.01747>) [gr-qc].
 
-[comment]: Machine generated below here

@@ -14,4 +14,3 @@ Riccardo Buscicchio, Antoine Klein, Elinore Roebber, Christopher J. Moore, **Dav
 Physical Review D 104 (2021) [044065](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.044065>).  
 arXiv:[2106.05259](<https://arxiv.org/abs/2106.05259>) [astro-ph.HE].
 
-[comment]: Machine generated below here

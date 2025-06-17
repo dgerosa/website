@@ -18,4 +18,3 @@ Classical and Quantum Gravity 36 (2019) 10, [105003](<https://iopscience.iop.org
 arXiv:[1811.05979](<http://arxiv.org/abs/arXiv:1811.05979>) [gr-qc].  
 Supporting material available [here](<../../../../../index.html?p=224>).
 
-[comment]: Machine generated below here

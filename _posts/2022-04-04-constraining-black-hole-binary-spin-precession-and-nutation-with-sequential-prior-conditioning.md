@@ -16,4 +16,3 @@ Daria Gangardt, **Davide Gerosa** , Michael Kesden, Viola De Renzis, Nathan Stei
 Physical Review D 106 (2022) [024019](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.024019>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[2204.00026](<https://arxiv.org/abs/2204.00026>) [gr-qc].
 
-[comment]: Machine generated below here

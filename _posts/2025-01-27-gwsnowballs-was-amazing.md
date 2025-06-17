@@ -12,4 +12,3 @@ Together with Ilya Mandel, last week I organized a workshop titled _“Gravitati
 
 … and here is us! We should definitely do it again. And remember: if you run population synthesis once, you shall be cursed forever.
 
-[comment]: Machine generated below here

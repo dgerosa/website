@@ -16,4 +16,3 @@ _Bonus note:_ check out the title in v1 on the arxiv…
 Physical Review D 89 (2014) [124025](<http://journals.aps.org/prd/abstract/10.1103/PhysRevD.89.124025>).  
 arXiv:[1403.7147](<http://arxiv.org/abs/arXiv:1403.7147>) [gr-qc].
 
-[comment]: Machine generated below here

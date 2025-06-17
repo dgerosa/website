@@ -16,4 +16,3 @@ Long story short, in this paper we compute the irreducible mass of the black hol
 Classical and Quantum Gravity 39 (2020) [175008](<https://iopscience.iop.org/article/10.1088/1361-6382/ac8332>).  
 arXiv:[2202.08848](<https://arxiv.org/abs/2202.08848>) [gr-qc].
 
-[comment]: Machine generated below here

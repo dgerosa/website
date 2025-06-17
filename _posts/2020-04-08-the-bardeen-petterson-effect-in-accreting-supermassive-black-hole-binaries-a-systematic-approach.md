@@ -16,4 +16,3 @@ arXiv:[2004.02894](<https://arxiv.org/abs/2004.02894>) [astro-ph.GA].
 
 ps. Here is a [Twitter thread](<https://twitter.com/philip_armitage/status/1248393899120287747>) by P. Armitage.
 
-[comment]: Machine generated below here

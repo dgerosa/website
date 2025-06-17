@@ -16,4 +16,3 @@ Physical Review D 99 (2019) [124043](<https://journals.aps.org/prd/abstract/10.1
 arXiv:[1807.00075](<http://arxiv.org/abs/arXiv:1807.00075>) [gr-qc].  
 Other press coverage: [astrobites](<https://astrobites.org/2018/10/05/lisa-forewarnings-can-help-ligo-study-black-holes/>).
 
-[comment]: Machine generated below here

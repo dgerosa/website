@@ -15,4 +15,3 @@ Matthew Mould, **Davide Gerosa**.
 Physical Review D 105 (2022) [024076](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.083008>).  
 arXiv:[2110.05507](<https://arxiv.org/abs/2110.05507>) [astro-ph.HE].
 
-[comment]: Machine generated below here

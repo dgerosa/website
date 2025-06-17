@@ -22,4 +22,3 @@ Applicants should also arrange for 3 reference letters to be sent by 27 January 
 
 For further information and informal inquiries please contact Dr. Davide Gerosa (d.gerosa@bham.ac.uk) and Prof. Alberto Vecchio (av@star.sr.bham.ac.uk).
 
-[comment]: Machine generated below here

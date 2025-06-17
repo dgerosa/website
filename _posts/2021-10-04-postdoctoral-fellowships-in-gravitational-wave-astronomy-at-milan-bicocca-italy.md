@@ -23,4 +23,3 @@ Applications should include a CV with a list of publications and a two-page stat
 
 For inquiries please do not hesitate to contact Davide Gerosa at [davide.gerosa@unimib.it](<mailto:davide.gerosa@unimib.it>).
 
-[comment]: Machine generated below here

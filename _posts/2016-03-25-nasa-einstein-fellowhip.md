@@ -12,4 +12,3 @@ _“We are very pleased to welcome this talented group of young scientists as th
 
 Sunny California, here I come!
 
-[comment]: Machine generated below here

@@ -16,4 +16,3 @@ Christopher J. Moore, **Davide Gerosa** , Antoine Klein.
 Monthly Notices of the Royal Astronomical Society Letters 488 (2019) [L94–L98](<https://academic.oup.com/mnrasl/article/488/1/L94/5526222>).  
 arXiv:[1905.11998](<http://arxiv.org/abs/arXiv:1905.11998>) [astro-ph.HE].
 
-[comment]: Machine generated below here

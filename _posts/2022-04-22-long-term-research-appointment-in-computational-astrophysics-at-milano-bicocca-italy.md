@@ -23,4 +23,3 @@ Applications should include a CV with a list of publications and a two-page stat
 
 We strive to build a diverse and inclusive environment and welcome expressions of interest from traditionally underrepresented groups. Women are especially encouraged to apply. For inquiries please do not hesitate to contact Bruno Giacomazzo ([bruno.giacomazzo@unimib.it](<mailto:bruno.giacomazzo@unimib.it>)) or Davide Gerosa ([davide.gerosa@unimib.it](<mailto:davide.gerosa@unimib.it>)).
 
-[comment]: Machine generated below here

@@ -12,4 +12,3 @@ Great paper led by [our former MSc student](<../../../../../index.html?p=5876>) 
 Alessandro Pedrotti, Michele Mancarella, Julien Bel, **Davide Gerosa**.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2504.10482](<https://arxiv.org/abs/2504.10482>) [astro-ph.CO].
 
-[comment]: Machine generated below here

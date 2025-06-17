@@ -13,4 +13,3 @@ I’m about to start teaching this year’s edition of “Astrostatistics and Ma
 
 Feel free to have a look if you fancy some stats… and please do send me feedback if you work through the material.
 
-[comment]: Machine generated below here

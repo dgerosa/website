@@ -12,4 +12,3 @@ I’m on the hook for teaching this semester (can’t complain really with such 
 [github.com/dgerosa/astrostatistics_bicocca_2025](<https://github.com/dgerosa/astrostatistics_bicocca_2025>)  
 [github.com/dgerosa/machinelearning4physics_bicocca_2025](<https://github.com/dgerosa/machinelearning4physics_bicocca_2025>)
 
-[comment]: Machine generated below here

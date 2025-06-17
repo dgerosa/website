@@ -14,4 +14,3 @@ Roxana Rosca-Mead, Ulrich Sperhake, Christopher J. Moore, Michalis Agathos, **Da
 Physical Review D 102 (2020) [044010](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.044010>).  
 arXiv:[2005.09728](<https://arxiv.org/abs/2005.09728>) [gr-qc].
 
-[comment]: Machine generated below here

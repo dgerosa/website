@@ -12,4 +12,3 @@ Gravitational-wave population people talk all the time about parametric vs non-p
 Cecilia Maria Fabbri, **Davide Gerosa** , Alessandro Santini, Matthew Mould, Alexandre Toubiana, Jonathan Gair.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2501.17233](<https://arxiv.org/abs/2501.17233>) [astro-ph.HE].
 
-[comment]: Machine generated below here

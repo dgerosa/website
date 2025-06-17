@@ -14,4 +14,3 @@ Viola De Renzis, Davide Gerosa, Geraint Pratten, Patricia Schmidt, Matthew Mould
 Physical Review D 106 (2022) [084040](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.084040>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2207.00030](<https://arxiv.org/abs/2207.00030>) [gr-qc].
 
-[comment]: Machine generated below here

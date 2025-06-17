@@ -12,4 +12,3 @@ General relativity has this beautiful property that coordinates are meaningless.
 Giulia Fumagalli, Nicholas Loutrel, **Davide Gerosa** , Matteo Boschini.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2502.06952](<https://arxiv.org/abs/2502.06952>) [gr-qc].
 
-[comment]: Machine generated below here

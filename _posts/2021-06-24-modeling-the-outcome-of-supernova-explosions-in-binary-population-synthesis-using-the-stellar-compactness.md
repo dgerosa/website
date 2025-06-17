@@ -14,4 +14,3 @@ Maciej Dabrowny, Nicola Giacobbo, **Davide Gerosa**.
 Rendiconti Lincei. Scienze Fisiche e Naturali 32 (2021) [665–673](<https://link.springer.com/article/10.1007/s12210-021-01019-8>).  
 arXiv:[2106.12541](<https://arxiv.org/abs/2106.12541>) [astro-ph.HE].
 
-[comment]: Machine generated below here

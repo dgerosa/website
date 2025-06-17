@@ -14,4 +14,3 @@ Black-hole kicks are powerful. I mean, really powerful. They can even eject supe
 Monthly Notices of the Royal Astronomical Society 446 (2015) [38-55](<http://mnras.oxfordjournals.org/content/446/1/38>).  
 arXiv:[1405.2072](<http://arxiv.org/abs/arXiv:1405.2072>) [astro-ph.GA].
 
-[comment]: Machine generated below here

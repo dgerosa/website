@@ -10,4 +10,3 @@ Hey Chris, just wanted to say thanks because you wanted to understand what was g
 
 [mykeeper.com/profile/KrzysztofBelczynski](<https://www.mykeeper.com/profile/KrzysztofBelczynski/>)
 
-[comment]: Machine generated below here

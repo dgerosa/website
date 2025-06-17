@@ -15,4 +15,3 @@ Physical Review D 108 (2023) [024042](<https://journals.aps.org/prd/abstract/10.
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2304.04801](<https://arxiv.org/abs/2304.04801>) [gr-qc].  
 Open-source code: [homepage](<../../../../../index.html?p=658>), [repository](<https://github.com/dgerosa/precession>), [documentation](<http://dgerosa.github.io/precession/>).
 
-[comment]: Machine generated below here

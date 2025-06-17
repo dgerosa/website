@@ -13,4 +13,3 @@ The citation reads: “ _For his outstanding contributions to gravitational-wave
 
 A huge thank you to all my supervisors and advisors who supported me in these past years. For more see the [Birmingham press release](<https://www.birmingham.ac.uk/news/latest/2020/03/birmingham-scientist-recognised-with-international-physics-prize.aspx>), the [Springer press release](<https://www.springer.com/gp/livingreviews/relativity/news/2020-iupap-young-scientist-prize-awarded-to-davide-gerosa/17805338>), and the [IUPAP newsletter](<https://iupap.org/wp-content/uploads/2021/02/IUPAP_June2020_low.pdf>).
 
-[comment]: Machine generated below here

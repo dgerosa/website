@@ -19,4 +19,3 @@ Candidates wishing to be considered for these additional positions should mentio
 
 More information on the astrophysics group at Bicocca can be found at [astro.fisica.unimib.it](<http://astro.fisica.unimib.it/>). For informal inquiries please do not hesitate to contact [davide.gerosa@unimib.it](<mailto:davide.gerosa@unimib.it>) or [alberto.sesana@unimib.it](<mailto:alberto.sesana@unimib.it>).
 
-[comment]: Machine generated below here

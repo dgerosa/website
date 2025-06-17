@@ -12,4 +12,3 @@ Here is the [conference program](<http://www.tapir.caltech.edu/~pcgm34/Schedule/
 
 ![](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI3MSIgd2lkdGg9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=)![apple-transparent.png](https://davidegerosa.files.wordpress.com/2018/10/apple-transparent.png)
 
-[comment]: Machine generated below here

@@ -10,4 +10,3 @@ tags:
 
 Congratulations to my Master’s students that graduate this year: ****Abdullah Aziz**** and **Julian Chan** from the University of Birmingham, and **Beatrice Basset** from the University of Lyon. Well done all, and good luck with your future adventures.
 
-[comment]: Machine generated below here

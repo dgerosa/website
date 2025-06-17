@@ -12,4 +12,3 @@ This paper came out of some discussions from our “[Gravitational-wave snowball
 Jakob Stegmann, **Davide Gerosa** , Isobel Romero-Shaw, Giulia Fumagalli, Hiromichi Tagawa, Lorenz Zwick.  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2505.13589](<https://arxiv.org/abs/2505.13589>) [astro-ph.HE].
 
-[comment]: Machine generated below here

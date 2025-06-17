@@ -16,4 +16,3 @@ Classical and Quantum Gravity 36 (2019) 14, [143001](<https://iopscience.iop.org
 arXiv:[1806.05195](<http://arxiv.org/abs/arXiv:1806.05195>) [gr-qc].  
 Editor’s coverage in [physicsworld.com](<https://physicsworld.com/a/roadmap-offers-expert-insight-into-gravitational-wave-astronomy/>).
 
-[comment]: Machine generated below here

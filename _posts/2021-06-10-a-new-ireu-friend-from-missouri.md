@@ -11,4 +11,3 @@ We have a new friend in the group! Meredith Vogel is joining us for her undergra
 
 * That’s the place were I saw a real alligator. On campus!
 
-[comment]: Machine generated below here

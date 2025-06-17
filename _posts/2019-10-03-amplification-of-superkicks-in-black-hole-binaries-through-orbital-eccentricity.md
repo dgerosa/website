@@ -14,4 +14,3 @@ Ulrich Sperhake, Roxana Rosca-Mead, **Davide Gerosa** , Emanuele Berti.
 Physical Review D 101 (2020) [024044](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.083015>).  
 arXiv:[1910.01598](<http://arxiv.org/abs/arXiv:1910.01598>) [gr-qc].
 
-[comment]: Machine generated below here

@@ -15,4 +15,3 @@ But it was also on the printed thing distributed everywhere!
 
 (That picture was taken in my office… So my office is also in the national newspaper today! Wooo!)
 
-[comment]: Machine generated below here

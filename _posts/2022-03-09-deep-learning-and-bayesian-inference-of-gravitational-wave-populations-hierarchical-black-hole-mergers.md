@@ -17,4 +17,3 @@ Matthew Mould, **Davide Gerosa** , Stephen R. Taylor.
 Physical Review D 106 (2022) [103013](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.103013>).  
 arXiv:[2203.03651](<https://arxiv.org/abs/2203.03651>) [astro-ph.HE].
 
-[comment]: Machine generated below here

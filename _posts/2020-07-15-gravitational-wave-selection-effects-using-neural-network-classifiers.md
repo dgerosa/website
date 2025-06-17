@@ -15,4 +15,3 @@ Physical Review D 102 (2020) [103020](<https://link.aps.org/doi/10.1103/PhysRevD
 arXiv:[2007.06585](<https://arxiv.org/abs/2006.06647>) [astro-ph.HE]  
 Open-source code: [homepage](<../../../../../index.html?p=3529>), [repository](<https://github.com/dgerosa/pdetclassifier>).
 
-[comment]: Machine generated below here

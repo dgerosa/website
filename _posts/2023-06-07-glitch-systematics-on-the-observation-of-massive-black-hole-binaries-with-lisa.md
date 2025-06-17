@@ -14,4 +14,3 @@ Alice Spadaro, Riccardo Buscicchio, Daniele Vetrugno, Antoine Klein, **Davide Ge
 Physical Review D 108 (2023) [123029](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.123029>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2306.03923](<https://arxiv.org/abs/2306.03923>) [gr-qc].
 
-[comment]: Machine generated below here

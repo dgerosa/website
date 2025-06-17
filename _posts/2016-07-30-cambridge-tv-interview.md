@@ -8,4 +8,3 @@ tags:
 
 I was [interviewed](<http://archive.cambridge-tv.co.uk/davide-gerosa-black-holes/>) by our local Cambridge TV. It was a funny experience: they asked me about black holes, gravitational waves, and black hole kicks.
 
-[comment]: Machine generated below here

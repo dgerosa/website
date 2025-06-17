@@ -15,4 +15,3 @@ Spin precession in stellar-mass black hole binaries encodes information on speci
 Physical Review D 87 (2013) [10, 104028](<http://journals.aps.org/prd/abstract/10.1103/PhysRevD.87.104028>).  
 arXiv:[1302.4442](<http://arxiv.org/abs/arXiv:1302.4442>) [gr-qc].
 
-[comment]: Machine generated below here

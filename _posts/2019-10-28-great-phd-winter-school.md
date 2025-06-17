@@ -11,4 +11,3 @@ This week I am organizing the [GrEAT PhD winter school](<https://sites.google.co
 
 After the school in Birmingham, students will move on to various UK nodes to complete longer projects. In particular, Mingyue Zhou will stay here working with me.
 
-[comment]: Machine generated below here

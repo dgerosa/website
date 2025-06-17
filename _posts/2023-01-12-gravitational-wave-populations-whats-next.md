@@ -21,4 +21,3 @@ Interested participants should register on the conference website by March 1st, 
 
 Davide Gerosa (Milano-Bicocca), Emanuele Berti (Johns Hopkins), Salvatore Vitale (MIT)
 
-[comment]: Machine generated below here

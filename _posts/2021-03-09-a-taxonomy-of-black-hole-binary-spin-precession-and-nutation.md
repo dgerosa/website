@@ -16,4 +16,3 @@ arXiv:[2103.03894](<https://arxiv.org/abs/2103.03894>) [gr-qc].
 
 ps. Stupid autocorrect! It’s nutation, not mutation.
 
-[comment]: Machine generated below here

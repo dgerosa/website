@@ -22,4 +22,3 @@ Interested students should register by ** _September 8th, 2023_**. Participation
 
 Davide Gerosa, Michele Fumagalli (Milano-Bicocca)
 
-[comment]: Machine generated below here

@@ -15,4 +15,3 @@ Classical and Quantum Gravity 32 (2015) 20, [204001](<http://iopscience.iop.org/
 arXiv:[1505.07462](<http://arxiv.org/abs/arXiv:1505.07462>) [gr-qc].  
 Featured in [CQG+](<http://cqgplus.com/2015/10/14/gravity-and-scalar-fields-live-long-and-prosper/>). Selected as [IOPselect](<http://Select.iop.org.>).
 
-[comment]: Machine generated below here

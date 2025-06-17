@@ -19,4 +19,3 @@ And if you couldn’t make it for whatever reason no worries, we’ll do it agai
 
 **Conference program in a nutshell.** These are our discussion sessions
 
-[comment]: Machine generated below here

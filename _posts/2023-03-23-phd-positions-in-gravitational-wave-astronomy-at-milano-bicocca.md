@@ -16,4 +16,3 @@ Our PhD admission program includes a number of “open” scholarships, covering
 
 We strive to build an inclusive group and welcome applications from all interested candidates. More information on the astrophysics group at Bicocca can be found at [astro.fisica.unimib.it](<https://astro.fisica.unimib.it/>). For informal inquiries and expressions of interest please do not hesitate to contact [davide.gerosa@unimib.it](<mailto:davide.gerosa@unimib.it>)
 
-[comment]: Machine generated below here

@@ -10,4 +10,3 @@ We moved (back) to the UK. I’m now a lecturer at the [University of Birmingham
 
 My [group](<../../../../../index.html?p=2466>) is part of the Birmingham [Institute for Gravitational Wave Astronomy](<http://www.sr.bham.ac.uk/gwgroup/>). If you’re interested in joining us, have a look at [this page](<../../../../../index.html?p=2613>). And see you in the Midlands!
 
-[comment]: Machine generated below here

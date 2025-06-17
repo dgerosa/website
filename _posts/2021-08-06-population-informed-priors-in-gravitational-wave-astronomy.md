@@ -16,4 +16,3 @@ Christopher J. Moore, **Davide Gerosa**.
 Physical Review D 104 (2021) [083008](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.083008>).  
 arXiv:[2108.02462](<https://arxiv.org/abs/2108.02462>) [gr-qc].
 
-[comment]: Machine generated below here

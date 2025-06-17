@@ -13,4 +13,3 @@ These are proceedings of the [IAU Symposium 338](<http://iau338.lsu.edu/>) “Gr
 Proceedings of the International Astronomical Union, 13 (S338), [22-28](<https://doi.org/10.1017/S1743921318003587>).  
 arXiv:[1712.06635](<http://arxiv.org/abs/arXiv:1712.06635>) [astro-ph.HE].
 
-[comment]: Machine generated below here

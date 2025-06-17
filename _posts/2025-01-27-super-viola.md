@@ -11,4 +11,3 @@ I’m so so proud to see my PhD student Viola De Renzis defending her PhD thesis
 
 _That’s me, Steve, Walter, Viola, and Alberto…_
 
-[comment]: Machine generated below here

@@ -16,4 +16,3 @@ Ken K. Y. Ng, Salvatore Vitale, Aaron Zimmerman, Katerina Chatziioannou, **David
 Physical Review D 98 (2018) [083007](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.083007>).  
 arXiv:[1805.03046](<http://arxiv.org/abs/arXiv:1805.03046>) [gr-qc].
 
-[comment]: Machine generated below here

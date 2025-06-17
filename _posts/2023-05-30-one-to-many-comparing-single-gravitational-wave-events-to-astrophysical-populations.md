@@ -14,4 +14,3 @@ Matthew Mould, **Davide Gerosa** , Marco Dall’Amico, Michela Mapelli.
 Monthly Notices of the Royal Astronomical Society, 525 (2023) [3986–3997](<https://doi.org/10.1093/mnras/stad2502>)  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2305.18539](<https://arxiv.org/abs/2305.18539>) [astro-ph.HE].
 
-[comment]: Machine generated below here

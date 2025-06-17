@@ -13,4 +13,3 @@ And, last but not least, let me add Simone Piscitelli, who last week defended hi
 
 Congrats all!
 
-[comment]: Machine generated below here

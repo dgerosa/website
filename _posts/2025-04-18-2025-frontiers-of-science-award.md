@@ -14,4 +14,3 @@ The complete list of Physics papers selected for awards is available [here](<../
 
 I’m so happy to see how a seemingly simple idea we had (_“What if LIGO’s black holes merge multiple times?”_) went so far! [Our paper](<../../../../../index.html?p=2128>) was published in Physical Review D in 2017, selected as an  _Editor’s Suggestion_ back then… and now got an award!
 
-[comment]: Machine generated below here

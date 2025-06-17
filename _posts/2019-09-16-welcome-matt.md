@@ -11,4 +11,3 @@ I am very excited to welcome Matthew Mould in [my research group](<../../../../.
 
 [Blog at WordPress.com.](<https://wordpress.com/?ref=footer_blog>)
 
-[comment]: Machine generated below here

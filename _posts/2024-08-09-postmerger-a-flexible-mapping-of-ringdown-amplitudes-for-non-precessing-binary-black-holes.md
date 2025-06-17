@@ -14,4 +14,3 @@ Costantino Pacilio, Swetha Bhagwat, Francesco Nobili, **Davide Gerosa**.
 Physical Review D 110 (2024) [103037](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.103037>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2408.05276](<https://arxiv.org/abs/2408.05276>) [gr-qc].
 
-[comment]: Machine generated below here

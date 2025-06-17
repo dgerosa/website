@@ -10,4 +10,3 @@ tags:
 
 Huge congrats to Arianna Renzini and Nick Loutrel who won two of this year’s “[Giovani Talenti](<https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2024>)” (Young Talents) prizes from the University of Milano-Bicocca. These are internal grants for postdocs: there were four grants awarded in Physics in total and two of them are from our group! Let’s gooooooooooo
 
-[comment]: Machine generated below here

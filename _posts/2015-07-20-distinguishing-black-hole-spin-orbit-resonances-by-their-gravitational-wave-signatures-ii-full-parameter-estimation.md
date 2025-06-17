@@ -14,4 +14,3 @@ Daniele Trifirò, Richard O’Shaughnessy, **Davide Gerosa** , Emanuele Berti, M
 Physical Review D 93 (2016) [044071](<http://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.044071>).  
 arXiv:[1507.05587](<http://arxiv.org/abs/arXiv:1507.05587>) [gr-qc].
 
-[comment]: Machine generated below here

@@ -12,4 +12,3 @@ This week we’re all at the Gran Sasso Science Institute (GSSI) in beautiful L�
 
 (If you’re asking, the title of the workshop is a totally legit acronym that just happens to make up the name of FC Inter’s striker… So weird, [it happened last year](<../../../../../index.html?p=5734>) already, I really don’t know how.)
 
-[comment]: Machine generated below here

@@ -15,4 +15,3 @@ Physical Review D 97 (2018) [104049](<https://journals.aps.org/prd/abstract/10.1
 arXiv:[1802.04276](<http://arxiv.org/abs/arXiv:1802.04276>) [gr-qc].  
 Open-source code: [homepage](<../../../../../index.html?p=1698>), [repository](<https://github.com/dgerosa/surrkick>).
 
-[comment]: Machine generated below here

@@ -21,4 +21,3 @@ Alice Spadaro, Riccardo Buscicchio, David Izquierdo-Villalba, **Davide Gerosa** 
 Physical Review D 111 (2025) [023004](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.023004>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2409.13011](<https://arxiv.org/abs/2409.13011>) [astro-ph.HE].
 
-[comment]: Machine generated below here

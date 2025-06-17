@@ -15,4 +15,3 @@ Classical and Quantum Gravity 33 (2016) 13 , [135002](<http://iopscience.iop.org
 arXiv:[1602.06952](<http://arxiv.org/abs/arXiv:1602.06952>) [gr-qc].  
 Supporting material available [here](<../../../../../index.html?p=803>).
 
-[comment]: Machine generated below here

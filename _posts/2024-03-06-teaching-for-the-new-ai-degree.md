@@ -13,4 +13,3 @@ On top of “[astrostats](<../../../../../index.html?p=5848>)” for the MSc deg
 
 Can’t wait to see what these AI students can do! Hope to learn from you as much as you learn from me.
 
-[comment]: Machine generated below here

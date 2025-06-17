@@ -17,4 +17,3 @@ arXiv:[1704.03879](<http://arxiv.org/abs/arXiv:1704.03879>) [astro-ph.HE].
 Editor’s coverage in [physics.aps.org](<https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.119.011101>).  
 Other press coverage: [IOP’s physicsworld.com](<http://physicsworld.com/cws/article/news/2017/jun/05/flash-physics-supernova-kicks-black-hole-spin-neutron-star-probe-launches-award-winning-planetary-scientists>), [Science Daily](<https://www.sciencedaily.com/releases/2017/06/170605124112.htm>), [Phys.org](<https://phys.org/news/2017-06-dying-stars-newborn-black-holes.html>), [astronomy.com](<http://www.astronomy.com/news/2017/06/black-hole-kicks>), [sciencenews](<https://www.sciencenews.org/article/swift-kick-supernova-could-knock-black-hole-askew>), [iflscience](<http://www.iflscience.com/space/supernova-explosions-may-give-a-powerful-kick-to-newborn-black-holes/>).
 
-[comment]: Machine generated below here

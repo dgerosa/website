@@ -14,4 +14,3 @@ tags:
 Classical and Quantum Gravity 41 (2024) [125002](<https://iopscience.iop.org/article/10.1088/1361-6382/ad4509>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2404.16930](<https://arxiv.org/abs/2404.16930>) [astro-ph.HE].
 
-[comment]: Machine generated below here

@@ -17,4 +17,3 @@ Our PhD admission program includes several “open” scholarships, covering all
 
 We strive to build an inclusive group and welcome applications from all interested candidates. For informal inquiries, expressions of interest, and application tips please do not hesitate to contact [davide.gerosa@unimib.it](<mailto:davide.gerosa@unimib.it>)
 
-[comment]: Machine generated below here

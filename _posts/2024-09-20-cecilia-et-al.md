@@ -15,4 +15,3 @@ We also supervised three BSc students who defended their short projects:
 
 Congrats all, Spritz time now.
 
-[comment]: Machine generated below here

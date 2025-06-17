@@ -16,4 +16,3 @@ Daniel Wysocki, **Davide Gerosa** , Richard O’Shaughnessy, Krzysztof Belczynsk
 Physical Review D 97 (2018) [043014](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.043014>).  
 arXiv:[1709.01943](<http://arxiv.org/abs/arXiv:1709.01943>) [astro-ph.HE].
 
-[comment]: Machine generated below here

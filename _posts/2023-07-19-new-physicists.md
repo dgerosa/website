@@ -12,4 +12,3 @@ Two students just completed their Bachelor’s degree with research projects in 
 
 I had the honor of heading their graduation committee and could call them “physicists” for the very first time (and the Italian ceremonial sentence is quite imposing: “ _coi poteri conferitami…_ “). Congrats Simone and Leonardo!
 
-[comment]: Machine generated below here

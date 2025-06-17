@@ -16,4 +16,3 @@ Physical Review D 99 (2019) [103004](<https://journals.aps.org/prd/abstract/10.1
 arXiv:[1902.00021](<http://arxiv.org/abs/arXiv:1902.00021>) [astro-ph.HE].   
 Supporting material available [here](<../../../../../index.html?p=1866>).
 
-[comment]: Machine generated below here

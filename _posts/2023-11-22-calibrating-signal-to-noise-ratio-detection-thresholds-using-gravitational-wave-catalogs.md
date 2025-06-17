@@ -14,4 +14,3 @@ Matthew Mould, Christopher J. Moore, **Davide Gerosa**.
 Physical Review D 109 (2023) [063013](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.063013>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2311.12117](<https://arxiv.org/abs/2311.12117>) [gr-qc].
 
-[comment]: Machine generated below here

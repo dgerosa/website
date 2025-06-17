@@ -16,4 +16,3 @@ arXiv:[1703.06223](<http://arxiv.org/abs/arXiv:1703.06223>) [gr-qc].
 Selected as PRD Editors’ Suggestion.  
 Other press coverage: [Ars Technica](<https://arstechnica.com/science/2017/06/black-hole-mergers-may-reveal-dark-past-of-cannibalism/>).
 
-[comment]: Machine generated below here

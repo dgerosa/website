@@ -17,4 +17,3 @@ This specific position is titled _“Large catalogs of gravitational-wave events
 
 Milan is a beautiful, international city in the north of Italy. Mountains and lakes are just around the corner. For further information and informal inquiries please do not hesitate to contact me ([davide.gerosa@unimib.it](<mailto:davide.gerosa@unimib.it>)).
 
-[comment]: Machine generated below here

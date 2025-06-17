@@ -15,4 +15,3 @@ Physical Review D 92 (2015) [064016](<http://journals.aps.org/prd/abstract/10.11
 arXiv:[1506.03492](<http://arxiv.org/abs/arXiv:1506.03492>) [gr-qc].  
 Supporting material available [here](<../../../../../index.html?p=224>).
 
-[comment]: Machine generated below here

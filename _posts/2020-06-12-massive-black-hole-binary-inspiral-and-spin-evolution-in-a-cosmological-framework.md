@@ -14,4 +14,3 @@ Mohammad Sayeb, Laura Blecha, Luke Zoltan Kelley, **Davide Gerosa** , Michael Ke
 Monthly Notices of the Royal Astronomical Society 501 (2020) [2531–2546](<https://doi.org/10.1093/mnras/staa3826>).  
 arXiv:[2006.06647](<https://arxiv.org/abs/2006.06647>) [astro-ph.GA].
 
-[comment]: Machine generated below here

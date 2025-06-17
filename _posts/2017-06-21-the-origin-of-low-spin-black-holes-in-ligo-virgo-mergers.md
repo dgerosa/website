@@ -14,4 +14,3 @@ Krzysztof Belczynski, Jakub Klencki, Carl E. Fields, Aleksandra Olejak, Emanuele
 Astronomy & Astrophysics, in press.  
 arXiv:[1706.07053](<http://arxiv.org/abs/arXiv:1706.07053>) [astro-ph.HE].
 
-[comment]: Machine generated below here

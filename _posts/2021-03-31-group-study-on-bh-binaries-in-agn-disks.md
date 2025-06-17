@@ -14,4 +14,3 @@ Here is a log of all the sessions: [](<../../../../../index.html?p=3615>)[davide
 
 Let me thanks all those who took part and presented papers including Daria, Matt (1), Chris, Eliot, Matt (2), Alberto, Evan, Riccardo, and Sean.
 
-[comment]: Machine generated below here

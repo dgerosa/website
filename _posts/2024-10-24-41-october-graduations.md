@@ -11,4 +11,3 @@ Four BSc students and one MSc student defended their research project with us th
 
 Thanks all for spending some time in our research group!
 
-[comment]: Machine generated below here

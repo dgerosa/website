@@ -12,4 +12,3 @@ Here is the conference [program](<https://www.ast.cam.ac.uk/meetings/2017/migrat
 
 ![](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIzMCIgd2lkdGg9IjcyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=)![DM_web-banner.jpg](https://davidegerosa.files.wordpress.com/2018/10/dm_web-banner.jpg)
 
-[comment]: Machine generated below here

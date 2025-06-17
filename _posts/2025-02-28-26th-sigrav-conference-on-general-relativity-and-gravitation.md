@@ -19,4 +19,3 @@ Abstracts for contributed talks should submitted by May 31, 2025. We aim to anno
 
 Milan is a beautiful, international city in the north of Italy and is served by three major airports with worldwide connections. The city is home to art, history, and great food; you can also explore nearby lakes or venture into the stunning Alps.
 
-[comment]: Machine generated below here

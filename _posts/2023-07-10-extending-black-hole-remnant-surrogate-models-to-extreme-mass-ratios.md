@@ -14,4 +14,3 @@ Matteo Boschini, **Davide Gerosa** , Vijay Varma, Cristobal Armaza, Michael Boyl
 Physical Review D 108 (2023) [084015](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.084015>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2307.03435](<https://arxiv.org/abs/2307.03435>) [gr-qc].
 
-[comment]: Machine generated below here

@@ -11,4 +11,3 @@ Our [group](<../../../../../index.html?p=2466>) is accreting people at the Eddin
 
 Group meetings are funny and busy these days, with too many ideas going around.
 
-[comment]: Machine generated below here

@@ -14,4 +14,3 @@ Vijay Varma, Scott E. Field, Mark A. Scheel, Jonathan Blackman, **Davide Gerosa*
 Physical Review Research 1 (2019) [033015](<https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.033015>).  
 arXiv:[1905.09300](<http://arxiv.org/abs/arXiv:1905.09300>) [gr-qc].
 
-[comment]: Machine generated below here

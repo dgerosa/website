@@ -15,4 +15,3 @@ Daria Gangardt, Alessandro Alberto Trani, Clément Bonnerot, **Davide Gerosa**.
 Monthly Notices of the Royal Astronomical Society, 530 (2024) [3986–3997](<https://doi.org/10.1093/mnras/stae1117>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2403.00060](<https://arxiv.org/abs/2403.00060>) [astro-ph.HE].
 
-[comment]: Machine generated below here

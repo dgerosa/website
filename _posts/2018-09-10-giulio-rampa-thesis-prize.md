@@ -10,4 +10,3 @@ I was recently awarded the [2018 Giulio Rampa Thesis Prize for Outstanding Resea
 
 _Dr. Gerosa’s Ph.D. Thesis on “Source modelling at the dawn of gravitational-wave astronomy” shows an impressive ability to master a rather broad range of topics in relativistic astrophysics and gravitational wave physics. The research initiated by Dr. Gerosa in these areas has triggered follow-up work, providing new important insights and new physical scenarios. The large impact that the work of Dr. Gerosa has already had can only continue to grow._
 
-[comment]: Machine generated below here

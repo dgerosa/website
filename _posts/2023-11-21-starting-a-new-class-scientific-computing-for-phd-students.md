@@ -13,4 +13,3 @@ I’m teaching the first lecture of a new class today. This is “Scientific com
 
 Have a look if you want and please do give feedback if you do 🙂
 
-[comment]: Machine generated below here

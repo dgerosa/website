@@ -17,4 +17,3 @@ Lorentz Workshops@Oort are scientific meetings for small groups of up to 55 part
 
 **SOC** : Fabio Antonini (chair), Maya Fishbach, Davide Gerosa, Laura Nuttall, Rosalba Perna, Simon Portegies Zwart.
 
-[comment]: Machine generated below here

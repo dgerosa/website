@@ -17,4 +17,3 @@ Salvatore Vitale, **Davide Gerosa** , Carl-Johan Haster, Katerina Chatziioannou,
 arXiv:[1707.04637](<http://arxiv.org/abs/arXiv:1707.04637>) [gr-qc].  
 Posterior sample [data release](<https://github.com/vitale82/GWpriors>).
 
-[comment]: Machine generated below here

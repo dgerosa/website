@@ -17,4 +17,3 @@ Physical Review D 98 (2018) [083017](<https://journals.aps.org/prd/abstract/10.1
 arXiv:[1806.08365](<http://arxiv.org/abs/arXiv:1806.08365>) [astro-ph.HE].  
 Editor’s coverage in [APS’s Kaleidoscope](<https://journals.aps.org/prd/kaleidoscope/prd/98/8/083017>).
 
-[comment]: Machine generated below here

@@ -15,4 +15,3 @@ Equal-mass binaries correspond to a discontinuous limit in the spin precession e
 Classical and Quantum Gravity 34 (2017) 6 ,[064004](<http://iopscience.iop.org/article/10.1088/1361-6382/aa5e58>).  
 arXiv:[1612.05263](<http://arxiv.org/abs/arXiv:1612.05263>) [gr-qc].
 
-[comment]: Machine generated below here

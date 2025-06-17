@@ -14,4 +14,3 @@ Vishal Baibhav, **Davide Gerosa** , Emanuele Berti, Kaze W. K. Wong, Thomas Helf
 Physical Review D 102 (2020) [043002](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.043002>).  
 arXiv:[2004.00650](<https://arxiv.org/abs/2004.00650>) [gr-qc].
 
-[comment]: Machine generated below here

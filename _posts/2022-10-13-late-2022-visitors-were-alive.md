@@ -9,4 +9,3 @@ tags:
 
 My group is hosting quite a few visitors this semester. We’re alive!
 
-[comment]: Machine generated below here

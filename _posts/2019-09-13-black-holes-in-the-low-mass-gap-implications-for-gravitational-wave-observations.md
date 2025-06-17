@@ -14,4 +14,3 @@ Anuradha Gupta, **Davide Gerosa** , K. G. Arun, Emanuele Berti, Will Farr, B. S.
 Physical Review D 101 (2020) [103036](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.103036>).  
 arXiv:[1909.05804](<https://arxiv.org/abs/arXiv:1909.05804>) [gr-qc].
 
-[comment]: Machine generated below here

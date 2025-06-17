@@ -16,4 +16,3 @@ arXiv:[2002.10462](<http://arxiv.org/abs/arXiv:2002.10462>) [astro-ph.GA].
 
 _ps_. The second half of the story is [here](<../../../../../index.html?p=3050>).
 
-[comment]: Machine generated below here

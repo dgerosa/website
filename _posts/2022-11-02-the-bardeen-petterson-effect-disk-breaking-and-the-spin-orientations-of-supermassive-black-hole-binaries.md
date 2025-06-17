@@ -14,4 +14,3 @@ Nathan Steinle, **Davide Gerosa**.
 Monthly Notices of the Royal Astronomical Society 519 (2023) [5031–5042](<https://doi.org/10.1093/mnras/stac3821>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2211.00044](<https://arxiv.org/abs/2211.00044>) [astro-ph.HE].
 
-[comment]: Machine generated below here

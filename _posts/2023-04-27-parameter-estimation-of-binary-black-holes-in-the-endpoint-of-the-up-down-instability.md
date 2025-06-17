@@ -14,4 +14,3 @@ Viola De Renzis, **Davide Gerosa** , Matthew Mould, Riccardo Buscicchio, Lorenzo
 Physical Review D 108 (2023) [024024](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.024024>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2304.13063](<https://arxiv.org/abs/2304.13063>) [gr-qc].
 
-[comment]: Machine generated below here

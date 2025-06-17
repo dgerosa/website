@@ -12,4 +12,3 @@ Another short post today, but it’s not just [astrophysics](<../../../../../ind
 K. G. Arun, et al. (141 authors incl. **Davide Gerosa**)  
 arXiv:[2205.01597](<https://arxiv.org/abs/arXiv:2205.01597>) [gr-qc].
 
-[comment]: Machine generated below here

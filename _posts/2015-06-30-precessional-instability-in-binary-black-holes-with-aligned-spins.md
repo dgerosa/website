@@ -16,4 +16,3 @@ arXiv:[1506.09116](<http://arxiv.org/abs/arXiv:1506.09116>) [gr-qc].
 Selected as PRL Editors’ Suggestion.  
 Supporting material available [here](<../../../../../index.html?p=224>).
 
-[comment]: Machine generated below here

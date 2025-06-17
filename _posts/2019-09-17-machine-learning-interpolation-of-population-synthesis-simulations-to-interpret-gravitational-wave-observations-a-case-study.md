@@ -16,4 +16,3 @@ arXiv:[1909.06373](<http://arxiv.org/abs/arXiv:1909.05804>) [astro-ph.HE].
 
 ps. The nickname of this project was _sigmaspops_
 
-[comment]: Machine generated below here

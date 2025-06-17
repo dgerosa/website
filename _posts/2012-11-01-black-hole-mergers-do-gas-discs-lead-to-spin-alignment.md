@@ -15,4 +15,3 @@ Giuseppe Lodato, **Davide Gerosa.**
 Monthly Notices of the Royal Astronomical Society Letters 429 (2013) [L30-L34](<http://mnrasl.oxfordjournals.org/content/429/1/L30>).  
 arXiv:[1211.0284](<http://arxiv.org/abs/arXiv:1211.0284>) [astro-ph.CO].
 
-[comment]: Machine generated below here

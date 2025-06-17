@@ -14,4 +14,3 @@ Konstantinos Kritos, Luca Reali,**Davide Gerosa** , Emanuele Berti.
 Physical Review D 110 (2024) [123017](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.123017>).  
 arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2409.15439](<https://arxiv.org/abs/2409.15439>) [astro-ph.HE].
 
-[comment]: Machine generated below here

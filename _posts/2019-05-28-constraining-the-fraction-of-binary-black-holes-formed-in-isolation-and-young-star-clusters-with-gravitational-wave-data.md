@@ -14,4 +14,3 @@ Yann Bouffanais, Michela Mapelli, **Davide Gerosa** , Ugo N. Di Carlo, Nicola Gi
 Astrophysical Journal, 886 (2019) [25](<https://iopscience.iop.org/article/10.3847/1538-4357/ab4a79>).  
 arXiv:[1905.11054](<http://arxiv.org/abs/arXiv:1905.11054>) [astro-ph.HE].
 
-[comment]: Machine generated below here

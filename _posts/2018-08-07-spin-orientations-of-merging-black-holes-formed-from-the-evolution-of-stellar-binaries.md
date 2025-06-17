@@ -17,4 +17,3 @@ Physical Review D 98 (2018) [084036](<https://journals.aps.org/prd/abstract/10.1
 arXiv:[1808.02491](<http://arxiv.org/abs/arXiv:1808.02491>) [astro-ph.HE].  
 Supporting material available [here](<https://github.com/dgerosa/spops>).
 
-[comment]: Machine generated below here

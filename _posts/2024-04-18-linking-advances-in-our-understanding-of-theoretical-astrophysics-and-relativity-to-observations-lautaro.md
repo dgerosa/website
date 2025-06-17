@@ -13,4 +13,3 @@ This week we’re hosting researchers from the Gran Sasso Science Institute (GSS
 
 This is part of a [PRIN grant](<../../../../../index.html?p=5383>) we have together (thanks Italy) with support from other grants as well (thanks Europe). The meeting has [the best title ever](<https://en.wikipedia.org/wiki/Lautaro_Mart%C3%ADnez>) (that was actually my idea…), the best logo ever (that was Giulia’s idea), and the best organization ever (huge thanks Costantino and Sara!).
 
-[comment]: Machine generated below here

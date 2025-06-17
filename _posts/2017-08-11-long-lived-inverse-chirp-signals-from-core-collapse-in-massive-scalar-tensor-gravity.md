@@ -14,4 +14,3 @@ Ulrich Sperhake, Christopher J. Moore, Roxana Rosca, Michalis Agathos, **Davide 
 **Physical Review Letters** 119 (2017) [201103](<https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.201103>).  
 arXiv:[1708.03651](<http://arxiv.org/abs/arXiv:1708.03651>) [gr-qc].
 
-[comment]: Machine generated below here
