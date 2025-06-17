@@ -1,7 +1,7 @@
 ---
 title: 'Probing AGN jet precession with LISA.'
 date: 2024-03-04
-permalink: /posts/2024/03/04/probing-agn-jet-precession-with-lisa
+permalink: /posts/2024-03-04-probing-agn-jet-precession-with-lisa
 tags:
   - Milano
   - Papers

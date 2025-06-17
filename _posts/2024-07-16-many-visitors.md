@@ -1,7 +1,7 @@
 ---
 title: 'Many visitors'
 date: 2024-07-16
-permalink: /posts/2024/07/16/many-visitors
+permalink: /posts/2024-07-16-many-visitors
 tags:
   - Milano
 ---

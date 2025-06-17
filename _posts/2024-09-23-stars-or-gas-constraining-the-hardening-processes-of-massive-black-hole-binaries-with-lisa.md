@@ -1,7 +1,7 @@
 ---
 title: 'Stars or gas? Constraining the hardening processes of massive black-hole binaries with LISA'
 date: 2024-09-23
-permalink: /posts/2024/09/23/stars-or-gas-constraining-the-hardening-processes-of-massive-black-hole-binaries-with-lisa
+permalink: /posts/2024-09-23-stars-or-gas-constraining-the-hardening-processes-of-massive-black-hole-binaries-with-lisa
 tags:
   - Milano
   - Papers

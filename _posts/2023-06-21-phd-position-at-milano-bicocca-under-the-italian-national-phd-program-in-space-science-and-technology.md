@@ -1,7 +1,7 @@
 ---
 title: 'Phd position at Milano-Bicocca under the Italian National PhD program in Space Science and Technology'
 date: 2023-06-21
-permalink: /posts/2023/06/21/phd-position-at-milano-bicocca-under-the-italian-national-phd-program-in-space-science-and-technology
+permalink: /posts/2023-06-21-phd-position-at-milano-bicocca-under-the-italian-national-phd-program-in-space-science-and-technology
 tags:
   - Jobs
   - Milano

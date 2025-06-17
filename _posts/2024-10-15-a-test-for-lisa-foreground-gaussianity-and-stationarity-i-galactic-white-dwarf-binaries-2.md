@@ -1,7 +1,7 @@
 ---
 title: 'A test for LISA foreground Gaussianity and stationarity. I. Galactic white-dwarf binaries'
 date: 2024-10-15
-permalink: /posts/2024/10/15/a-test-for-lisa-foreground-gaussianity-and-stationarity-i-galactic-white-dwarf-binaries-2
+permalink: /posts/2024-10-15-a-test-for-lisa-foreground-gaussianity-and-stationarity-i-galactic-white-dwarf-binaries-2
 tags:
   - Milano
   - Papers

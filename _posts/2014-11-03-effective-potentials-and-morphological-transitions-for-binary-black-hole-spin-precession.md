@@ -1,7 +1,7 @@
 ---
 title: 'Effective potentials and morphological transitions for binary black-hole spin precession'
 date: 2014-11-03
-permalink: /posts/2014/11/03/effective-potentials-and-morphological-transitions-for-binary-black-hole-spin-precession
+permalink: /posts/2014-11-03-effective-potentials-and-morphological-transitions-for-binary-black-hole-spin-precession
 tags:
   - Cambridge
   - Papers

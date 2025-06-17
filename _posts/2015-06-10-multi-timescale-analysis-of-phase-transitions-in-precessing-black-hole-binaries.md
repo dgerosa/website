@@ -1,7 +1,7 @@
 ---
 title: 'Multi-timescale analysis of phase transitions in precessing black-hole binaries'
 date: 2015-06-10
-permalink: /posts/2015/06/10/multi-timescale-analysis-of-phase-transitions-in-precessing-black-hole-binaries
+permalink: /posts/2015-06-10-multi-timescale-analysis-of-phase-transitions-in-precessing-black-hole-binaries
 tags:
   - Cambridge
   - Papers

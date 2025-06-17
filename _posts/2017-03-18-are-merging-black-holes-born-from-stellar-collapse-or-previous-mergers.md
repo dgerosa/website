@@ -1,7 +1,7 @@
 ---
 title: 'Are merging black holes born from stellar collapse or previous mergers?'
 date: 2017-03-18
-permalink: /posts/2017/03/18/are-merging-black-holes-born-from-stellar-collapse-or-previous-mergers
+permalink: /posts/2017-03-18-are-merging-black-holes-born-from-stellar-collapse-or-previous-mergers
 tags:
   - Caltech
   - Papers

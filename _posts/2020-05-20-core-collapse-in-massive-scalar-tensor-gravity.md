@@ -1,7 +1,7 @@
 ---
 title: 'Core collapse in massive scalar-tensor gravity'
 date: 2020-05-20
-permalink: /posts/2020/05/20/core-collapse-in-massive-scalar-tensor-gravity
+permalink: /posts/2020-05-20-core-collapse-in-massive-scalar-tensor-gravity
 tags:
   - Birmingham
   - Papers

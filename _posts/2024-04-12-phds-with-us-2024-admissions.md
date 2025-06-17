@@ -1,7 +1,7 @@
 ---
 title: 'PhDs with us! 2024 admissions'
 date: 2024-04-12
-permalink: /posts/2024/04/12/phds-with-us-2024-admissions
+permalink: /posts/2024-04-12-phds-with-us-2024-admissions
 tags:
   - Jobs
   - Milano

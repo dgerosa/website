@@ -1,7 +1,7 @@
 ---
 title: 'Spin-eccentricity interplay in merging binary black holes'
 date: 2023-10-31
-permalink: /posts/2023/10/31/spin-eccentricity-interplay-in-merging-binary-black-holes
+permalink: /posts/2023-10-31-spin-eccentricity-interplay-in-merging-binary-black-holes
 tags:
   - Milano
   - Papers

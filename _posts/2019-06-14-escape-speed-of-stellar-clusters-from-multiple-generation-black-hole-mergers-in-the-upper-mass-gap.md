@@ -1,7 +1,7 @@
 ---
 title: 'Escape speed of stellar clusters from multiple-generation black-hole mergers in the upper mass gap'
 date: 2019-06-14
-permalink: /posts/2019/06/14/escape-speed-of-stellar-clusters-from-multiple-generation-black-hole-mergers-in-the-upper-mass-gap
+permalink: /posts/2019-06-14-escape-speed-of-stellar-clusters-from-multiple-generation-black-hole-mergers-in-the-upper-mass-gap
 tags:
   - Birmingham
   - Papers

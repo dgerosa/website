@@ -1,7 +1,7 @@
 ---
 title: 'Tensor-multi-scalar theories: relativistic stars and 3+1 decomposition'
 date: 2015-05-27
-permalink: /posts/2015/05/27/tensor-multi-scalar-theories-relativistic-stars-and-31-decomposition
+permalink: /posts/2015-05-27-tensor-multi-scalar-theories-relativistic-stars-and-31-decomposition
 tags:
   - Cambridge
   - CQG

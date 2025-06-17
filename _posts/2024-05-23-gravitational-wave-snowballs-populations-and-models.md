@@ -1,7 +1,7 @@
 ---
 title: 'Gravitational-wave snowballs, populations, and models'
 date: 2024-05-23
-permalink: /posts/2024/05/23/gravitational-wave-snowballs-populations-and-models
+permalink: /posts/2024-05-23-gravitational-wave-snowballs-populations-and-models
 tags:
   - Conferences
 ---

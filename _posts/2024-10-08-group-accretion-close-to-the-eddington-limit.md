@@ -1,7 +1,7 @@
 ---
 title: 'Group accretion (close to the Eddington limit)'
 date: 2024-10-08
-permalink: /posts/2024/10/08/group-accretion-close-to-the-eddington-limit
+permalink: /posts/2024-10-08-group-accretion-close-to-the-eddington-limit
 tags:
   - Milano
   - People

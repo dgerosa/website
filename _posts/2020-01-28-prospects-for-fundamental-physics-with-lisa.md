@@ -1,7 +1,7 @@
 ---
 title: 'Prospects for fundamental physics with LISA'
 date: 2020-01-28
-permalink: /posts/2020/01/28/prospects-for-fundamental-physics-with-lisa
+permalink: /posts/2020-01-28-prospects-for-fundamental-physics-with-lisa
 tags:
   - Birmingham
   - GRG

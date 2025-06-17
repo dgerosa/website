@@ -1,7 +1,7 @@
 ---
 title: 'Bham, here I come'
 date: 2019-03-19
-permalink: /posts/2019/03/19/bham-here-i-come
+permalink: /posts/2019-03-19-bham-here-i-come
 tags:
   - Birmingham
 ---

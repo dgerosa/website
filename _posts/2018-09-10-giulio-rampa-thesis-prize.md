@@ -1,7 +1,7 @@
 ---
 title: 'Giulio Rampa thesis prize'
 date: 2018-09-10
-permalink: /posts/2018/09/10/giulio-rampa-thesis-prize
+permalink: /posts/2018-09-10-giulio-rampa-thesis-prize
 tags:
   - Awards
 ---

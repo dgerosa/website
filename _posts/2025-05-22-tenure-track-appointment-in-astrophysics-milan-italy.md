@@ -1,7 +1,7 @@
 ---
 title: 'Tenure-track appointment in Astrophysics, Milan, Italy'
 date: 2025-05-22
-permalink: /posts/2025/05/22/tenure-track-appointment-in-astrophysics-milan-italy
+permalink: /posts/2025-05-22-tenure-track-appointment-in-astrophysics-milan-italy
 tags:
   - Jobs
   - Milano

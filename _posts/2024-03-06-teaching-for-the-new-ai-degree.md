@@ -1,7 +1,7 @@
 ---
 title: 'Teaching for the new AI degree'
 date: 2024-03-06
-permalink: /posts/2024/03/06/teaching-for-the-new-ai-degree
+permalink: /posts/2024-03-06-teaching-for-the-new-ai-degree
 tags:
   - Milano
   - Teaching

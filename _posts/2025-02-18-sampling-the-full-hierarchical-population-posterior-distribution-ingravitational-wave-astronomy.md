@@ -1,7 +1,7 @@
 ---
 title: 'Sampling the full hierarchical population posterior distribution ingravitational-wave astronomy'
 date: 2025-02-18
-permalink: /posts/2025/02/18/sampling-the-full-hierarchical-population-posterior-distribution-ingravitational-wave-astronomy
+permalink: /posts/2025-02-18-sampling-the-full-hierarchical-population-posterior-distribution-ingravitational-wave-astronomy
 tags:
   - Milano
   - Papers

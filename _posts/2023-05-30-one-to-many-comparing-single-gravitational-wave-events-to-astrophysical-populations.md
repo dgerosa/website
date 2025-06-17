@@ -1,7 +1,7 @@
 ---
 title: 'One to many: comparing single gravitational-wave events to astrophysical populations'
 date: 2023-05-30
-permalink: /posts/2023/05/30/one-to-many-comparing-single-gravitational-wave-events-to-astrophysical-populations
+permalink: /posts/2023-05-30-one-to-many-comparing-single-gravitational-wave-events-to-astrophysical-populations
 tags:
   - Milano
   - MNRAS

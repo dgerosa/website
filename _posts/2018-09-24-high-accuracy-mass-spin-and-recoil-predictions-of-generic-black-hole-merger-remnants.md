@@ -1,7 +1,7 @@
 ---
 title: 'High-accuracy mass, spin, and recoil predictions of generic black-hole merger remnants'
 date: 2018-09-24
-permalink: /posts/2018/09/24/high-accuracy-mass-spin-and-recoil-predictions-of-generic-black-hole-merger-remnants
+permalink: /posts/2018-09-24-high-accuracy-mass-spin-and-recoil-predictions-of-generic-black-hole-merger-remnants
 tags:
   - Caltech
   - Papers

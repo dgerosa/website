@@ -1,7 +1,7 @@
 ---
 title: 'Constraining the fraction of binary black holes formed in isolation and young star clusters with gravitational-wave data'
 date: 2019-05-28
-permalink: /posts/2019/05/28/constraining-the-fraction-of-binary-black-holes-formed-in-isolation-and-young-star-clusters-with-gravitational-wave-data
+permalink: /posts/2019-05-28-constraining-the-fraction-of-binary-black-holes-formed-in-isolation-and-young-star-clusters-with-gravitational-wave-data
 tags:
   - Birmingham
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'Gravitational-wave astrophysics with effective-spin measurements: asymmetries and selection biases'
 date: 2018-05-04
-permalink: /posts/2018/05/04/gravitational-wave-astrophysics-with-effective-spin-measurements-asymmetries-and-selection-biases
+permalink: /posts/2018-05-04-gravitational-wave-astrophysics-with-effective-spin-measurements-asymmetries-and-selection-biases
 tags:
   - Caltech
   - Papers

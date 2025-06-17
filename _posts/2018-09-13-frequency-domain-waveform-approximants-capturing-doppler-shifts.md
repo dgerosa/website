@@ -1,7 +1,7 @@
 ---
 title: 'Frequency-domain waveform approximants capturing Doppler shifts'
 date: 2018-09-13
-permalink: /posts/2018/09/13/frequency-domain-waveform-approximants-capturing-doppler-shifts
+permalink: /posts/2018-09-13-frequency-domain-waveform-approximants-capturing-doppler-shifts
 tags:
   - Caltech
   - Papers

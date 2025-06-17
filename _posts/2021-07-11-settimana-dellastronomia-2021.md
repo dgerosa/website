@@ -1,7 +1,7 @@
 ---
 title: 'Settimana dell’astronomia 2021'
 date: 2021-07-11
-permalink: /posts/2021/07/11/settimana-dellastronomia-2021
+permalink: /posts/2021-07-11-settimana-dellastronomia-2021
 tags:
   - Birmingham
   - Outreach

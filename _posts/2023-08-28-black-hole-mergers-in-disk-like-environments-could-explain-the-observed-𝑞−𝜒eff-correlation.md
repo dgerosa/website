@@ -1,7 +1,7 @@
 ---
 title: 'Black-hole mergers in disk-like environments could explain the observed 𝑞−𝜒eff correlation'
 date: 2023-08-28
-permalink: /posts/2023/08/28/black-hole-mergers-in-disk-like-environments-could-explain-the-observed-𝑞−𝜒eff-correlation
+permalink: /posts/2023-08-28-black-hole-mergers-in-disk-like-environments-could-explain-the-observed-𝑞−𝜒eff-correlation
 tags:
   - Milano
   - Papers

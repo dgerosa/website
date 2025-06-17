@@ -1,7 +1,7 @@
 ---
 title: 'Italy has a brand new Center for Supercomputing (ICSC)… and we’re on it!'
 date: 2022-08-30
-permalink: /posts/2022/08/30/new-italian-center-for-supercomputing-icsc-and-were-on-it
+permalink: /posts/2022-08-30-new-italian-center-for-supercomputing-icsc-and-were-on-it
 tags:
   - Milano
 ---

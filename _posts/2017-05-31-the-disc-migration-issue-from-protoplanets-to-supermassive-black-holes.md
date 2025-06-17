@@ -1,7 +1,7 @@
 ---
 title: 'The disc migration issue: from protoplanets to supermassive black holes'
 date: 2017-05-31
-permalink: /posts/2017/05/31/the-disc-migration-issue-from-protoplanets-to-supermassive-black-holes
+permalink: /posts/2017-05-31-the-disc-migration-issue-from-protoplanets-to-supermassive-black-holes
 tags:
   - Conferences
 ---

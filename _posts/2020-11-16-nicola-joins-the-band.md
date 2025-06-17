@@ -1,7 +1,7 @@
 ---
 title: 'Nicola joins the band'
 date: 2020-11-16
-permalink: /posts/2020/11/16/nicola-joins-the-band
+permalink: /posts/2020-11-16-nicola-joins-the-band
 tags:
   - Birmingham
   - People

@@ -1,7 +1,7 @@
 ---
 title: 'Primordial black holes by Lisa (not LISA…)'
 date: 2024-02-28
-permalink: /posts/2024/02/28/primordial-black-holes-by-lisa-not-lisa
+permalink: /posts/2024-02-28-primordial-black-holes-by-lisa-not-lisa
 tags:
   - Graduations
   - Milano

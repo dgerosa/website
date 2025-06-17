@@ -1,7 +1,7 @@
 ---
 title: 'People visiting'
 date: 2022-01-20
-permalink: /posts/2022/01/20/winter-visitors
+permalink: /posts/2022-01-20-winter-visitors
 tags:
   - Milano
   - People

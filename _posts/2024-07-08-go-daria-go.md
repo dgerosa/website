@@ -1,7 +1,7 @@
 ---
 title: 'Go Daria go!'
 date: 2024-07-08
-permalink: /posts/2024/07/08/go-daria-go
+permalink: /posts/2024-07-08-go-daria-go
 tags:
   - Birmingham
   - Graduations

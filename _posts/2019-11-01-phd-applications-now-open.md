@@ -1,7 +1,7 @@
 ---
 title: 'PhD applications now open!'
 date: 2019-11-01
-permalink: /posts/2019/11/01/phd-applications-now-open
+permalink: /posts/2019-11-01-phd-applications-now-open
 tags:
   - Birmingham
   - Jobs

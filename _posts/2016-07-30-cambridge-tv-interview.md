@@ -1,7 +1,7 @@
 ---
 title: 'Cambridge TV interview'
 date: 2016-07-30
-permalink: /posts/2016/07/30/cambridge-tv-interview
+permalink: /posts/2016-07-30-cambridge-tv-interview
 tags:
   - Outreach
 ---

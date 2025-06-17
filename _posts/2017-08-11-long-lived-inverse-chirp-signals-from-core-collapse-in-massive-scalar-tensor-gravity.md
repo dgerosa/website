@@ -1,7 +1,7 @@
 ---
 title: 'Long-lived inverse chirp signals from core collapse in massive scalar-tensor gravity'
 date: 2017-08-11
-permalink: /posts/2017/08/11/long-lived-inverse-chirp-signals-from-core-collapse-in-massive-scalar-tensor-gravity
+permalink: /posts/2017-08-11-long-lived-inverse-chirp-signals-from-core-collapse-in-massive-scalar-tensor-gravity
 tags:
   - Caltech
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'New summer means new summer projects'
 date: 2022-06-01
-permalink: /posts/2022/06/01/new-summer-means-new-summer-projects
+permalink: /posts/2022-06-01-new-summer-means-new-summer-projects
 tags:
   - Birmingham
   - Milano

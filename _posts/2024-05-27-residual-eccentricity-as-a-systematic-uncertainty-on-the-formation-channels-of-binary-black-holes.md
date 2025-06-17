@@ -1,7 +1,7 @@
 ---
 title: 'Residual eccentricity as a systematic uncertainty on the formation channels of binary black holes'
 date: 2024-05-27
-permalink: /posts/2024/05/27/residual-eccentricity-as-a-systematic-uncertainty-on-the-formation-channels-of-binary-black-holes
+permalink: /posts/2024-05-27-residual-eccentricity-as-a-systematic-uncertainty-on-the-formation-channels-of-binary-black-holes
 tags:
   - Milano
   - Papers

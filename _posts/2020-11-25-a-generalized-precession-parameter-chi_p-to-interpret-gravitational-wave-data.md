@@ -1,7 +1,7 @@
 ---
 title: 'A generalized precession parameter chi_p to interpret gravitational-wave data'
 date: 2020-11-25
-permalink: /posts/2020/11/25/a-generalized-precession-parameter-chi_p-to-interpret-gravitational-wave-data
+permalink: /posts/2020-11-25-a-generalized-precession-parameter-chi_p-to-interpret-gravitational-wave-data
 tags:
   - Birmingham
   - Papers

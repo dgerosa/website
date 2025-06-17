@@ -1,7 +1,7 @@
 ---
 title: 'Early 2025 with many visitors'
 date: 2025-02-05
-permalink: /posts/2025/02/05/early-2025-with-many-visitors
+permalink: /posts/2025-02-05-early-2025-with-many-visitors
 tags:
   - Milano
   - People

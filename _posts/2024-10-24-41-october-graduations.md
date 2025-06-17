@@ -1,7 +1,7 @@
 ---
 title: '4+1: October graduations'
 date: 2024-10-24
-permalink: /posts/2024/10/24/41-october-graduations
+permalink: /posts/2024-10-24-41-october-graduations
 tags:
   - Graduations
   - Milano

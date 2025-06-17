@@ -1,7 +1,7 @@
 ---
 title: 'Nutational resonances, transitional precession, and precession-averaged evolution in binary black-hole systems'
 date: 2017-05-05
-permalink: /posts/2017/05/05/nutational-resonances-transitional-precession-and-precession-averaged-evolution-in-binary-black-hole-systems
+permalink: /posts/2017-05-05-nutational-resonances-transitional-precession-and-precession-averaged-evolution-in-binary-black-hole-systems
 tags:
   - Caltech
   - Papers

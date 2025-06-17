@@ -1,7 +1,7 @@
 ---
 title: 'Got an ISCRA-B supercomputer allocation!'
 date: 2022-04-21
-permalink: /posts/2022/04/21/got-an-iscra-b-supercomputer-allocation
+permalink: /posts/2022-04-21-got-an-iscra-b-supercomputer-allocation
 tags:
   - Awards
   - Milano

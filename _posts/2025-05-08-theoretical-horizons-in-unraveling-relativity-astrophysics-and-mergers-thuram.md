@@ -1,7 +1,7 @@
 ---
 title: 'Theoretical Horizons in Unraveling Relativity, Astrophysics, and Mergers (THURAM)'
 date: 2025-05-08
-permalink: /posts/2025/05/08/theoretical-horizons-in-unraveling-relativity-astrophysics-and-mergers-thuram
+permalink: /posts/2025-05-08-theoretical-horizons-in-unraveling-relativity-astrophysics-and-mergers-thuram
 tags:
   - Conferences
 ---

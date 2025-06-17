@@ -1,7 +1,7 @@
 ---
 title: 'Alex got a fellowship'
 date: 2025-01-05
-permalink: /posts/2025/01/05/alex-got-a-fellowship
+permalink: /posts/2025-01-05-alex-got-a-fellowship
 tags:
   - Grants
   - Milano

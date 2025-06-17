@@ -1,7 +1,7 @@
 ---
 title: 'Tenured professorship in Astrophysics at the University of Milano-Bicocca (Italy)'
 date: 2024-01-23
-permalink: /posts/2024/01/23/tenured-professorship-in-astrophysics-milan-italy
+permalink: /posts/2024-01-23-tenured-professorship-in-astrophysics-milan-italy
 tags:
   - Jobs
   - Milano

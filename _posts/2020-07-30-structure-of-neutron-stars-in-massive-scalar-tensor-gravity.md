@@ -1,7 +1,7 @@
 ---
 title: 'Structure of neutron stars in massive scalar-tensor gravity'
 date: 2020-07-30
-permalink: /posts/2020/07/30/structure-of-neutron-stars-in-massive-scalar-tensor-gravity
+permalink: /posts/2020-07-30-structure-of-neutron-stars-in-massive-scalar-tensor-gravity
 tags:
   - Birmingham
   - Papers

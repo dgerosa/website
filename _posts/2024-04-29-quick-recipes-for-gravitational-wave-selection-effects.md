@@ -1,7 +1,7 @@
 ---
 title: 'Quick recipes for gravitational-wave selection effects'
 date: 2024-04-29
-permalink: /posts/2024/04/29/quick-recipes-for-gravitational-wave-selection-effects
+permalink: /posts/2024-04-29-quick-recipes-for-gravitational-wave-selection-effects
 tags:
   - CQG
   - Milano

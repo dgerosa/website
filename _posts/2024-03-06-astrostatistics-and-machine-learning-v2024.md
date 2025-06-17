@@ -1,7 +1,7 @@
 ---
 title: '“Astrostatistics and Machine Learning” v2024'
 date: 2024-03-06
-permalink: /posts/2024/03/06/astrostatistics-and-machine-learning-v2024
+permalink: /posts/2024-03-06-astrostatistics-and-machine-learning-v2024
 tags:
   - Milano
   - Teaching

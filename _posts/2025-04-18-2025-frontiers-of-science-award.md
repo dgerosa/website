@@ -1,7 +1,7 @@
 ---
 title: '2025 Frontiers of Science Award'
 date: 2025-04-18
-permalink: /posts/2025/04/18/2025-frontiers-of-science-award
+permalink: /posts/2025-04-18-2025-frontiers-of-science-award
 tags:
   - Awards
   - Caltech

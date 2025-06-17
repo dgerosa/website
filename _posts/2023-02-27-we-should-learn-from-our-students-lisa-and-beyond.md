@@ -1,7 +1,7 @@
 ---
 title: 'We should learn from our students: LISA and beyond'
 date: 2023-02-27
-permalink: /posts/2023/02/27/we-should-learn-from-our-students-lisa-and-beyond
+permalink: /posts/2023-02-27-we-should-learn-from-our-students-lisa-and-beyond
 tags:
   - Milano
 ---

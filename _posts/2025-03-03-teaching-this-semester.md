@@ -1,7 +1,7 @@
 ---
 title: 'Teaching this semester'
 date: 2025-03-03
-permalink: /posts/2025/03/03/teaching-this-semester
+permalink: /posts/2025-03-03-teaching-this-semester
 tags:
   - Milano
   - Teaching

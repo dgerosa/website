@@ -1,7 +1,7 @@
 ---
 title: 'Which black hole formed first? Mass-ratio reversal in massive binary stars from gravitational-wave data'
 date: 2022-05-25
-permalink: /posts/2022/05/25/which-black-hole-formed-first-mass-ratio-reversal-in-massive-binary-stars-from-gravitational-wave-data
+permalink: /posts/2022-05-25-which-black-hole-formed-first-mass-ratio-reversal-in-massive-binary-stars-from-gravitational-wave-data
 tags:
   - Birmingham
   - Milano

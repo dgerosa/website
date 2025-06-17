@@ -1,7 +1,7 @@
 ---
 title: 'Classifying binary black holes from Population III stars with the Einstein Telescope: a machine-learning approach'
 date: 2024-04-16
-permalink: /posts/2024/04/16/classifying-binary-black-holes-from-population-iii-stars-with-the-einstein-telescope-a-machine-learning-approach
+permalink: /posts/2024-04-16-classifying-binary-black-holes-from-population-iii-stars-with-the-einstein-telescope-a-machine-learning-approach
 tags:
   - A&A
   - Milano

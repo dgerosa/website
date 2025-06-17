@@ -1,7 +1,7 @@
 ---
 title: 'The irreducible mass of LIGO’s black holes'
 date: 2022-02-21
-permalink: /posts/2022/02/21/the-irreducible-mass-of-ligos-black-holes
+permalink: /posts/2022-02-21-the-irreducible-mass-of-ligos-black-holes
 tags:
   - CQG
   - Milano

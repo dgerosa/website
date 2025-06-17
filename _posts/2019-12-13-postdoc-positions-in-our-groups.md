@@ -1,7 +1,7 @@
 ---
 title: 'Postdoc positions in our group'
 date: 2019-12-13
-permalink: /posts/2019/12/13/postdoc-positions-in-our-groups
+permalink: /posts/2019-12-13-postdoc-positions-in-our-groups
 tags:
   - Birmingham
   - Jobs

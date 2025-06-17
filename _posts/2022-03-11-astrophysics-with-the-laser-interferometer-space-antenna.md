@@ -1,7 +1,7 @@
 ---
 title: 'Astrophysics with the Laser Interferometer Space Antenna'
 date: 2022-03-11
-permalink: /posts/2022/03/11/astrophysics-with-the-laser-interferometer-space-antenna
+permalink: /posts/2022-03-11-astrophysics-with-the-laser-interferometer-space-antenna
 tags:
   - Milano
   - Review

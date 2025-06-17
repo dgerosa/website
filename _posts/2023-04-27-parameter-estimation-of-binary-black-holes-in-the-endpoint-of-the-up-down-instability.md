@@ -1,7 +1,7 @@
 ---
 title: 'Parameter estimation of binary black holes in the endpoint of the up-down instability'
 date: 2023-04-27
-permalink: /posts/2023/04/27/parameter-estimation-of-binary-black-holes-in-the-endpoint-of-the-up-down-instability
+permalink: /posts/2023-04-27-parameter-estimation-of-binary-black-holes-in-the-endpoint-of-the-up-down-instability
 tags:
   - Milano
   - Papers

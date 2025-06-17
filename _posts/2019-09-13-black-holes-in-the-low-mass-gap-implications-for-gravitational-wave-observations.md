@@ -1,7 +1,7 @@
 ---
 title: 'Black holes in the low mass gap: Implications for gravitational wave observations'
 date: 2019-09-13
-permalink: /posts/2019/09/13/black-holes-in-the-low-mass-gap-implications-for-gravitational-wave-observations
+permalink: /posts/2019-09-13-black-holes-in-the-low-mass-gap-implications-for-gravitational-wave-observations
 tags:
   - Birmingham
   - Papers

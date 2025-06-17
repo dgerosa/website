@@ -1,7 +1,7 @@
 ---
 title: 'Explaining LIGO’s observations via isolated binary evolution with natal kicks'
 date: 2017-09-06
-permalink: /posts/2017/09/06/explaining-ligos-observations-via-isolated-binary-evolution-with-natal-kicks
+permalink: /posts/2017-09-06-explaining-ligos-observations-via-isolated-binary-evolution-with-natal-kicks
 tags:
   - Caltech
   - Papers

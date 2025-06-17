@@ -1,7 +1,7 @@
 ---
 title: 'Optimizing LIGO with LISA forewarnings to improve black-hole spectroscopy'
 date: 2018-06-29
-permalink: /posts/2018/06/29/optimizing-ligo-with-lisa-forewarnings-to-improve-black-hole-spectroscopy
+permalink: /posts/2018-06-29-optimizing-ligo-with-lisa-forewarnings-to-improve-black-hole-spectroscopy
 tags:
   - Birmingham
   - Caltech

@@ -1,7 +1,7 @@
 ---
 title: 'gwpopnext was a blast!'
 date: 2023-07-17
-permalink: /posts/2023/07/17/gwpopnext-was-a-blast
+permalink: /posts/2023-07-17-gwpopnext-was-a-blast
 tags:
   - Conferences
   - Milano

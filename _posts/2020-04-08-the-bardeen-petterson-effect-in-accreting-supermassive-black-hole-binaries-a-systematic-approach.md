@@ -1,7 +1,7 @@
 ---
 title: 'The Bardeen-Petterson effect in accreting supermassive black-hole binaries: a systematic approach'
 date: 2020-04-08
-permalink: /posts/2020/04/08/the-bardeen-petterson-effect-in-accreting-supermassive-black-hole-binaries-a-systematic-approach
+permalink: /posts/2020-04-08-the-bardeen-petterson-effect-in-accreting-supermassive-black-hole-binaries-a-systematic-approach
 tags:
   - Birmingham
   - MNRAS

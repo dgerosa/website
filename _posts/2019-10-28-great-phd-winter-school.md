@@ -1,7 +1,7 @@
 ---
 title: 'GrEAT PhD winter school'
 date: 2019-10-28
-permalink: /posts/2019/10/28/great-phd-winter-school
+permalink: /posts/2019-10-28-great-phd-winter-school
 tags:
   - Birmingham
   - Conferences

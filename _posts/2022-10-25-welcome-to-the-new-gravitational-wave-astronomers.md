@@ -1,7 +1,7 @@
 ---
 title: 'Here are the new gravitational wave astronomers!'
 date: 2022-10-25
-permalink: /posts/2022/10/25/welcome-to-the-new-gravitational-wave-astronomers
+permalink: /posts/2022-10-25-welcome-to-the-new-gravitational-wave-astronomers
 tags:
   - Graduations
   - Milano

@@ -1,7 +1,7 @@
 ---
 title: 'Inferring the properties of a population of compact binaries in presence of selection effects'
 date: 2020-11-10
-permalink: /posts/2020/11/10/inferring-the-properties-of-a-population-of-compact-binaries-in-presence-of-selection-effects
+permalink: /posts/2020-11-10-inferring-the-properties-of-a-population-of-compact-binaries-in-presence-of-selection-effects
 tags:
   - Birmingham
   - Springer

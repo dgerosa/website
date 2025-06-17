@@ -1,7 +1,7 @@
 ---
 title: 'Bayesian parameter estimation of stellar-mass black-hole binaries with LISA'
 date: 2021-06-10
-permalink: /posts/2021/06/10/bayesian-parameter-estimation-of-stellar-mass-black-hole-binaries-with-lisa
+permalink: /posts/2021-06-10-bayesian-parameter-estimation-of-stellar-mass-black-hole-binaries-with-lisa
 tags:
   - Birmingham
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'The Bardeen-Petterson effect, disk breaking, and the spin orientations of supermassive black-hole binaries'
 date: 2022-11-02
-permalink: /posts/2022/11/02/the-bardeen-petterson-effect-disk-breaking-and-the-spin-orientations-of-supermassive-black-hole-binaries
+permalink: /posts/2022-11-02-the-bardeen-petterson-effect-disk-breaking-and-the-spin-orientations-of-supermassive-black-hole-binaries
 tags:
   - Milano
   - MNRAS

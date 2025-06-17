@@ -1,7 +1,7 @@
 ---
 title: 'Massive black hole binary inspiral and spin evolution in a cosmological framework'
 date: 2020-06-12
-permalink: /posts/2020/06/12/massive-black-hole-binary-inspiral-and-spin-evolution-in-a-cosmological-framework
+permalink: /posts/2020-06-12-massive-black-hole-binary-inspiral-and-spin-evolution-in-a-cosmological-framework
 tags:
   - Birmingham
   - MNRAS

@@ -1,7 +1,7 @@
 ---
 title: 'Congrats to MSc students'
 date: 2020-09-11
-permalink: /posts/2020/09/11/congrats-to-msc-students
+permalink: /posts/2020-09-11-congrats-to-msc-students
 tags:
   - Birmingham
   - Graduations

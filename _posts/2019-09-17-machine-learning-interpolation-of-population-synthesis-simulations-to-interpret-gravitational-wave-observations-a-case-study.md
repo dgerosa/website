@@ -1,7 +1,7 @@
 ---
 title: 'Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: a case study'
 date: 2019-09-17
-permalink: /posts/2019/09/17/machine-learning-interpolation-of-population-synthesis-simulations-to-interpret-gravitational-wave-observations-a-case-study
+permalink: /posts/2019-09-17-machine-learning-interpolation-of-population-synthesis-simulations-to-interpret-gravitational-wave-observations-a-case-study
 tags:
   - Birmingham
   - Papers

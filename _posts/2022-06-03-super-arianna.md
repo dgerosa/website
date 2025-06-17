@@ -1,7 +1,7 @@
 ---
 title: 'Super Arianna!'
 date: 2022-06-03
-permalink: /posts/2022/06/03/super-arianna
+permalink: /posts/2022-06-03-super-arianna
 tags:
   - Grants
   - Milano

@@ -1,7 +1,7 @@
 ---
 title: 'Forecasting the population properties of merging black holes'
 date: 2024-10-24
-permalink: /posts/2024/10/24/forecasting-the-population-properties-of-merging-black-holes
+permalink: /posts/2024-10-24-forecasting-the-population-properties-of-merging-black-holes
 tags:
   - Milano
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'Andrea and Oliver are the new black-hole experts in town!'
 date: 2022-09-21
-permalink: /posts/2022/09/21/andrea-and-oliver-are-the-new-black-hole-experts-in-town
+permalink: /posts/2022-09-21-andrea-and-oliver-are-the-new-black-hole-experts-in-town
 tags:
   - Graduations
   - Milano

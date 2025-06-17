@@ -1,7 +1,7 @@
 ---
 title: 'Nate is joining us!'
 date: 2021-10-11
-permalink: /posts/2021/10/11/nate-is-joining-us
+permalink: /posts/2021-10-11-nate-is-joining-us
 tags:
   - Birmingham
   - People

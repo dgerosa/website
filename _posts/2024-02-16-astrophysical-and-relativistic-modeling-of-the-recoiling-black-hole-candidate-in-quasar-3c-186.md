@@ -1,7 +1,7 @@
 ---
 title: 'Astrophysical and relativistic modeling of the recoiling black-hole candidate in quasar 3C 186'
 date: 2024-02-16
-permalink: /posts/2024/02/16/astrophysical-and-relativistic-modeling-of-the-recoiling-black-hole-candidate-in-quasar-3c-186
+permalink: /posts/2024-02-16-astrophysical-and-relativistic-modeling-of-the-recoiling-black-hole-candidate-in-quasar-3c-186
 tags:
   - A&A
   - Milano

@@ -1,7 +1,7 @@
 ---
 title: 'Modeling the outcome of supernova explosions in binary population synthesis using the stellar compactness'
 date: 2021-06-24
-permalink: /posts/2021/06/24/modeling-the-outcome-of-supernova-explosions-in-binary-population-synthesis-using-the-stellar-compactness
+permalink: /posts/2021-06-24-modeling-the-outcome-of-supernova-explosions-in-binary-population-synthesis-using-the-stellar-compactness
 tags:
   - Birmingham
   - Papers

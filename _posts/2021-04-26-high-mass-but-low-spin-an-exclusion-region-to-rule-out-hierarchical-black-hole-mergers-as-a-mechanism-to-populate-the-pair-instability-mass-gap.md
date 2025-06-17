@@ -1,7 +1,7 @@
 ---
 title: 'High mass but low spin: an exclusion region to rule out hierarchical black-hole mergers as a mechanism to populate the pair-instability mass gap'
 date: 2021-04-26
-permalink: /posts/2021/04/26/high-mass-but-low-spin-an-exclusion-region-to-rule-out-hierarchical-black-hole-mergers-as-a-mechanism-to-populate-the-pair-instability-mass-gap
+permalink: /posts/2021-04-26-high-mass-but-low-spin-an-exclusion-region-to-rule-out-hierarchical-black-hole-mergers-as-a-mechanism-to-populate-the-pair-instability-mass-gap
 tags:
   - APJ
   - Birmingham

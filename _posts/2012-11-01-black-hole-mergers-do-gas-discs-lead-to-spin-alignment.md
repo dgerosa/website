@@ -1,7 +1,7 @@
 ---
 title: 'Black hole mergers: do gas discs lead to spin alignment?'
 date: 2012-11-01
-permalink: /posts/2012/11/01/black-hole-mergers-do-gas-discs-lead-to-spin-alignment
+permalink: /posts/2012-11-01-black-hole-mergers-do-gas-discs-lead-to-spin-alignment
 tags:
   - Milano
   - MNRAS

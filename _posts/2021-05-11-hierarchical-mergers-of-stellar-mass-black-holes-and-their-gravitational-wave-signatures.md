@@ -1,7 +1,7 @@
 ---
 title: 'Hierarchical mergers of stellar-mass black holes and their gravitational-wave signatures'
 date: 2021-05-11
-permalink: /posts/2021/05/11/hierarchical-mergers-of-stellar-mass-black-holes-and-their-gravitational-wave-signatures
+permalink: /posts/2021-05-11-hierarchical-mergers-of-stellar-mass-black-holes-and-their-gravitational-wave-signatures
 tags:
   - Birmingham
   - Nature Astro

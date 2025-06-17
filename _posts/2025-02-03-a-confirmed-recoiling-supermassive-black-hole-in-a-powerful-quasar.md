@@ -1,7 +1,7 @@
 ---
 title: 'A confirmed recoiling supermassive black hole in a powerful quasar'
 date: 2025-02-03
-permalink: /posts/2025/02/03/a-confirmed-recoiling-supermassive-black-hole-in-a-powerful-quasar
+permalink: /posts/2025-02-03-a-confirmed-recoiling-supermassive-black-hole-in-a-powerful-quasar
 tags:
   - Milano
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'Testing general relativity with gravitational-wave catalogs: the insidious nature of waveform systematics.'
 date: 2021-03-31
-permalink: /posts/2021/03/31/testing-general-relativity-with-gravitational-wave-catalogs-the-insidious-nature-of-waveform-systematics
+permalink: /posts/2021-03-31-testing-general-relativity-with-gravitational-wave-catalogs-the-insidious-nature-of-waveform-systematics
 tags:
   - Birmingham
   - iScience

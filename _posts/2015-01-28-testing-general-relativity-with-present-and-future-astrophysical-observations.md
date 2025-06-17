@@ -1,7 +1,7 @@
 ---
 title: 'Testing general relativity with present and future astrophysical observations.'
 date: 2015-01-28
-permalink: /posts/2015/01/28/testing-general-relativity-with-present-and-future-astrophysical-observations
+permalink: /posts/2015-01-28-testing-general-relativity-with-present-and-future-astrophysical-observations
 tags:
   - Cambridge
   - CQG

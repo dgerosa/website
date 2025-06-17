@@ -1,7 +1,7 @@
 ---
 title: '“Hitting this problem hard enough” on Scientific American'
 date: 2019-12-04
-permalink: /posts/2019/12/04/hitting-this-problem-hard-enough-on-scientific-american
+permalink: /posts/2019-12-04-hitting-this-problem-hard-enough-on-scientific-american
 tags:
   - Birmingham
   - Outreach

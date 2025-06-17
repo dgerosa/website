@@ -1,7 +1,7 @@
 ---
 title: 'New horizons for fundamental physics with LISA'
 date: 2022-05-04
-permalink: /posts/2022/05/04/new-horizons-for-fundamental-physics-with-lisa
+permalink: /posts/2022-05-04-new-horizons-for-fundamental-physics-with-lisa
 tags:
   - Milano
   - Review

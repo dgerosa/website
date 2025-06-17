@@ -1,7 +1,7 @@
 ---
 title: 'GWsnowballs was amazing!'
 date: 2025-01-27
-permalink: /posts/2025/01/27/gwsnowballs-was-amazing
+permalink: /posts/2025-01-27-gwsnowballs-was-amazing
 tags:
   - Conferences
 ---

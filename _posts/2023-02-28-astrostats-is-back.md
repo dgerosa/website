@@ -1,7 +1,7 @@
 ---
 title: 'Astrostats is back'
 date: 2023-02-28
-permalink: /posts/2023/02/28/astrostats-is-back
+permalink: /posts/2023-02-28-astrostats-is-back
 tags:
   - Milano
   - Teaching

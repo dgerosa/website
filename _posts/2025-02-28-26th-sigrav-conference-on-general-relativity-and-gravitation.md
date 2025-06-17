@@ -1,7 +1,7 @@
 ---
 title: '26th SIGRAV Conference on General Relativity and Gravitation'
 date: 2025-02-28
-permalink: /posts/2025/02/28/26th-sigrav-conference-on-general-relativity-and-gravitation
+permalink: /posts/2025-02-28-26th-sigrav-conference-on-general-relativity-and-gravitation
 tags:
   - Conferences
   - Milano

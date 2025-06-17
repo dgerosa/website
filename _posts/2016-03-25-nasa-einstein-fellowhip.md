@@ -1,7 +1,7 @@
 ---
 title: 'NASA Einstein Fellowhip'
 date: 2016-03-25
-permalink: /posts/2016/03/25/nasa-einstein-fellowhip
+permalink: /posts/2016-03-25-nasa-einstein-fellowhip
 tags:
   - Awards
 ---

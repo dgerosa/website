@@ -1,7 +1,7 @@
 ---
 title: 'We got (another!) Marie Curie Fellowship!'
 date: 2024-02-21
-permalink: /posts/2024/02/21/we-got-another-marie-curie-fellowship
+permalink: /posts/2024-02-21-we-got-another-marie-curie-fellowship
 tags:
   - Awards
   - Milano

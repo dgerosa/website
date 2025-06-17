@@ -1,7 +1,7 @@
 ---
 title: 'Which is which? Identification of the two compact objects in gravitational-wave binaries.'
 date: 2024-09-13
-permalink: /posts/2024/09/13/which-is-which-identification-of-the-two-compact-objects-in-gravitational-wave-binaries
+permalink: /posts/2024-09-13-which-is-which-identification-of-the-two-compact-objects-in-gravitational-wave-binaries
 tags:
   - Milano
   - Papers

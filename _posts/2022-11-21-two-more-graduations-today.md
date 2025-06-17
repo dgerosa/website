@@ -1,7 +1,7 @@
 ---
 title: 'Two more graduations today!'
 date: 2022-11-21
-permalink: /posts/2022/11/21/two-more-graduations-today
+permalink: /posts/2022-11-21-two-more-graduations-today
 tags:
   - Graduations
   - Milano

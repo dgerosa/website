@@ -1,7 +1,7 @@
 ---
 title: 'Constraining black-hole binary spin precession and nutation with sequential prior conditioning'
 date: 2022-04-04
-permalink: /posts/2022/04/04/constraining-black-hole-binary-spin-precession-and-nutation-with-sequential-prior-conditioning
+permalink: /posts/2022-04-04-constraining-black-hole-binary-spin-precession-and-nutation-with-sequential-prior-conditioning
 tags:
   - Milano
   - Papers

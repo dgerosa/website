@@ -1,7 +1,7 @@
 ---
 title: 'Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory'
 date: 2025-02-13
-permalink: /posts/2025/02/13/non-adiabatic-dynamics-of-eccentric-black-hole-binaries-in-post-newtonian-theory
+permalink: /posts/2025-02-13-non-adiabatic-dynamics-of-eccentric-black-hole-binaries-in-post-newtonian-theory
 tags:
   - Milano
   - Papers

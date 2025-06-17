@@ -1,7 +1,7 @@
 ---
 title: 'Surprises from the spins: astrophysics and relativity with detections of spinning black-hole mergers'
 date: 2017-11-27
-permalink: /posts/2017/11/27/surprises-from-the-spins-astrophysics-and-relativity-with-detections-of-spinning-black-hole-mergers
+permalink: /posts/2017-11-27-surprises-from-the-spins-astrophysics-and-relativity-with-detections-of-spinning-black-hole-mergers
 tags:
   - Caltech
   - Proceedings

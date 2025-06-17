@@ -1,7 +1,7 @@
 ---
 title: 'Populations of double white dwarfs in Milky Way satellites and their detectability with LISA'
 date: 2020-02-26
-permalink: /posts/2020/02/26/populations-of-double-white-dwarfs-in-milky-way-satellites-and-their-detectability-with-lisa
+permalink: /posts/2020-02-26-populations-of-double-white-dwarfs-in-milky-way-satellites-and-their-detectability-with-lisa
 tags:
   - A&A
   - Birmingham

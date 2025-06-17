@@ -1,7 +1,7 @@
 ---
 title: 'Summer research fun'
 date: 2019-06-21
-permalink: /posts/2019/06/21/summer-research-fun
+permalink: /posts/2019-06-21-summer-research-fun
 tags:
   - Awards
   - Birmingham

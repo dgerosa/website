@@ -1,7 +1,7 @@
 ---
 title: 'ERC Starting Grant'
 date: 2020-09-17
-permalink: /posts/2020/09/17/erc-starting-grant
+permalink: /posts/2020-09-17-erc-starting-grant
 tags:
   - Awards
   - Birmingham

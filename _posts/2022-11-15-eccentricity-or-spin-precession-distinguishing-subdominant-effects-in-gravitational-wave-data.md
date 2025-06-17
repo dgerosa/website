@@ -1,7 +1,7 @@
 ---
 title: 'Eccentricity or spin precession? Distinguishing subdominant effects in gravitational-wave data'
 date: 2022-11-15
-permalink: /posts/2022/11/15/eccentricity-or-spin-precession-distinguishing-subdominant-effects-in-gravitational-wave-data
+permalink: /posts/2022-11-15-eccentricity-or-spin-precession-distinguishing-subdominant-effects-in-gravitational-wave-data
 tags:
   - Milano
   - MNRAS

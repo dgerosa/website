@@ -1,7 +1,7 @@
 ---
 title: 'Black holes, gravitational waves and fundamental physics: a roadmap'
 date: 2018-06-13
-permalink: /posts/2018/06/13/black-holes-gravitational-waves-and-fundamental-physics-a-roadmap
+permalink: /posts/2018-06-13-black-holes-gravitational-waves-and-fundamental-physics-a-roadmap
 tags:
   - Caltech
   - CQG

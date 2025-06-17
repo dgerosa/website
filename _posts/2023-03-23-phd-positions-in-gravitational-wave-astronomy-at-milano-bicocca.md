@@ -1,7 +1,7 @@
 ---
 title: 'PhD positions in gravitational-wave astronomy at Milano-Bicocca'
 date: 2023-03-23
-permalink: /posts/2023/03/23/phd-positions-in-gravitational-wave-astronomy-at-milano-bicocca
+permalink: /posts/2023-03-23-phd-positions-in-gravitational-wave-astronomy-at-milano-bicocca
 tags:
   - Milano
 ---

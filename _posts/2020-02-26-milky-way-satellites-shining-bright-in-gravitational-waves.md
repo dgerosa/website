@@ -1,7 +1,7 @@
 ---
 title: 'Milky Way satellites shining bright in gravitational waves'
 date: 2020-02-26
-permalink: /posts/2020/02/26/milky-way-satellites-shining-bright-in-gravitational-waves
+permalink: /posts/2020-02-26-milky-way-satellites-shining-bright-in-gravitational-waves
 tags:
   - APJ
   - Birmingham

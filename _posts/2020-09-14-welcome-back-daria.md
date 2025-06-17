@@ -1,7 +1,7 @@
 ---
 title: 'Daria’s PhD adventure starts here'
 date: 2020-09-14
-permalink: /posts/2020/09/14/welcome-back-daria
+permalink: /posts/2020-09-14-welcome-back-daria
 tags:
   - Birmingham
   - People

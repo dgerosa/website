@@ -1,7 +1,7 @@
 ---
 title: 'Black-hole kicks from numerical-relativity surrogate models'
 date: 2018-02-12
-permalink: /posts/2018/02/12/black-hole-kicks-from-numerical-relativity-surrogate-models
+permalink: /posts/2018-02-12-black-hole-kicks-from-numerical-relativity-surrogate-models
 tags:
   - Caltech
   - Papers

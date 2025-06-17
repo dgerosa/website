@@ -1,7 +1,7 @@
 ---
 title: 'Amplification of superkicks in black-hole binaries through orbital eccentricity'
 date: 2019-10-03
-permalink: /posts/2019/10/03/amplification-of-superkicks-in-black-hole-binaries-through-orbital-eccentricity
+permalink: /posts/2019-10-03-amplification-of-superkicks-in-black-hole-binaries-through-orbital-eccentricity
 tags:
   - Birmingham
   - Papers

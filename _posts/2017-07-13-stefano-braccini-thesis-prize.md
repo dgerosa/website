@@ -1,7 +1,7 @@
 ---
 title: 'Stefano Braccini thesis prize'
 date: 2017-07-13
-permalink: /posts/2017/07/13/stefano-braccini-thesis-prize
+permalink: /posts/2017-07-13-stefano-braccini-thesis-prize
 tags:
   - Awards
 ---

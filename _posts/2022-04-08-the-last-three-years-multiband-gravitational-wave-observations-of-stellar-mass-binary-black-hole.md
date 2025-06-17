@@ -1,7 +1,7 @@
 ---
 title: 'The last three years: multiband gravitational-wave observations of stellar-mass binary black hole'
 date: 2022-04-08
-permalink: /posts/2022/04/08/the-last-three-years-multiband-gravitational-wave-observations-of-stellar-mass-binary-black-hole
+permalink: /posts/2022-04-08-the-last-three-years-multiband-gravitational-wave-observations-of-stellar-mass-binary-black-hole
 tags:
   - Birmingham
   - Milano

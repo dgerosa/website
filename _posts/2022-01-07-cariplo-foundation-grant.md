@@ -1,7 +1,7 @@
 ---
 title: 'Cariplo Foundation Grant'
 date: 2022-01-07
-permalink: /posts/2022/01/07/cariplo-foundation-grant
+permalink: /posts/2022-01-07-cariplo-foundation-grant
 tags:
   - Awards
   - Milano

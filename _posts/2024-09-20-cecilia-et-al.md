@@ -1,7 +1,7 @@
 ---
 title: 'Cecilia et al.'
 date: 2024-09-20
-permalink: /posts/2024/09/20/cecilia-et-al
+permalink: /posts/2024-09-20-cecilia-et-al
 tags:
   - Graduations
   - Milano

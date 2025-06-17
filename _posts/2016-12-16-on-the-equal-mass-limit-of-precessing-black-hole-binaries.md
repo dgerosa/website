@@ -1,7 +1,7 @@
 ---
 title: 'On the equal-mass limit of precessing black-hole binaries'
 date: 2016-12-16
-permalink: /posts/2016/12/16/on-the-equal-mass-limit-of-precessing-black-hole-binaries
+permalink: /posts/2016-12-16-on-the-equal-mass-limit-of-precessing-black-hole-binaries
 tags:
   - Caltech
   - Cambridge

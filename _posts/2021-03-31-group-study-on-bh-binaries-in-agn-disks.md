@@ -1,7 +1,7 @@
 ---
 title: 'Group study on BH binaries in AGN disks'
 date: 2021-03-31
-permalink: /posts/2021/03/31/group-study-on-bh-binaries-in-agn-disks
+permalink: /posts/2021-03-31-group-study-on-bh-binaries-in-agn-disks
 tags:
   - Birmingham
   - Conferences

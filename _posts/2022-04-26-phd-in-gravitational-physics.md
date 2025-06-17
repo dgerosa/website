@@ -1,7 +1,7 @@
 ---
 title: 'PhD in gravitational physics!'
 date: 2022-04-26
-permalink: /posts/2022/04/26/phd-in-gravitational-physics
+permalink: /posts/2022-04-26-phd-in-gravitational-physics
 tags:
   - Jobs
   - Milano

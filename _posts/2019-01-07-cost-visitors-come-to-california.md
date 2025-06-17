@@ -1,7 +1,7 @@
 ---
 title: 'COST comes to California!'
 date: 2019-01-07
-permalink: /posts/2019/01/07/cost-visitors-come-to-california
+permalink: /posts/2019-01-07-cost-visitors-come-to-california
 tags:
   - Awards
   - Caltech

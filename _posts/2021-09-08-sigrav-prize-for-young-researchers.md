@@ -1,7 +1,7 @@
 ---
 title: 'SIGRAV Prize for Young Researchers'
 date: 2021-09-08
-permalink: /posts/2021/09/08/sigrav-prize-for-young-researchers
+permalink: /posts/2021-09-08-sigrav-prize-for-young-researchers
 tags:
   - Awards
   - Milano

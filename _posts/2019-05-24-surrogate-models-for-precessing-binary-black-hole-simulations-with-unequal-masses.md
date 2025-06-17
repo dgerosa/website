@@ -1,7 +1,7 @@
 ---
 title: 'Surrogate models for precessing binary black hole simulations with unequal masses'
 date: 2019-05-24
-permalink: /posts/2019/05/24/surrogate-models-for-precessing-binary-black-hole-simulations-with-unequal-masses
+permalink: /posts/2019-05-24-surrogate-models-for-precessing-binary-black-hole-simulations-with-unequal-masses
 tags:
   - Birmingham
   - Papers

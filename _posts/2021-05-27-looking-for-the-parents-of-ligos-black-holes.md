@@ -1,7 +1,7 @@
 ---
 title: 'Looking for the parents of LIGO’s black holes'
 date: 2021-05-27
-permalink: /posts/2021/05/27/looking-for-the-parents-of-ligos-black-holes
+permalink: /posts/2021-05-27-looking-for-the-parents-of-ligos-black-holes
 tags:
   - Birmingham
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'More people, more topics, more fun'
 date: 2023-10-06
-permalink: /posts/2023/10/06/more-people-more-topics-more-fun
+permalink: /posts/2023-10-06-more-people-more-topics-more-fun
 tags:
   - Milano
   - People

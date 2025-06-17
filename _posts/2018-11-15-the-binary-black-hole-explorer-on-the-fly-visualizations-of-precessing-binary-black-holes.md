@@ -1,7 +1,7 @@
 ---
 title: 'The binary black hole explorer: on-the-fly visualizations of precessing binary black holes'
 date: 2018-11-15
-permalink: /posts/2018/11/15/the-binary-black-hole-explorer-on-the-fly-visualizations-of-precessing-binary-black-holes
+permalink: /posts/2018-11-15-the-binary-black-hole-explorer-on-the-fly-visualizations-of-precessing-binary-black-holes
 tags:
   - Caltech
   - CQG

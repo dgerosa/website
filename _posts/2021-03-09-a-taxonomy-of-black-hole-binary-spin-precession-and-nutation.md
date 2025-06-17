@@ -1,7 +1,7 @@
 ---
 title: 'A taxonomy of black-hole binary spin precession and nutation'
 date: 2021-03-09
-permalink: /posts/2021/03/09/a-taxonomy-of-black-hole-binary-spin-precession-and-nutation
+permalink: /posts/2021-03-09-a-taxonomy-of-black-hole-binary-spin-precession-and-nutation
 tags:
   - Birmingham
   - Papers

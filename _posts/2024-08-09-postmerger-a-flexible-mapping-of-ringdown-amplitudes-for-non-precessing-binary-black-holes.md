@@ -1,7 +1,7 @@
 ---
 title: 'Flexible mapping of ringdown amplitudes for non-precessing binary black holes'
 date: 2024-08-09
-permalink: /posts/2024/08/09/postmerger-a-flexible-mapping-of-ringdown-amplitudes-for-non-precessing-binary-black-holes
+permalink: /posts/2024-08-09-postmerger-a-flexible-mapping-of-ringdown-amplitudes-for-non-precessing-binary-black-holes
 tags:
   - Milano
   - Papers

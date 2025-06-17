@@ -1,7 +1,7 @@
 ---
 title: 'Efficient multi-timescale dynamics of precessing black-hole binaries'
 date: 2023-04-12
-permalink: /posts/2023/04/12/efficient-multi-timescale-dynamics-of-precessing-black-hole-binaries
+permalink: /posts/2023-04-12-efficient-multi-timescale-dynamics-of-precessing-black-hole-binaries
 tags:
   - Milano
   - Papers

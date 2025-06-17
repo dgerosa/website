@@ -1,7 +1,7 @@
 ---
 title: 'Gravitational-wave detection rates for compact binaries formed in isolation: LIGO/Virgo O3 and beyond.'
 date: 2019-06-12
-permalink: /posts/2019/06/12/gravitational-wave-detection-rates-for-compact-binaries-formed-in-isolation-ligo-virgo-o3-and-beyond
+permalink: /posts/2019-06-12-gravitational-wave-detection-rates-for-compact-binaries-formed-in-isolation-ligo-virgo-o3-and-beyond
 tags:
   - APJ
   - Birmingham

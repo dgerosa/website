@@ -1,7 +1,7 @@
 ---
 title: 'Up-down instability of binary black holes in numerical relativity'
 date: 2020-12-15
-permalink: /posts/2020/12/15/up-down-instability-of-binary-black-holes-in-numerical-relativity
+permalink: /posts/2020-12-15-up-down-instability-of-binary-black-holes-in-numerical-relativity
 tags:
   - Birmingham
   - Papers

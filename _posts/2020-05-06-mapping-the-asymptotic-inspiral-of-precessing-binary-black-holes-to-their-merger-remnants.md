@@ -1,7 +1,7 @@
 ---
 title: 'Mapping the asymptotic inspiral of precessing binary black holes to their merger remnants'
 date: 2020-05-06
-permalink: /posts/2020/05/06/mapping-the-asymptotic-inspiral-of-precessing-binary-black-holes-to-their-merger-remnants
+permalink: /posts/2020-05-06-mapping-the-asymptotic-inspiral-of-precessing-binary-black-holes-to-their-merger-remnants
 tags:
   - Birmingham
   - CQG

@@ -1,7 +1,7 @@
 ---
 title: 'Gravitational-wave population inference at past time infinity'
 date: 2021-10-13
-permalink: /posts/2021/10/13/back-to-the-future-gravitational-wave-population-inference-at-past-time-infinity
+permalink: /posts/2021-10-13-back-to-the-future-gravitational-wave-population-inference-at-past-time-infinity
 tags:
   - Birmingham
   - Milano

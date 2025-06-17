@@ -1,7 +1,7 @@
 ---
 title: 'FIS 3 grant opportunity'
 date: 2024-12-15
-permalink: /posts/2024/12/15/fis-3-grant-opportunity
+permalink: /posts/2024-12-15-fis-3-grant-opportunity
 tags:
   - Jobs
   - Milano

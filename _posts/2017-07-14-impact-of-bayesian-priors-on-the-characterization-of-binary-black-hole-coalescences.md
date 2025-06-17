@@ -1,7 +1,7 @@
 ---
 title: 'Impact of Bayesian priors on the characterization of binary black hole coalescences'
 date: 2017-07-14
-permalink: /posts/2017/07/14/impact-of-bayesian-priors-on-the-characterization-of-binary-black-hole-coalescences
+permalink: /posts/2017-07-14-impact-of-bayesian-priors-on-the-characterization-of-binary-black-hole-coalescences
 tags:
   - Caltech
   - Papers

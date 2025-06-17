@@ -1,7 +1,7 @@
 ---
 title: 'Masterclass in big data within science and industry'
 date: 2023-06-19
-permalink: /posts/2023/06/19/masterclass-in-big-data-within-science-and-industry
+permalink: /posts/2023-06-19-masterclass-in-big-data-within-science-and-industry
 tags:
   - Conferences
   - Milano

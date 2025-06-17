@@ -1,7 +1,7 @@
 ---
 title: 'Moving (back to) Milan!'
 date: 2021-09-01
-permalink: /posts/2021/09/01/moving-back-to-milan
+permalink: /posts/2021-09-01-moving-back-to-milan
 tags:
   - Milano
   - People

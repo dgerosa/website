@@ -1,7 +1,7 @@
 ---
 title: 'Welcome Viola!'
 date: 2021-09-18
-permalink: /posts/2021/09/18/viola-joins-the-group
+permalink: /posts/2021-09-18-viola-joins-the-group
 tags:
   - Milano
   - People

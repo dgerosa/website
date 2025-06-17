@@ -1,7 +1,7 @@
 ---
 title: 'Spring graduations!'
 date: 2023-03-22
-permalink: /posts/2023/03/22/spring-graduations
+permalink: /posts/2023-03-22-spring-graduations
 tags:
   - Graduations
   - Milano

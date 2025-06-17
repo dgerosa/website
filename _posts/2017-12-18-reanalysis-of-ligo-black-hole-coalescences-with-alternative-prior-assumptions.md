@@ -1,7 +1,7 @@
 ---
 title: 'Reanalysis of LIGO black-hole coalescences with alternative prior assumptions'
 date: 2017-12-18
-permalink: /posts/2017/12/18/reanalysis-of-ligo-black-hole-coalescences-with-alternative-prior-assumptions
+permalink: /posts/2017-12-18-reanalysis-of-ligo-black-hole-coalescences-with-alternative-prior-assumptions
 tags:
   - Caltech
   - Proceedings

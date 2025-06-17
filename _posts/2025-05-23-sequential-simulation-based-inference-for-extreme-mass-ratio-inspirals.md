@@ -1,7 +1,7 @@
 ---
 title: 'Sequential simulation-based inference for extreme mass ratio inspirals'
 date: 2025-05-23
-permalink: /posts/2025/05/23/sequential-simulation-based-inference-for-extreme-mass-ratio-inspirals
+permalink: /posts/2025-05-23-sequential-simulation-based-inference-for-extreme-mass-ratio-inspirals
 tags:
   - Milano
   - Papers

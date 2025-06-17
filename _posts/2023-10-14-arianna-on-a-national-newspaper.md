@@ -1,7 +1,7 @@
 ---
 title: 'Arianna on a national newspaper'
 date: 2023-10-14
-permalink: /posts/2023/10/14/arianna-on-a-national-newspaper
+permalink: /posts/2023-10-14-arianna-on-a-national-newspaper
 tags:
   - Milano
   - People

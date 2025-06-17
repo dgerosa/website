@@ -1,7 +1,7 @@
 ---
 title: 'pAGN: the one-stop solution for AGN disc modeling'
 date: 2024-03-04
-permalink: /posts/2024/03/04/pagn-the-one-stop-solution-for-agn-disc-modeling
+permalink: /posts/2024-03-04-pagn-the-one-stop-solution-for-agn-disc-modeling
 tags:
   - Birmingham
   - Milano

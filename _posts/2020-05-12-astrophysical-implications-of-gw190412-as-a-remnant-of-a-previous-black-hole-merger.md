@@ -1,7 +1,7 @@
 ---
 title: 'Astrophysical implications of GW190412 as a remnant of a previous black-hole merger'
 date: 2020-05-12
-permalink: /posts/2020/05/12/astrophysical-implications-of-gw190412-as-a-remnant-of-a-previous-black-hole-merger
+permalink: /posts/2020-05-12-astrophysical-implications-of-gw190412-as-a-remnant-of-a-previous-black-hole-merger
 tags:
   - Birmingham
   - Papers

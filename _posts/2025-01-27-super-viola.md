@@ -1,7 +1,7 @@
 ---
 title: 'Super Viola!'
 date: 2025-01-27
-permalink: /posts/2025/01/27/super-viola
+permalink: /posts/2025-01-27-super-viola
 tags:
   - Graduations
   - Milano

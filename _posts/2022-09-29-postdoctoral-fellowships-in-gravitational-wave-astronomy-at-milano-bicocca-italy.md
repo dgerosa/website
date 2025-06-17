@@ -1,7 +1,7 @@
 ---
 title: 'Postdoctoral fellowships in gravitational-wave astronomy at Milano-Bicocca (Italy)'
 date: 2022-09-29
-permalink: /posts/2022/09/29/postdoctoral-fellowships-in-gravitational-wave-astronomy-at-milano-bicocca-italy
+permalink: /posts/2022-09-29-postdoctoral-fellowships-in-gravitational-wave-astronomy-at-milano-bicocca-italy
 tags:
   - Jobs
   - Milano

@@ -1,7 +1,7 @@
 ---
 title: 'Come to Milan for a PhD!'
 date: 2021-05-18
-permalink: /posts/2021/05/18/come-to-milan-for-a-phd
+permalink: /posts/2021-05-18-come-to-milan-for-a-phd
 tags:
   - Jobs
   - Milano

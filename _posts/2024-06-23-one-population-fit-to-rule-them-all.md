@@ -1,7 +1,7 @@
 ---
 title: 'One population fit to rule them all'
 date: 2024-06-23
-permalink: /posts/2024/06/23/one-population-fit-to-rule-them-all
+permalink: /posts/2024-06-23-one-population-fit-to-rule-them-all
 tags:
   - Uncategorized
 ---

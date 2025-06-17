@@ -1,7 +1,7 @@
 ---
 title: 'Leverhulme Trust grant'
 date: 2019-12-12
-permalink: /posts/2019/12/12/leverhulme-trust-research-grant
+permalink: /posts/2019-12-12-leverhulme-trust-research-grant
 tags:
   - Awards
   - Birmingham

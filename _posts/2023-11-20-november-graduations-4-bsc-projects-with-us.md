@@ -1,7 +1,7 @@
 ---
 title: 'November graduations: 4 Bsc projects with us'
 date: 2023-11-20
-permalink: /posts/2023/11/20/november-graduations-4-bsc-projects-with-us
+permalink: /posts/2023-11-20-november-graduations-4-bsc-projects-with-us
 tags:
   - Graduations
   - Milano

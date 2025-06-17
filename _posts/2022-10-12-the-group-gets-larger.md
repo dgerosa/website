@@ -1,7 +1,7 @@
 ---
 title: 'The group gets larger'
 date: 2022-10-12
-permalink: /posts/2022/10/12/the-group-gets-larger
+permalink: /posts/2022-10-12-the-group-gets-larger
 tags:
   - Milano
   - People

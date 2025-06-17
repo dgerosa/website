@@ -1,7 +1,7 @@
 ---
 title: 'Minimum gas mass accreted by spinning intermediate-mass black holes in stellar clusters'
 date: 2024-09-26
-permalink: /posts/2024/09/26/minimum-gas-mass-accreted-by-spinning-intermediate-mass-black-holes-in-stellar-clusters
+permalink: /posts/2024-09-26-minimum-gas-mass-accreted-by-spinning-intermediate-mass-black-holes-in-stellar-clusters
 tags:
   - Milano
   - Papers

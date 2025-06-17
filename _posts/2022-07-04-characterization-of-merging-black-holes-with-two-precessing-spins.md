@@ -1,7 +1,7 @@
 ---
 title: 'Characterization of merging black holes with two precessing spins'
 date: 2022-07-04
-permalink: /posts/2022/07/04/characterization-of-merging-black-holes-with-two-precessing-spins
+permalink: /posts/2022-07-04-characterization-of-merging-black-holes-with-two-precessing-spins
 tags:
   - Milano
   - Papers

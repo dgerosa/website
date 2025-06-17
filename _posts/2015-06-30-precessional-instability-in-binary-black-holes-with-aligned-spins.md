@@ -1,7 +1,7 @@
 ---
 title: 'Precessional instability in binary black holes with aligned spins'
 date: 2015-06-30
-permalink: /posts/2015/06/30/precessional-instability-in-binary-black-holes-with-aligned-spins
+permalink: /posts/2015-06-30-precessional-instability-in-binary-black-holes-with-aligned-spins
 tags:
   - Cambridge
   - Papers

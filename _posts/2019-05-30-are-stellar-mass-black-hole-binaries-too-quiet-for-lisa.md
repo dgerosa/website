@@ -1,7 +1,7 @@
 ---
 title: 'Are stellar-mass black-hole binaries too quiet for LISA?'
 date: 2019-05-30
-permalink: /posts/2019/05/30/are-stellar-mass-black-hole-binaries-too-quiet-for-lisa
+permalink: /posts/2019-05-30-are-stellar-mass-black-hole-binaries-too-quiet-for-lisa
 tags:
   - Birmingham
   - MNRAS

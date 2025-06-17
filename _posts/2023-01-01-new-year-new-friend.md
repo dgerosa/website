@@ -1,7 +1,7 @@
 ---
 title: 'New year, new friend'
 date: 2023-01-01
-permalink: /posts/2023/01/01/new-year-new-friend
+permalink: /posts/2023-01-01-new-year-new-friend
 tags:
   - Milano
   - People

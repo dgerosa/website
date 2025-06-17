@@ -1,7 +1,7 @@
 ---
 title: 'Waveform modelling for the Laser Interferometer Space Antenna'
 date: 2023-11-03
-permalink: /posts/2023/11/03/waveform-modelling-for-the-laser-interferometer-space-antenna
+permalink: /posts/2023-11-03-waveform-modelling-for-the-laser-interferometer-space-antenna
 tags:
   - Milano
   - Review

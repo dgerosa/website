@@ -1,7 +1,7 @@
 ---
 title: 'Wooo! Source modelling at the dawn of gravitational-wave astronomy'
 date: 2016-09-02
-permalink: /posts/2016/09/02/wooo-source-modelling-at-the-dawn-of-gravitational-wave-astronomy
+permalink: /posts/2016-09-02-wooo-source-modelling-at-the-dawn-of-gravitational-wave-astronomy
 tags:
   - Awards
   - Cambridge

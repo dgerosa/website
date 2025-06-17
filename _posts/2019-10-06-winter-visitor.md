@@ -1,7 +1,7 @@
 ---
 title: 'Winter visitors'
 date: 2019-10-06
-permalink: /posts/2019/10/06/winter-visitor
+permalink: /posts/2019-10-06-winter-visitor
 tags:
   - Birmingham
   - People

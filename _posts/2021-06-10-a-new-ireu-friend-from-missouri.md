@@ -1,7 +1,7 @@
 ---
 title: 'A new IREU friend from Missouri'
 date: 2021-06-10
-permalink: /posts/2021/06/10/a-new-ireu-friend-from-missouri
+permalink: /posts/2021-06-10-a-new-ireu-friend-from-missouri
 tags:
   - Birmingham
   - People

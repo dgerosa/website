@@ -1,7 +1,7 @@
 ---
 title: 'Wide nutation: binary black-hole spins repeatedly oscillating from full alignment to full anti-alignment'
 date: 2018-11-14
-permalink: /posts/2018/11/14/wide-precession-binary-black-hole-spins-repeatedly-oscillating-from-full-alignment-to-full-anti-alignment
+permalink: /posts/2018-11-14-wide-precession-binary-black-hole-spins-repeatedly-oscillating-from-full-alignment-to-full-anti-alignment
 tags:
   - Birmingham
   - Caltech

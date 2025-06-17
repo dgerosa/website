@@ -1,7 +1,7 @@
 ---
 title: 'Ringdown mode amplitudes of precessing binary black holes'
 date: 2025-04-25
-permalink: /posts/2025/04/25/ringdown-mode-amplitudes-of-precessing-binary-black-holes
+permalink: /posts/2025-04-25-ringdown-mode-amplitudes-of-precessing-binary-black-holes
 tags:
   - Milano
   - Papers

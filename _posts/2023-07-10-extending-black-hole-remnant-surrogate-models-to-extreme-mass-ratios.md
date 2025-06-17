@@ -1,7 +1,7 @@
 ---
 title: 'Extending black-hole remnant surrogate models to extreme mass ratios'
 date: 2023-07-10
-permalink: /posts/2023/07/10/extending-black-hole-remnant-surrogate-models-to-extreme-mass-ratios
+permalink: /posts/2023-07-10-extending-black-hole-remnant-surrogate-models-to-extreme-mass-ratios
 tags:
   - Milano
   - Papers

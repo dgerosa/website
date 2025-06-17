@@ -1,7 +1,7 @@
 ---
 title: 'Glitch systematics on the observation of massive black-hole binaries with LISA'
 date: 2023-06-07
-permalink: /posts/2023/06/07/glitch-systematics-on-the-observation-of-massive-black-hole-binaries-with-lisa
+permalink: /posts/2023-06-07-glitch-systematics-on-the-observation-of-massive-black-hole-binaries-with-lisa
 tags:
   - Milano
   - Papers

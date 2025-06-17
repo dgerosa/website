@@ -1,7 +1,7 @@
 ---
 title: 'Scalable data-analysis framework for long-duration gravitational waves from compact binaries using short Fourier transforms'
 date: 2025-02-18
-permalink: /posts/2025/02/18/sfts-a-scalable-data-analysis-framework-for-long-duration-gravitational-wave-signals
+permalink: /posts/2025-02-18-sfts-a-scalable-data-analysis-framework-for-long-duration-gravitational-wave-signals
 tags:
   - Milano
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'New class! Astrostatistics'
 date: 2022-03-02
-permalink: /posts/2022/03/02/new-class-astrostatistics
+permalink: /posts/2022-03-02-new-class-astrostatistics
 tags:
   - Milano
   - Teaching

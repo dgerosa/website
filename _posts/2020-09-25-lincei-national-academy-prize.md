@@ -1,7 +1,7 @@
 ---
 title: 'Lincei National Academy prize'
 date: 2020-09-25
-permalink: /posts/2020/09/25/lincei-national-academy-prize
+permalink: /posts/2020-09-25-lincei-national-academy-prize
 tags:
   - Awards
   - Birmingham

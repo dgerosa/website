@@ -1,7 +1,7 @@
 ---
 title: '34th Pacific Coast Gravity Meeting'
 date: 2018-03-24
-permalink: /posts/2018/03/24/34th-pacific-coast-gravity-meeting
+permalink: /posts/2018-03-24-34th-pacific-coast-gravity-meeting
 tags:
   - Conferences
 ---

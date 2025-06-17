@@ -1,7 +1,7 @@
 ---
 title: 'The evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates of LIGO/Virgo binary black holes.'
 date: 2017-06-21
-permalink: /posts/2017/06/21/the-origin-of-low-spin-black-holes-in-ligo-virgo-mergers
+permalink: /posts/2017-06-21-the-origin-of-low-spin-black-holes-in-ligo-virgo-mergers
 tags:
   - A&A
   - Caltech

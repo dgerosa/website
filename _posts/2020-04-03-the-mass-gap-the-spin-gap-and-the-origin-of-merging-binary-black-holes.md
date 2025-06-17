@@ -1,7 +1,7 @@
 ---
 title: 'The mass gap, the spin gap, and the origin of merging binary black holes'
 date: 2020-04-03
-permalink: /posts/2020/04/03/the-mass-gap-the-spin-gap-and-the-origin-of-merging-binary-black-holes
+permalink: /posts/2020-04-03-the-mass-gap-the-spin-gap-and-the-origin-of-merging-binary-black-holes
 tags:
   - Birmingham
   - Papers

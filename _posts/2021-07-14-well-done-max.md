@@ -1,7 +1,7 @@
 ---
 title: 'Well done Max!'
 date: 2021-07-14
-permalink: /posts/2021/07/14/well-done-max
+permalink: /posts/2021-07-14-well-done-max
 tags:
   - Birmingham
   - Graduations

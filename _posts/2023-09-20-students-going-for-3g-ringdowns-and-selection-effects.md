@@ -1,7 +1,7 @@
 ---
 title: 'Students going for 3G, ringdowns, and selection effects'
 date: 2023-09-20
-permalink: /posts/2023/09/20/students-going-for-3g-ringdowns-and-selection-effects
+permalink: /posts/2023-09-20-students-going-for-3g-ringdowns-and-selection-effects
 tags:
   - Graduations
   - Milano

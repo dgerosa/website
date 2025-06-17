@@ -1,7 +1,7 @@
 ---
 title: 'The Bardeen-Petterson effect in accreting supermassive black-hole   binaries: disc breaking and critical obliquity'
 date: 2021-11-17
-permalink: /posts/2021/11/17/the-bardeen-petterson-effect-in-accreting-supermassive-black-hole-binaries-disc-breaking-and-critical-obliquity
+permalink: /posts/2021-11-17-the-bardeen-petterson-effect-in-accreting-supermassive-black-hole-binaries-disc-breaking-and-critical-obliquity
 tags:
   - Milano
   - MNRAS

@@ -1,7 +1,7 @@
 ---
 title: 'IREU summer time'
 date: 2023-06-03
-permalink: /posts/2023/06/03/ireu-summer-time
+permalink: /posts/2023-06-03-ireu-summer-time
 tags:
   - Milano
   - People

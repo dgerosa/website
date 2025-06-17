@@ -1,7 +1,7 @@
 ---
 title: 'Catalog variance of testing general relativity with gravitational-wave data'
 date: 2023-10-11
-permalink: /posts/2023/10/11/the-cosmic-variance-of-testing-general-relativity-with-gravitational-wave-catalogs
+permalink: /posts/2023-10-11-the-cosmic-variance-of-testing-general-relativity-with-gravitational-wave-catalogs
 tags:
   - Milano
   - Papers

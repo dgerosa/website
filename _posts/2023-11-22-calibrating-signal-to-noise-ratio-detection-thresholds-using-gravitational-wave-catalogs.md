@@ -1,7 +1,7 @@
 ---
 title: 'Calibrating signal-to-noise ratio detection thresholds using gravitational-wave catalogs'
 date: 2023-11-22
-permalink: /posts/2023/11/22/calibrating-signal-to-noise-ratio-detection-thresholds-using-gravitational-wave-catalogs
+permalink: /posts/2023-11-22-calibrating-signal-to-noise-ratio-detection-thresholds-using-gravitational-wave-catalogs
 tags:
   - Milano
   - Papers

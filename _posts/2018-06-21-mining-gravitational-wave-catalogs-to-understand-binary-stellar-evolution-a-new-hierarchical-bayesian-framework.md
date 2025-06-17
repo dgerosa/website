@@ -1,7 +1,7 @@
 ---
 title: 'Mining gravitational-wave catalogs to understand binary stellar evolution: a new hierarchical bayesian framework.'
 date: 2018-06-21
-permalink: /posts/2018/06/21/mining-gravitational-wave-catalogs-to-understand-binary-stellar-evolution-a-new-hierarchical-bayesian-framework
+permalink: /posts/2018-06-21-mining-gravitational-wave-catalogs-to-understand-binary-stellar-evolution-a-new-hierarchical-bayesian-framework
 tags:
   - Caltech
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'Spin alignment and differential accretion in merging black hole binaries'
 date: 2015-03-23
-permalink: /posts/2015/03/23/spin-alignment-and-differential-accretion-in-merging-black-hole-binaries
+permalink: /posts/2015-03-23-spin-alignment-and-differential-accretion-in-merging-black-hole-binaries
 tags:
   - Cambridge
   - MNRAS

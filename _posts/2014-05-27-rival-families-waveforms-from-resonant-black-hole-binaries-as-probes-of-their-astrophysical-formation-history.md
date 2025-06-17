@@ -1,7 +1,7 @@
 ---
 title: 'Rival families: waveforms from resonant black-hole binaries as probes of their astrophysical formation history'
 date: 2014-05-27
-permalink: /posts/2014/05/27/rival-families-waveforms-from-resonant-black-hole-binaries-as-probes-of-their-astrophysical-formation-history
+permalink: /posts/2014-05-27-rival-families-waveforms-from-resonant-black-hole-binaries-as-probes-of-their-astrophysical-formation-history
 tags:
   - Cambridge
   - Proceedings

@@ -1,7 +1,7 @@
 ---
 title: 'Challenges and future perspectives in gravitational-wave astronomy: O4 and beyond'
 date: 2024-07-01
-permalink: /posts/2024/07/01/challenges-and-future-perspectives-in-gravitational-wave-astronomy-o4-and-beyond
+permalink: /posts/2024-07-01-challenges-and-future-perspectives-in-gravitational-wave-astronomy-o4-and-beyond
 tags:
   - Conferences
 ---

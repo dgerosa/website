@@ -1,7 +1,7 @@
 ---
 title: 'Late 2022 visitors: we’re alive!'
 date: 2022-10-13
-permalink: /posts/2022/10/13/late-2022-visitors-were-alive
+permalink: /posts/2022-10-13-late-2022-visitors-were-alive
 tags:
   - Milano
   - People

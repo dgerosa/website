@@ -1,7 +1,7 @@
 ---
 title: 'Nick and Arianna are the new “Giovani Talenti”'
 date: 2024-10-21
-permalink: /posts/2024/10/21/nick-and-arianna-are-the-new-giovani-talenti
+permalink: /posts/2024-10-21-nick-and-arianna-are-the-new-giovani-talenti
 tags:
   - Awards
   - Milano

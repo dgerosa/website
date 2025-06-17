@@ -1,7 +1,7 @@
 ---
 title: 'Orbital eccentricity in general relativity from catastrophe theory'
 date: 2024-11-04
-permalink: /posts/2024/11/04/orbital-eccentricity-in-general-relativity-from-catastrophe-theory
+permalink: /posts/2024-11-04-orbital-eccentricity-in-general-relativity-from-catastrophe-theory
 tags:
   - Milano
   - Papers

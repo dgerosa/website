@@ -1,7 +1,7 @@
 ---
 title: 'In memory of Chris Belczynski'
 date: 2024-01-17
-permalink: /posts/2024/01/17/in-memory-of-chris-belczynski
+permalink: /posts/2024-01-17-in-memory-of-chris-belczynski
 tags:
   - People
 ---

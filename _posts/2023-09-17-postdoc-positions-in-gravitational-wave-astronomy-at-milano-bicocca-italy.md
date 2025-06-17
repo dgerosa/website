@@ -1,7 +1,7 @@
 ---
 title: 'Postdoc positions in gravitational-wave astronomy at Milano-Bicocca (Italy)'
 date: 2023-09-17
-permalink: /posts/2023/09/17/postdoc-positions-in-gravitational-wave-astronomy-at-milano-bicocca-italy
+permalink: /posts/2023-09-17-postdoc-positions-in-gravitational-wave-astronomy-at-milano-bicocca-italy
 tags:
   - Jobs
   - Milano

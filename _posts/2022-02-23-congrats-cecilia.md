@@ -1,7 +1,7 @@
 ---
 title: 'Congrats Cecilia!'
 date: 2022-02-23
-permalink: /posts/2022/02/23/congrats-cecilia
+permalink: /posts/2022-02-23-congrats-cecilia
 tags:
   - Graduations
   - Milano

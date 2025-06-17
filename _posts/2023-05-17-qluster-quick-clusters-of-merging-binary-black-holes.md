@@ -1,7 +1,7 @@
 ---
 title: 'QLUSTER: quick clusters of merging binary black holes'
 date: 2023-05-17
-permalink: /posts/2023/05/17/qluster-quick-clusters-of-merging-binary-black-holes
+permalink: /posts/2023-05-17-qluster-quick-clusters-of-merging-binary-black-holes
 tags:
   - Milano
   - Proceedings

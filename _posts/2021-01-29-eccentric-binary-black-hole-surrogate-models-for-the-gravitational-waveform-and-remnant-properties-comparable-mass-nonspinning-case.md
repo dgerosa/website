@@ -1,7 +1,7 @@
 ---
 title: 'Eccentric binary black hole surrogate models for the gravitational waveform and remnant properties: comparable mass, nonspinning case'
 date: 2021-01-29
-permalink: /posts/2021/01/29/eccentric-binary-black-hole-surrogate-models-for-the-gravitational-waveform-and-remnant-properties-comparable-mass-nonspinning-case
+permalink: /posts/2021-01-29-eccentric-binary-black-hole-surrogate-models-for-the-gravitational-waveform-and-remnant-properties-comparable-mass-nonspinning-case
 tags:
   - Birmingham
   - Papers

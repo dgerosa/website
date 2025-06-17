@@ -1,7 +1,7 @@
 ---
 title: 'The birth of an idea'
 date: 2015-07-09
-permalink: /posts/2015/07/09/the-birth-of-an-idea
+permalink: /posts/2015-07-09-the-birth-of-an-idea
 tags:
   - Cambridge
   - Outreach

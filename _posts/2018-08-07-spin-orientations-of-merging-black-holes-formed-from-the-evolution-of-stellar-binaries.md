@@ -1,7 +1,7 @@
 ---
 title: 'Spin orientations of merging black holes formed from the evolution of stellar binaries'
 date: 2018-08-07
-permalink: /posts/2018/08/07/spin-orientations-of-merging-black-holes-formed-from-the-evolution-of-stellar-binaries
+permalink: /posts/2018-08-07-spin-orientations-of-merging-black-holes-formed-from-the-evolution-of-stellar-binaries
 tags:
   - Caltech
   - Papers

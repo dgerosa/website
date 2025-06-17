@@ -1,7 +1,7 @@
 ---
 title: 'Resonant-plane locking and spin alignment in stellar-mass black-hole binaries: a diagnostic of compact-binary formation'
 date: 2013-02-18
-permalink: /posts/2013/02/18/resonant-plane-locking-and-spin-alignment-in-stellar-mass-black-hole-binaries-a-diagnostic-of-compact-binary-formation
+permalink: /posts/2013-02-18-resonant-plane-locking-and-spin-alignment-in-stellar-mass-black-hole-binaries-a-diagnostic-of-compact-binary-formation
 tags:
   - Milano
   - Olemiss

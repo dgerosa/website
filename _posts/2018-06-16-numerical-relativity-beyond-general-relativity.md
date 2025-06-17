@@ -1,7 +1,7 @@
 ---
 title: 'Numerical Relativity beyond General Relativity'
 date: 2018-06-16
-permalink: /posts/2018/06/16/numerical-relativity-beyond-general-relativity
+permalink: /posts/2018-06-16-numerical-relativity-beyond-general-relativity
 tags:
   - Conferences
 ---

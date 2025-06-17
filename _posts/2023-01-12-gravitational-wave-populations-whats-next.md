@@ -1,7 +1,7 @@
 ---
 title: 'Gravitational-wave populations: what’s next?'
 date: 2023-01-12
-permalink: /posts/2023/01/12/gravitational-wave-populations-whats-next
+permalink: /posts/2023-01-12-gravitational-wave-populations-whats-next
 tags:
   - Conferences
   - Milano

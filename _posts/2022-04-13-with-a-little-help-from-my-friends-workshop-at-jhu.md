@@ -1,7 +1,7 @@
 ---
 title: '“With a little help from my friends” Workshop at JHU'
 date: 2022-04-13
-permalink: /posts/2022/04/13/with-a-little-help-from-my-friends-workshop-at-jhu
+permalink: /posts/2022-04-13-with-a-little-help-from-my-friends-workshop-at-jhu
 tags:
   - Conferences
   - People

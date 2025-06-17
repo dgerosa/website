@@ -1,7 +1,7 @@
 ---
 title: 'Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)'
 date: 2024-04-18
-permalink: /posts/2024/04/18/linking-advances-in-our-understanding-of-theoretical-astrophysics-and-relativity-to-observations-lautaro
+permalink: /posts/2024-04-18-linking-advances-in-our-understanding-of-theoretical-astrophysics-and-relativity-to-observations-lautaro
 tags:
   - Conferences
   - Milano

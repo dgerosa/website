@@ -1,7 +1,7 @@
 ---
 title: 'filltex: Automatic queries to ADS and INSPIRE databases to fill LaTex bibliography'
 date: 2017-03-30
-permalink: /posts/2017/03/30/filltex-automatic-queries-to-ads-and-inspire-databases-to-fill-latex-bibliography
+permalink: /posts/2017-03-30-filltex-automatic-queries-to-ads-and-inspire-databases-to-fill-latex-bibliography
 tags:
   - Caltech
   - Proceedings

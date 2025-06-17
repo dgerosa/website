@@ -1,7 +1,7 @@
 ---
 title: 'Long-term research appointment in computational astrophysics at Milano-Bicocca (Italy)'
 date: 2022-04-22
-permalink: /posts/2022/04/22/long-term-research-appointment-in-computational-astrophysics-at-milano-bicocca-italy
+permalink: /posts/2022-04-22-long-term-research-appointment-in-computational-astrophysics-at-milano-bicocca-italy
 tags:
   - Jobs
   - Milano

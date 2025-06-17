@@ -1,7 +1,7 @@
 ---
 title: 'Welcome Matt!'
 date: 2019-09-20
-permalink: /posts/2019/09/20/welcome-matt
+permalink: /posts/2019-09-20-welcome-matt
 tags:
   - Birmingham
   - People

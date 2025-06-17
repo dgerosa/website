@@ -1,7 +1,7 @@
 ---
 title: 'Reconstructing parametric gravitational-wave population fits from non-parametric results without refitting the data'
 date: 2025-01-31
-permalink: /posts/2025/01/31/reconstructing-parametric-gravitational-wave-population-fits-from-non-parametric-results-without-refitting-the-data
+permalink: /posts/2025-01-31-reconstructing-parametric-gravitational-wave-population-fits-from-non-parametric-results-without-refitting-the-data
 tags:
   - Milano
   - Papers

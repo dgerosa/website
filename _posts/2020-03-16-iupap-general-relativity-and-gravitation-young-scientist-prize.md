@@ -1,7 +1,7 @@
 ---
 title: 'IUPAP General Relativity and Gravitation Young Scientist Prize'
 date: 2020-03-16
-permalink: /posts/2020/03/16/iupap-general-relativity-and-gravitation-young-scientist-prize
+permalink: /posts/2020-03-16-iupap-general-relativity-and-gravitation-young-scientist-prize
 tags:
   - Awards
   - Birmingham

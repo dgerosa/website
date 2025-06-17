@@ -1,7 +1,7 @@
 ---
 title: 'PRECESSION: Dynamics of spinning black-hole binaries with python'
 date: 2016-05-03
-permalink: /posts/2016/05/03/precession-dynamics-of-spinning-black-hole-binaries-with-python
+permalink: /posts/2016-05-03-precession-dynamics-of-spinning-black-hole-binaries-with-python
 tags:
   - Cambridge
   - Papers

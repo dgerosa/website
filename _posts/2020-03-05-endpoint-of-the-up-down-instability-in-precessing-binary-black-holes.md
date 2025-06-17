@@ -1,7 +1,7 @@
 ---
 title: 'Endpoint of the up-down instability in precessing binary black holes'
 date: 2020-03-05
-permalink: /posts/2020/03/05/endpoint-of-the-up-down-instability-in-precessing-binary-black-holes
+permalink: /posts/2020-03-05-endpoint-of-the-up-down-instability-in-precessing-binary-black-holes
 tags:
   - Birmingham
   - Papers

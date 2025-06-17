@@ -1,7 +1,7 @@
 ---
 title: 'Distinguishing black-hole spin-orbit resonances by their gravitational wave signatures. II: Full parameter estimation'
 date: 2015-07-20
-permalink: /posts/2015/07/20/distinguishing-black-hole-spin-orbit-resonances-by-their-gravitational-wave-signatures-ii-full-parameter-estimation
+permalink: /posts/2015-07-20-distinguishing-black-hole-spin-orbit-resonances-by-their-gravitational-wave-signatures-ii-full-parameter-estimation
 tags:
   - Cambridge
   - Papers

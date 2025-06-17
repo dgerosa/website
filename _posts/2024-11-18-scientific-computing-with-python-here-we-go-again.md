@@ -1,7 +1,7 @@
 ---
 title: 'Scientific computing with Python, here we go again'
 date: 2024-11-18
-permalink: /posts/2024/11/18/scientific-computing-with-python-here-we-go-again
+permalink: /posts/2024-11-18-scientific-computing-with-python-here-we-go-again
 tags:
   - Milano
   - Teaching

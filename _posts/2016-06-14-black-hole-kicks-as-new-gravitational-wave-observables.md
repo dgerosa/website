@@ -1,7 +1,7 @@
 ---
 title: 'Black-hole kicks as new gravitational-wave observables'
 date: 2016-06-14
-permalink: /posts/2016/06/14/black-hole-kicks-as-new-gravitational-wave-observables
+permalink: /posts/2016-06-14-black-hole-kicks-as-new-gravitational-wave-observables
 tags:
   - Cambridge
   - Papers

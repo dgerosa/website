@@ -1,7 +1,7 @@
 ---
 title: 'Computer-science graduation'
 date: 2024-07-22
-permalink: /posts/2024/07/22/a-new-computer-scientist
+permalink: /posts/2024-07-22-a-new-computer-scientist
 tags:
   - Graduations
   - Milano

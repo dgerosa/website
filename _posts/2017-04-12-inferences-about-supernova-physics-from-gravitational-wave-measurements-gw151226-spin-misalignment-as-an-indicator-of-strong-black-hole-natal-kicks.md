@@ -1,7 +1,7 @@
 ---
 title: 'Inferences about supernova physics from gravitational-wave measurements: GW151226 spin misalignment as an indicator of strong black-hole natal kicks'
 date: 2017-04-12
-permalink: /posts/2017/04/12/inferences-about-supernova-physics-from-gravitational-wave-measurements-gw151226-spin-misalignment-as-an-indicator-of-strong-black-hole-natal-kicks
+permalink: /posts/2017-04-12-inferences-about-supernova-physics-from-gravitational-wave-measurements-gw151226-spin-misalignment-as-an-indicator-of-strong-black-hole-natal-kicks
 tags:
   - Caltech
   - Papers

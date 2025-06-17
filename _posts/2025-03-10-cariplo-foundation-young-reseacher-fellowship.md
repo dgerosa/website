@@ -1,7 +1,7 @@
 ---
 title: 'Cariplo Foundation “Young Reseacher” fellowship'
 date: 2025-03-10
-permalink: /posts/2025/03/10/cariplo-foundation-young-reseacher-fellowship
+permalink: /posts/2025-03-10-cariplo-foundation-young-reseacher-fellowship
 tags:
   - Jobs
   - Milano

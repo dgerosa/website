@@ -1,7 +1,7 @@
 ---
 title: 'Job opportunities for Marie Curie past holders and applicants'
 date: 2022-09-19
-permalink: /posts/2022/09/19/job-opportunities-for-marie-curie-past-holders-and-applicants
+permalink: /posts/2022-09-19-job-opportunities-for-marie-curie-past-holders-and-applicants
 tags:
   - Jobs
   - Milano

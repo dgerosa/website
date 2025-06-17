@@ -1,7 +1,7 @@
 ---
 title: 'Population-informed priors in gravitational-wave astronomy'
 date: 2021-08-06
-permalink: /posts/2021/08/06/population-informed-priors-in-gravitational-wave-astronomy
+permalink: /posts/2021-08-06-population-informed-priors-in-gravitational-wave-astronomy
 tags:
   - Birmingham
   - Papers

@@ -1,7 +1,7 @@
 ---
 title: 'Numerical simulations of stellar collapse in scalar-tensor theories of gravity'
 date: 2016-02-22
-permalink: /posts/2016/02/22/numerical-simulations-of-stellar-collapse-in-scalar-tensor-theories-of-gravity
+permalink: /posts/2016-02-22-numerical-simulations-of-stellar-collapse-in-scalar-tensor-theories-of-gravity
 tags:
   - Cambridge
   - CQG

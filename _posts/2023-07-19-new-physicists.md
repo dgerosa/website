@@ -1,7 +1,7 @@
 ---
 title: 'New July physicists'
 date: 2023-07-19
-permalink: /posts/2023/07/19/new-physicists
+permalink: /posts/2023-07-19-new-physicists
 tags:
   - Graduations
   - Milano

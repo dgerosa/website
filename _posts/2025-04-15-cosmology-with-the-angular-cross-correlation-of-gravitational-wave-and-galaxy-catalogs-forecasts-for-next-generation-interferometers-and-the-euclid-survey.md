@@ -1,7 +1,7 @@
 ---
 title: 'Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey'
 date: 2025-04-15
-permalink: /posts/2025/04/15/cosmology-with-the-angular-cross-correlation-of-gravitational-wave-and-galaxy-catalogs-forecasts-for-next-generation-interferometers-and-the-euclid-survey
+permalink: /posts/2025-04-15-cosmology-with-the-angular-cross-correlation-of-gravitational-wave-and-galaxy-catalogs-forecasts-for-next-generation-interferometers-and-the-euclid-survey
 tags:
   - Milano
   - Papers

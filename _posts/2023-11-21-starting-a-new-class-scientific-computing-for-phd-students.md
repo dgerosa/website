@@ -1,7 +1,7 @@
 ---
 title: 'Starting a new class! “Scientific computing” for PhD students'
 date: 2023-11-21
-permalink: /posts/2023/11/21/starting-a-new-class-scientific-computing-for-phd-students
+permalink: /posts/2023-11-21-starting-a-new-class-scientific-computing-for-phd-students
 tags:
   - Milano
   - Teaching

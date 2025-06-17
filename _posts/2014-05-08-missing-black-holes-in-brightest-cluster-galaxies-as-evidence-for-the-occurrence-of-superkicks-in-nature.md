@@ -1,7 +1,7 @@
 ---
 title: 'Missing black holes in brightest cluster galaxies as evidence for the occurrence of superkicks in nature'
 date: 2014-05-08
-permalink: /posts/2014/05/08/missing-black-holes-in-brightest-cluster-galaxies-as-evidence-for-the-occurrence-of-superkicks-in-nature
+permalink: /posts/2014-05-08-missing-black-holes-in-brightest-cluster-galaxies-as-evidence-for-the-occurrence-of-superkicks-in-nature
 tags:
   - Cambridge
   - MNRAS

@@ -1,7 +1,7 @@
 ---
 title: 'Top 2% scientists'
 date: 2023-11-17
-permalink: /posts/2023/11/17/top-2-scientists
+permalink: /posts/2023-11-17-top-2-scientists
 tags:
   - Awards
   - Milano
