@@ -159,20 +159,20 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| IAU | 1 |
-| Moriond | 1 |
-| JOSS | 1 |
 | PRR | 1 |
-| PhD thesis | 1 |
-| JoPCS | 1 |
-| Lincei | 1 |
-| GRG | 1 |
-| book | 1 |
-| Symmetry | 1 |
 | AaSSP | 1 |
-| CURJ | 1 |
+| PhD thesis | 1 |
 | iScience | 1 |
+| JoPCS | 1 |
 | NatAstro | 1 |
+| CURJ | 1 |
+| Symmetry | 1 |
+| Lincei | 1 |
+| Moriond | 1 |
+| book | 1 |
+| GRG | 1 |
+| JOSS | 1 |
+| IAU | 1 |
 
 ## Papers per arXiv category
 
