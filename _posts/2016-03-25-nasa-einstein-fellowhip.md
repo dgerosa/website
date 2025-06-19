@@ -4,6 +4,7 @@ date: 2016-03-25
 permalink: /posts/2016-03-25-nasa-einstein-fellowhip
 tags:
   - Awards
+  - Caltech
 ---
 
 I was awarded a [NASA Einstein Fellowship](<http://cxc.harvard.edu/fellows/>) to conduct three years of postdoctoral research at [Caltech](<http://www.caltech.edu/>). My proposal is titled “Strong gravity to the realm of observational astronomy”. Here is a passage from NASA’s [press release](<https://www.nasa.gov/feature/nasa-announces-astronomy-and-astrophysics-fellows-for-2016>):

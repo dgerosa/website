@@ -1,14 +1,14 @@
 ---
-title: 'New horizons for fundamental physics with LISA'
+title: "New horizons for fundamental physics with LISA"
 date: 2022-05-04
 permalink: /posts/2022-05-04-new-horizons-for-fundamental-physics-with-lisa
 tags:
-  - Milano
-  - Review
+  - Papers
 ---
 
-Another short post today, but it’s not just [astrophysics](<../../../../../index.html?p=4842>) that will be awesome with LISA, but fundamental physics too! Here is the white paper of the relevant LISA working group. Get ready to test your wildest ideas, my theory friend!
 
-K. G. Arun, et al. (141 authors incl. **Davide Gerosa**)  
-arXiv:[2205.01597](<https://arxiv.org/abs/arXiv:2205.01597>) [gr-qc].
 
+
+
+K. G. Arun, et al. (141 authors incl. **D. Gerosa**).\
+[Living Reviews in Relativity 25 (2022) 4](https://doi.org/10.1007/s41114-022-00036-9). [arXiv:2205.01597 [gr-qc]](https://arxiv.org/abs/2205.01597).
