@@ -2,7 +2,7 @@ Invited talks marked with ✦.
 
 ## Summary
 **77** (**31**✦) [Talks at conferences](#talks-at-conferences) \
-**43** (**43**✦) [Talks at department seminars](#talks-at-department-seminars) \
+**44** (**44**✦) [Talks at department seminars](#talks-at-department-seminars) \
 **6** (**5**✦) [Lectures at PhD schools](#lectures-at-phd-schools) \
 **8** (**4**✦) [Posters at conferences](#posters-at-conferences) \
 **17** (**17**✦) [Outreach talks](#outreach-talks)
@@ -249,6 +249,9 @@ BritGrav 14, Cambridge, UK, Mar 2014.
 ---
 
 ## Talks at department seminars
+
+**44.** ✦ *Gravitational-wave populations: deeper statistics for deeper astrophysics*  \\
+Joint Israeli seminar series on gravitational physics, Israel, (online), Jun 2025.
 
 **43.** ✦ *The case of quasar 3C 186 as kicked black hole*  \\
 Astronomy seminars, Cardiff University, Cardiff, UK, Jul 2024.
