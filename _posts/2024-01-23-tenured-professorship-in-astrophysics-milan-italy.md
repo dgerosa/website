@@ -15,5 +15,5 @@ We are targeting the opening of a faculty position on a timescale of a few month
 
 Current strategic interests include the development of gravitational-wave data-analysis pipelines for the LISA space mission. At the same time, we are open to all strong candidates willing to bring their ambitious research programs in relativistic astrophysics and/or gravitational-wave astronomy to Milan.
 
-Interested applicants are encouraged to send their CVs and a short cover letter to bruno.giacomazzo@unimib.it by February 15th, 2024. The CV should include the names and email addresses of three referees who might be approached for references.
+Interested applicants are encouraged to send their CVs and a short cover letter to [bruno.giacomazzo@unimib.it](mailto:bruno.giacomazzo@unimib.it) by February 15th, 2024. The CV should include the names and email addresses of three referees who might be approached for references.
 

@@ -22,3 +22,7 @@ Interested students should register by ** _September 8th, 2023_**. Participation
 
 Davide Gerosa, Michele Fumagalli (Milano-Bicocca)
 
+<p style="text-align: center;">
+  <img src="/images/masterclass_bigdata_banner.jpg" alt="Masterclass bigdata banner" style="max-width: 100%; height: auto;" />
+</p>
+

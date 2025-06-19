@@ -17,5 +17,25 @@ Thanks all for joining and participating so actively. Huge thanks to Emanuele Be
 
 And if you couldn’t make it for whatever reason no worries, we’ll do it again!
 
-**Conference program in a nutshell.** These are our discussion sessions
+
+<p style="text-align: center;">
+  <img src="/images/gwpopnext_conference_picture.jpg" alt="gwpopnext conference picture" style="max-width: 60%; height: auto;" />
+</p>
+
+**Conference program in a nutshell.** These are our discussion sessions:
+
+- Intro: the pieces of the population problem.
+- What can/should astrophysicists and pop-synthers predict?
+- What is the predictive power of pop-synth codes? Are we learning more than our assumptions?
+- Hierarchical Bayesian fits: can we keep on doing this? Technical difficulties, scaling with the number of events, selection effects.
+- Mind the outliers. Are they in or out of your fit? If you fit something well you also need to fit the rest.
+- What is a catalog? Is p_astro the way to go? (Ir)relevance of subthreshold events.
+- Mind the systematics. Are waveform/calibration impacting the population? And how about the assumed population?
+- Beyond functional forms: “non-parametric” methods. What are they and what does it even mean.
+- Beyond functional forms: “parametric but informed”. Machine learning emulators for pop-synth.
+- More populations. LISA, X-ray binaries, Gaia, you name it.
+- More than individual mergers. Stochastic backgrounds, foreground removal.
+- Adding the redshift dimension: toward 3g! Use the population to do cosmology.
+- What’s next? Summary and prospects.
+
 

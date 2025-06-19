@@ -4,6 +4,7 @@ date: 2023-03-23
 permalink: /posts/2023-03-23-phd-positions-in-gravitational-wave-astronomy-at-milano-bicocca
 tags:
   - Milano
+  - Jobs
 ---
 
 The University of Milano-Bicocca welcomes applications for PhD scholarships. The application deadline is April 19th, 2023 for positions starting in the Fall of 2023:

@@ -1,7 +1,7 @@
 ---
-title: 'Black-hole mergers in disk-like environments could explain the observed 𝑞−𝜒eff correlation'
+title: "Black-hole mergers in disk-like environments could explain the observed $$q-\\chi_{\\rm eff}$$ correlation"
 date: 2023-08-28
-permalink: /posts/2023-08-28-black-hole-mergers-in-disk-like-environments-could-explain-the-observed-𝑞−𝜒eff-correlation
+permalink: /posts/2023-08-28-black-hole-mergers-in-disk-like-environments-could-explain-the-observed-q-chi-mathrmeff-correlation
 tags:
   - Milano
   - Papers
@@ -12,8 +12,7 @@ Gravitational-wave data keep on giving us surprises. The most outstanding one IM
 
 … and huge congrats to my MSc student Alessandro who managed to publish a paper even before graduating!
 
-Alessandro Santini, **Davide Gerosa** , Roberto Cotesta, Emanuele Berti  
-arXiv:[](<https://arxiv.org/abs/2204.00026>)[](<https://arxiv.org/abs/2204.03423>)[2308.12998](<https://arxiv.org/abs/2308.12998>) [astro-ph.HE].  
-Physical Review D 108 (2023) [083033](<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.083033>).  
-Other press coverage: [astrobites](<https://astrobites.org/2023/09/01/bhballet/>).
+A. Santini, **D. Gerosa**, R. Cotesta, E. Berti.\
+[Physical Review D 108 (2023) 083033](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.083033). [arXiv:2308.12998 [astro-ph.HE]](https://arxiv.org/abs/2308.12998).
 
+Other press coverage: [astrobites](<https://astrobites.org/2023/09/01/bhballet/>).

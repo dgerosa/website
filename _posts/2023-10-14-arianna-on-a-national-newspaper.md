@@ -13,5 +13,9 @@ Here is the online version: [Arianna Renzini, la studiosa di Astrofisica cortegg
 
 But it was also on the printed thing distributed everywhere!
 
+<p style="text-align: center;">
+  <img src="/images/arianna_newspaper.jpg" alt="Arianna newspaper" style="max-width: 60%; height: auto;" />
+</p>
+
 (That picture was taken in my office… So my office is also in the national newspaper today! Wooo!)
 

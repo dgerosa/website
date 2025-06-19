@@ -14,3 +14,8 @@ The star of the day is Matteo Boschini, who completed his MSc project with me af
 
 Daniele Chirico completed his BSc studies with a sweet research project on supernova explosions, orbits, and kicks. He’s staying in Milan for his MSc degree now, so wait a bit for his successes!
 
+<p style="text-align: center;">
+  <img src="/images/graduations_mar2023.jpg" alt="Graduations March 2022" style="max-width: 60%; height: auto;" />
+</p>
+
+*That's Matteo discussing black-hole remnants* 
