@@ -13,7 +13,7 @@ The Institute provides a vibrant and diverse environment with expertise covering
 
 Institute faculty members include Andreas Freise, Davide Gerosa, Denis Martynov, Haixing Miao, Christopher Moore, Conor Mow-Lowry, Matt Nicholl, Patricia Schmidt, Silvia Toonen, and Alberto Vecchio.
 
-One postdoctoral appointment is [funded by the UK Leverhulme Trust](<../../../../../index.html?p=3028>) (PI Dr. Davide Gerosa) and is focused on developing astrophysical and statistical predictions for the LISA space mission. The successful candidate will have ample opportunities to explore other areas of gravitational-wave astronomy as well.
+One postdoctoral appointment is [funded by the UK Leverhulme Trust](https://www.leverhulme.ac.uk/) (PI Dr. Davide Gerosa) and is focused on developing astrophysical and statistical predictions for the LISA space mission. The successful candidate will have ample opportunities to explore other areas of gravitational-wave astronomy as well.
 
 Appointments will be for a three-year term starting in the Fall of 2020 and come with generous research and travel budget.
 
