@@ -21,3 +21,6 @@ Interested participants should register on the conference website by March 1st, 
 
 Davide Gerosa (Milano-Bicocca), Emanuele Berti (Johns Hopkins), Salvatore Vitale (MIT)
 
+<p style="text-align: center;">
+  <img src="/images/gwpopnext_conference_banner.jpg" alt="gwpopnext conference banner" style="max-width: 100%; height: auto;" />
+</p>
