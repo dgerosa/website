@@ -17,11 +17,3 @@ Hi there. I am an associate professor at the University of Milano-Bicocca, Italy
 
 Besides gravity and all the rest, I love mountains (basically everything up there: hiking, climbing, skiing…), playing football (I mean good Italian “soccer” of course!) and rock music (Bruce is the Boss!).
 
----
-
-<small>
-*I'm in the process of rewriting my academic website. Some links might be broken now, sorry. I'm slowly bringing all pages back online. For an archived version of my former website see [here](https://web.archive.org/web/20250530003117/https://davidegerosa.com/).*
-</small>
-
----
-
