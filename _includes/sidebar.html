@@ -36,6 +36,17 @@
           <li><a href="#{{ month.name }}">{{ month.name | append: "-01" | date: "%b %Y" }}</a></li>
         {% endfor %}
       </ul>
+
+      <h3>News tags</h3>
+      <ul>
+        {% assign all_tags = site.tags | sort %}
+        {% for tag in all_tags %}
+          <li>
+            <a href="/tags/#{{ tag[0] | slugify }}">{{ tag[0] }}</a> ({{ tag[1].size }})
+          </li>
+        {% endfor %}
+      </ul>
+
       <br>
       <br>
     {% endif %}
