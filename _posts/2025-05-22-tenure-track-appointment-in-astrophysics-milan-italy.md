@@ -16,7 +16,7 @@ Current interests of the group include gravitational-wave astronomy, formation a
 The position will be at the assistant professor level (“RTT” in the Italian system), a tenure-track appointment with a well-defined path to tenure within either three or six years, depending on performance. The anticipated start date is fall 2025, though this is negotiable. Responsibilities include conducting research at the highest international standards, teaching BSc and MSc courses, mentoring students, and securing external funding.
 
 Interested candidates are invited to apply by June 12th, 2025:  
-https://www.unimib.it/ateneo/gare-e-concorsi/2025-rtt-027-dipartimento-fisica-g-occhialinigsd-02phys-05-ssd-phys-05a
+[https://www.unimib.it/ateneo/gare-e-concorsi/2025-rtt-027-dipartimento-fisica-g-occhialinigsd-02phys-05-ssd-phys-05a](https://www.unimib.it/ateneo/gare-e-concorsi/2025-rtt-027-dipartimento-fisica-g-occhialinigsd-02phys-05-ssd-phys-05a)
 
 Knowledge of the Italian language is not required to apply; the online application portal is available in English. We strive to build a diverse and inclusive environment and welcome applications from traditionally underrepresented groups.
 
