@@ -5,7 +5,6 @@ permalink: /posts/2021-03-31-group-study-on-bh-binaries-in-agn-disks
 tags:
   - Birmingham
   - Conferences
-  - People
 ---
 
 This is a quick update some of our group activities… In the past few months we’ve been busy learning about the formation of stellar-mass black-hole binaries in the disks of active galactic nuclei. We organized a journal club and studied one paper each week on this “new” formation channel for LIGO sources. We discussed a ton of topics, going from disk accretion to migration traps, LIGO rates, AGN variability, GW counterparts, hierarchical mergers, all the way to EMRIs. 
