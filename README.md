@@ -1,5 +1,9 @@
 # davidegerosa.com
 
-This is my new website! Let's gooo
+This is my new website! See
 
-[Here](https://web.archive.org/web/20250530003117/https://davidegerosa.com/) is a link to the old website
+- [www.davidegerosa.com](http://www.davidegerosa.com)
+- [https://virgilio.mib.infn.it/~dgerosa](https://virgilio.mib.infn.it/~dgerosa)
+- [www.sr.bham.ac.uk/~dgerosa](http://www.sr.bham.ac.uk/~dgerosa)
+
+My old website is archived [here](https://github.com/dgerosa/old-website)
