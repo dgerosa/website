@@ -33,7 +33,7 @@
       <ul>
         {% assign posts_by_month = site.posts | group_by_exp:"post", "post.date | date: '%Y-%m'" %}
         {% for month in posts_by_month %}
-          <li><a href="#{{ month.name }}">{{ month.name | append: "-01" | date: "%b %Y" }}</a> ({{ month.items | size }})</li>
+          <li><a href="/news/#{{ month.name }}">{{ month.name | append: "-01" | date: "%b %Y" }}</a> ({{ month.items | size }})</li>
         {% endfor %}
       </ul>
 
