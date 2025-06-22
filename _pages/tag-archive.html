@@ -13,5 +13,8 @@ author_profile: true
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
   {% for post in posts %}
     {% include archive-single.html %}
+
+    <hr style="border: none; border-bottom: 1px solid var(--global-border-color); margin: 1.414em 0;" />    
+
   {% endfor %}
 {% endfor %}
