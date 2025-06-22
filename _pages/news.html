@@ -3,13 +3,22 @@ layout: archive
 permalink: /news/
 title: "News"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-  <hr style="border:none; border-bottom:1px solid #ccc; margin: 1.5em 0;" />
+{%- comment -%}
+Group posts by year-month like 2025-06
+{%- endcomment -%}
+{% assign posts_by_month = site.posts | group_by_exp:"post", "post.date | date: '%Y-%m'" %}
+
+{% for month in posts_by_month %}
+  {% assign display_date = month.name | append: "-01" | date: "%B %Y" %}
+  <h2 id="{{ month.name }}" class="archive__subtitle">{{ display_date }}</h2>
+  {% for post in month.items %}
+    {% include archive-single.html %}
+    
+  <hr style="border: none; border-bottom: 1px solid var(--global-border-color); margin: 1.414em 0;" />    
+
+  {% endfor %}
 {% endfor %}
