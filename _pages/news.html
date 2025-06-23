@@ -16,6 +16,9 @@ Group posts by year-month like 2025-06
   {% assign display_date = month.name | append: "-01" | date: "%B %Y" %}
   <h2 id="{{ month.name }}" class="archive__subtitle">{{ display_date }}</h2>
   {% for post in month.items %}
+ 
+    <br>
+
     {% include archive-single.html %}
     
   <hr style="border: none; border-bottom: 1px solid var(--global-border-color); margin: 1.414em 0;" />    
