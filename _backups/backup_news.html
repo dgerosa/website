@@ -1,0 +1,15 @@
+---
+layout: archive
+permalink: /news/
+title: "News"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
+{% include base_path %}
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+  <hr style="border:none; border-bottom:1px solid #ccc; margin: 1.5em 0;" />
+{% endfor %}
