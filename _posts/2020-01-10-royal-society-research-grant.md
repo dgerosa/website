@@ -1,6 +1,6 @@
 ---
 title: "Royal Society Research Grant"
-date: 22020-01-10
+date: 2020-01-10
 permalink: /posts/2020-01-10-royal-society-research-grant
 tags:
   - Birmingham
