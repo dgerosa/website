@@ -257,10 +257,10 @@ Joint Israeli seminar series on gravitational physics, Israel, (online), Jun 202
 Astronomy seminars, Cardiff University, Cardiff, UK, Jul 2024.
 
 **42.** ✦ *Black-hole binaries, formation channels, and repeated mergers*  \\
-Gravitational-wave seminars, Università di Pisa, , Pisa, Italy, May 2024.
+Gravitational-wave seminars, Università di Pisa, Pisa, Italy, May 2024.
 
 **41.** ✦ *Deep learning and Bayesian stats to uncover the origin of merging black holes*  \\
-INAF/OAPD seminars, Università degli Studi di Padova, , Padua, Italy, Apr 2023.
+INAF/OAPD seminars, Università degli Studi di Padova, Padua, Italy, Apr 2023.
 
 **40.** ✦ *Deep-learning emulators for gravitational-wave population fits*  \\
 Theoretical Astrophysics seminars, University of Zurich, Zurich, Switzerland, Feb 2023.
