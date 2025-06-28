@@ -132,8 +132,9 @@ Here are the amazing people in my group. Come visit and chat science with us! If
 ## Current MSc and Bsc students
 Here are the amazing students who are currently completing research projects with us in the group… Taking the first fun steps into the perilous world of black holes!
 
-- **Pietro Zeduri**, MSc thesis, Milano-Bicocca, 2025.
-- **Alessia Corelli**, MSc thesis, Milano-Bicocca, 2025.
+- **Marco Bianchi**, MSc thesis, Milano-Bicocca, 2025.
+- **Pietro Zeduri**, MSc thesis, Milano-Bicocca and University of Aix-Marseille, 2025.
+- **Alessia Corelli**, MSc thesis, Milano-Bicocca , 2025.
 - **Federico Leto di Priolo**, MSc thesis, Milano-Bicocca and ESO Garching, 2025.
 - **Giorgio Monti**, MSc thesis, Milano-Bicocca and GSSI L'Aquila, 2025.
 - **Oliver Rossi**, MSc thesis, Milano-Bicocca, 2025.
@@ -171,7 +172,7 @@ Here are the amazing students who are currently completing research projects wit
 
 - **Olga Pietrosanti**. Milano-Bicocca, 2025. Then PhD student at SISSA (Trieste, Italy).
 - **Nicole Grillo**. Milano-Bicocca, 2025.
-- **Giovanni Giarda**. Milano-Bicocca, 2025. Then PhD student at ETH Zurich (Switzerland).
+- **Giovanni Giarda**. Milano-Bicocca, 2025. Then PhD student at ETH Zurich (Switzerland). Resulting publication: [arXiv:2506.12572](https://arxiv.org/abs/2506.12572).
 - **Federica Tettoni**. Milano-Bicocca, 2024. Resulting publication: [arXiv:2409.07519](https://arxiv.org/abs/2409.07519).
 - **Cecilia Fabbri**. Milano-Bicocca, 2024. Then PhD student at the University of Nottingham (UK). Resulting publication: [arXiv:2501.17233](https://arxiv.org/abs/2501.17233).
 - **Alessandro Pedrotti**. Milano-Bicocca, 2024. Then PhD student at the University of Aix-Marseille (France). Resulting publication: [arXiv:2504.10482](https://arxiv.org/abs/2504.10482).
