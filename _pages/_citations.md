@@ -1,8 +1,8 @@
 ## Citation Summary
 
-- **Total ADS citations**: 8337
+- **Total ADS citations**: 8340
 - **Total INSPIRE citations**: 9133
-- **Total MAX citations**: 9179
+- **Total MAX citations**: 9180
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
@@ -11,14 +11,14 @@
 |---|--------|------|-------|-----|---------|-----|
 | **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1296 | 1445 | 1445 |
 | **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 765 | 845 | 845 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 547 | 531 | 547 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 548 | 531 | 548 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 430 | 444 | 444 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 345 | 392 | 392 |
 | **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 335 | 363 | 363 |
 | **7** | Gerosa | 2017 | Are merging black holes born from stellar collapse or previous mergers? | 283 | 308 | 308 |
 | **8** | Arun | 2022 | New horizons for fundamental physics with LISA | 234 | 275 | 275 |
-| **9** | Gerosa | 2021 | Hierarchical mergers of stellar-mass black holes and their gravitational-wave signatures | 197 | 219 | 219 |
-| **10** | Gerosa | 2018 | Spin orientations of merging black holes formed from the evolution of stellar binaries | 190 | 219 | 219 |
+| **9** | Gerosa | 2021 | Hierarchical mergers of stellar-mass black holes and their gravitational-wave signatures | 198 | 219 | 219 |
+| **10** | Gerosa | 2018 | Spin orientations of merging black holes formed from the evolution of stellar binaries | 191 | 219 | 219 |
 | **11** | Gerosa | 2015 | Multi-timescale analysis of phase transitions in precessing black-hole binaries | 130 | 151 | 151 |
 | **12** | Gerosa | 2013 | Resonant-plane locking and spin alignment in stellar-mass black-hole binaries: a diagnostic of compact-binary formation | 133 | 147 | 147 |
 | **13** | Varma | 2019 | High-accuracy mass, spin, and recoil predictions of generic black-hole merger remnants | 131 | 145 | 145 |
@@ -160,20 +160,20 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| iScience | 1 |
-| IAU | 1 |
 | book | 1 |
-| JoPCS | 1 |
-| PhD thesis | 1 |
-| Symmetry | 1 |
-| NatAstro | 1 |
-| Moriond | 1 |
-| GRG | 1 |
 | Lincei | 1 |
-| JOSS | 1 |
-| CURJ | 1 |
 | AaSSP | 1 |
+| IAU | 1 |
+| CURJ | 1 |
+| JOSS | 1 |
+| PhD thesis | 1 |
+| Moriond | 1 |
+| JoPCS | 1 |
+| NatAstro | 1 |
+| Symmetry | 1 |
 | PRR | 1 |
+| GRG | 1 |
+| iScience | 1 |
 
 ## Papers per arXiv category
 
