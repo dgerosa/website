@@ -10,5 +10,5 @@ I am a proud member of SPINS, the [Society of Physicists Interested in Non-align
 
 
 <p style="text-align: center;">
-  <img src="/images/spins_society.jpg" alt="SPINS society" style="max-width: 60%; height: auto;" />
+  <img src="/images/spins_society.jpg" alt="SPINS society" style="max-width: 40%; height: auto;" />
 </p>
