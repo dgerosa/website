@@ -6,7 +6,7 @@ tags:
   - People
 ---
 
-I am a proud member of SPINS, the [Society of Physicists Interested in Non-aligned Spins](https://sites.mit.edu/spins/). Founded by Salvo Vitale, researchers me have finally unionized to celebrate the unpredictable orientations of black hole spins. From our constitution: *"We believe that in the quest to understand the universe, it’s the exceptional flavors — not the vanilla ones — that hold the deepest truths."*
+I am a proud member of SPINS, the [Society of Physicists Interested in Non-aligned Spins](https://sites.mit.edu/spins/). Founded by Salvo Vitale, researchers have finally unionized to celebrate the unpredictable orientations of black hole spins. From our constitution: *"We believe that in the quest to understand the universe, it’s the exceptional flavors — not the vanilla ones — that hold the deepest truths."*
 
 
 <p style="text-align: center;">
