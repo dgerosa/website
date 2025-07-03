@@ -143,7 +143,6 @@ Here are the amazing students who are currently completing research projects wit
 - **Erika Sottocorno**, MSc thesis, Milano-Bicocca, 2025.
 - **Serena Caslini**, MSc thesis, Milano-Bicocca, 2025.
 - **Simone Restuccia**, MSc thesis, Milano-Bicocca, 2025.
-- **Leonardo Toti**, MSc thesis, Milano-Bicocca, 2025.
 - **Arianna Pedone**, BSc thesis, Milano-Bicocca, 2025.
 - **Federico Quattrini**, BSc thesis, Milano-Bicocca, 2025.
 
@@ -170,6 +169,7 @@ Here are the amazing students who are currently completing research projects wit
 
 ## Former MSc students
 
+- **Leonardo Toti**. Milano-Bicocca, 2025. Then PhD student at IFAE Barcelona (Spain).
 - **Olga Pietrosanti**. Milano-Bicocca, 2025. Then PhD student at SISSA (Trieste, Italy).
 - **Nicole Grillo**. Milano-Bicocca, 2025.
 - **Giovanni Giarda**. Milano-Bicocca, 2025. Then PhD student at ETH Zurich (Switzerland). Resulting publication: [arXiv:2506.12572](https://arxiv.org/abs/2506.12572).
