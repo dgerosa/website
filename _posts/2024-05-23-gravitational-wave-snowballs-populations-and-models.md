@@ -1,3 +1,4 @@
+
 ---
 title: 'Gravitational-wave snowballs, populations, and models'
 date: 2024-05-23
@@ -21,4 +22,9 @@ by July 15, 2024. We plan to notify accepted participants by the end of July.
 Ilya Mandel  
 Davide Gerosa  
 Salvatore Vitale
+
+<p style="text-align: center;">
+  <img src="/images/gwsnowballs_conference_banner.jpg" alt="gwsnowballs conference banner" style="max-width: 100%; height: auto;" />
+</p>
+
 
