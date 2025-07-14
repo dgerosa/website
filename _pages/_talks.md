@@ -11,7 +11,7 @@ Invited talks marked with ✦.
 
 ## Talks at conferences
 
-**78.** ✦ *Are merging black holes born from stellar collapse or previous mergers? Some years later*  \\
+**78.** ✦ *Are merging black holes born from stellar collapse or previous mergers? Some years later…*  \\
 International Congress of Basic Science, Beijing, China, Jul 2025.
 
 **77.** ✦ *Machine learning in gravitational-wave population inference*  \\
