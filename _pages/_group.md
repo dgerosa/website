@@ -171,7 +171,7 @@ Here are the amazing students who are currently completing research projects wit
 
 - **Leonardo Toti**. Milano-Bicocca, 2025. Then PhD student at IFAE Barcelona (Spain).
 - **Olga Pietrosanti**. Milano-Bicocca, 2025. Then PhD student at SISSA (Trieste, Italy).
-- **Nicole Grillo**. Milano-Bicocca, 2025.
+- **Nicole Grillo**. Milano-Bicocca, 2025. Then PhD student at GSSI (L'Aquila, Italy).
 - **Giovanni Giarda**. Milano-Bicocca, 2025. Then PhD student at ETH Zurich (Switzerland). Resulting publication: [arXiv:2506.12572](https://arxiv.org/abs/2506.12572).
 - **Federica Tettoni**. Milano-Bicocca, 2024. Resulting publication: [arXiv:2409.07519](https://arxiv.org/abs/2409.07519).
 - **Cecilia Fabbri**. Milano-Bicocca, 2024. Then PhD student at the University of Nottingham (UK). Resulting publication: [arXiv:2501.17233](https://arxiv.org/abs/2501.17233).
