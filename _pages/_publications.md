@@ -66,7 +66,7 @@ A. Klein, G. Pratten, R. Buscicchio, P. Schmidt, C. J. Moore, E. Finch, A. Bonin
 **97.**
 *Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory*.\
 G. Fumagalli, N. Loutrel, **D. Gerosa**, M. Boschini.\
-Physical Review D in press. <a href="https://arxiv.org/abs/2502.06952" style="color: inherit; text-decoration: none;">arXiv:2502.06952 [gr-qc]</a>.
+<a href="https://journals.aps.org/prd/abstract/10.1103/znmj-6wvt" style="color: inherit; text-decoration: none;">Physical Review D 112 (2025) 024012</a>. <a href="https://arxiv.org/abs/2502.06952" style="color: inherit; text-decoration: none;">arXiv:2502.06952 [gr-qc]</a>.
  
 **96.**
 *Reconstructing parametric gravitational-wave population fits from non-parametric results without refitting the data*.\

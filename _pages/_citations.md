@@ -1,8 +1,8 @@
 ## Citation Summary
 
 - **Total ADS citations**: 8548
-- **Total INSPIRE citations**: 9250
-- **Total MAX citations**: 9316
+- **Total INSPIRE citations**: 9252
+- **Total MAX citations**: 9317
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
@@ -11,8 +11,8 @@
 |---|--------|------|-------|-----|---------|-----|
 | **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1309 | 1460 | 1460 |
 | **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 776 | 850 | 850 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 570 | 541 | 570 |
-| **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 436 | 446 | 446 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 570 | 542 | 570 |
+| **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 436 | 447 | 447 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 355 | 395 | 395 |
 | **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 345 | 374 | 374 |
 | **7** | Gerosa | 2017 | Are merging black holes born from stellar collapse or previous mergers? | 286 | 311 | 311 |
@@ -160,20 +160,20 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| AaSSP | 1 |
 | IAU | 1 |
-| book | 1 |
-| PhD thesis | 1 |
 | iScience | 1 |
 | PRR | 1 |
-| JOSS | 1 |
-| Lincei | 1 |
-| Symmetry | 1 |
 | CURJ | 1 |
-| NatAstro | 1 |
-| Moriond | 1 |
-| JoPCS | 1 |
+| Lincei | 1 |
 | GRG | 1 |
+| JoPCS | 1 |
+| book | 1 |
+| NatAstro | 1 |
+| JOSS | 1 |
+| Moriond | 1 |
+| AaSSP | 1 |
+| PhD thesis | 1 |
+| Symmetry | 1 |
 
 ## Papers per arXiv category
 
