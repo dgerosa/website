@@ -1,7 +1,7 @@
 Invited talks marked with ✦.
 
 ## Summary
-**78** (**32**✦) [Talks at conferences](#talks-at-conferences) \
+**79** (**32**✦) [Talks at conferences](#talks-at-conferences) \
 **44** (**44**✦) [Talks at department seminars](#talks-at-department-seminars) \
 **6** (**5**✦) [Lectures at PhD schools](#lectures-at-phd-schools) \
 **8** (**4**✦) [Posters at conferences](#posters-at-conferences) \
@@ -10,6 +10,9 @@ Invited talks marked with ✦.
 ---
 
 ## Talks at conferences
+
+**79.** *Which black hole? The labeling uncertainty in gravitational-wave astronomy*  \\
+24th International Conference on General Relativity and Gravitation (GR24) and 16th Edoardo Amaldi Conference, Glasgow, UK, Jul 2025.
 
 **78.** ✦ *Are merging black holes born from stellar collapse or previous mergers? Some years later…*  \\
 International Congress of Basic Science, Beijing, China, Jul 2025.
