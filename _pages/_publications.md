@@ -102,7 +102,7 @@ M. Boschini, N. Loutrel, **D. Gerosa**, G. Fumagalli.\
 **90.**
 *Stars or gas? Constraining the hardening processes of massive black-hole binaries with LISA*.\
 A. Spadaro, R. Buscicchio, D. Izquierdo-Villalba, **D. Gerosa**, A. Klein, G. Pratten.\
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.023004" style="color: inherit; text-decoration: none;">Physical Review D 111 (2025) 023004 </a>. <a href="https://arxiv.org/abs/2409.13011" style="color: inherit; text-decoration: none;">arXiv:2409.13011 [astro-ph.HE]</a>.
+<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.023004" style="color: inherit; text-decoration: none;">Physical Review D 111 (2025) 023004</a>. <a href="https://arxiv.org/abs/2409.13011" style="color: inherit; text-decoration: none;">arXiv:2409.13011 [astro-ph.HE]</a>.
  
 **89.**
 *Probing AGN jet precession with LISA*.\
