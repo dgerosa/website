@@ -1,8 +1,8 @@
 ## Citation Summary
 
-- **Total ADS citations**: 8548
+- **Total ADS citations**: 8549
 - **Total INSPIRE citations**: 9255
-- **Total MAX citations**: 9318
+- **Total MAX citations**: 9319
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
@@ -11,7 +11,7 @@
 |---|--------|------|-------|-----|---------|-----|
 | **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1309 | 1461 | 1461 |
 | **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 776 | 850 | 850 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 570 | 544 | 570 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 571 | 544 | 571 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 436 | 447 | 447 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 355 | 395 | 395 |
 | **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 345 | 374 | 374 |
@@ -125,10 +125,11 @@
 | **114** | Gerosa | 2018 | Reanalysis of LIGO black-hole coalescences with alternative prior assumptions | 2 | 2 | 2 |
 | **115** | Romero-Shaw | 2025 | GW200208_222617 as an eccentric black-hole binary merger: properties and astrophysical implications | 0 | 1 | 1 |
 | **116** | Gerosa | 2015 | Rival families: waveforms from resonant black-hole binaries as probes of their astrophysical formation history | 0 | 1 | 1 |
-| **117** | Giarda | 2025 | Accelerated inference of binary black-hole populations from the stochastic gravitational-wave background | 0 | 0 | 0 |
-| **118** | Tornotti | 2025 | Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters | 0 | 0 | 0 |
-| **119** | Gerosa | 2016 | Source modelling at the dawn of gravitational-wave astronomy | 0 | 0 | 0 |
-| **120** | Gerosa | 2014 | Spin alignment effects in black hole binaries | 0 | 0 | 0 |
+| **117** | Toubiana | 2025 | Comparing astrophysical models to gravitational-wave data in the observable space | 0 | 0 | 0 |
+| **118** | Giarda | 2025 | Accelerated inference of binary black-hole populations from the stochastic gravitational-wave background | 0 | 0 | 0 |
+| **119** | Tornotti | 2025 | Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters | 0 | 0 | 0 |
+| **120** | Gerosa | 2016 | Source modelling at the dawn of gravitational-wave astronomy | 0 | 0 | 0 |
+| **121** | Gerosa | 2014 | Spin alignment effects in black hole binaries | 0 | 0 | 0 |
 
 ## Papers per year
 
@@ -146,7 +147,7 @@
 | 2022 | 10 |
 | 2023 | 12 |
 | 2024 | 11 |
-| 2025 | 16 |
+| 2025 | 17 |
 
 ## Papers per journal
 
@@ -154,32 +155,32 @@
 |---------|--------------|
 | PRD | 55 |
 | MNRAS | 12 |
-| arXiv | 11 |
+| arXiv | 12 |
 | CQG | 10 |
 | PRL | 9 |
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| Lincei | 1 |
-| CURJ | 1 |
-| GRG | 1 |
 | Symmetry | 1 |
 | JOSS | 1 |
-| book | 1 |
-| AaSSP | 1 |
-| NatAstro | 1 |
+| Lincei | 1 |
 | PhD thesis | 1 |
-| IAU | 1 |
-| Moriond | 1 |
 | PRR | 1 |
-| iScience | 1 |
+| GRG | 1 |
+| Moriond | 1 |
+| IAU | 1 |
+| NatAstro | 1 |
+| book | 1 |
 | JoPCS | 1 |
+| iScience | 1 |
+| AaSSP | 1 |
+| CURJ | 1 |
 
 ## Papers per arXiv category
 
 | Category | Paper Count |
 |----------|--------------|
-| gr-qc | 64 |
+| gr-qc | 65 |
 | astro-ph.HE | 40 |
 | astro-ph.GA | 9 |
 | astro-ph.CO | 2 |

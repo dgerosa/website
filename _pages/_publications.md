@@ -1,5 +1,5 @@
 ## Summary
-**10** [Submitted papers](#submitted-papers)\
+**11** [Submitted papers](#submitted-papers)\
 **97** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **12** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
@@ -8,6 +8,11 @@
 
 ## Submitted papers
 
+**11.**
+*Comparing astrophysical models to gravitational-wave data in the observable space*.\
+A. Toubiana, **D. Gerosa**, M. Mould, S. Rinaldi, M. Arca Sedda, T. Bruel, R. Buscicchio, J. Gair, L. Paiella, F. Santoliquido, R. Tenorio, C. Ugolini.\
+<a href="https://arxiv.org/abs/2507.13249" style="color: inherit; text-decoration: none;">arXiv:2507.13249 [gr-qc]</a>.
+ 
 **10.**
 *GW200208_222617 as an eccentric black-hole binary merger: properties and astrophysical implications*.\
 I. Romero-Shaw, J. Stegmann, H. Tagawa, **D. Gerosa**, J. Samsing, N. Gupte, S. R. Green.\
