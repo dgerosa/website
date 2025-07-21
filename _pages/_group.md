@@ -165,7 +165,7 @@ Here are the amazing students who are currently completing research projects wit
 
 - **Viola De Renzis**. Milano-Bicocca, 2021–2024. Supported by the ERC. Then postdoc at the University of Aix-Marseille, France.
 - **Daria Gangardt**. Birmingham, 2020–2024. Supported by STFC. Then Research Associate at the UK Centre for Ecology & Hydrology (UKCEH).
-- **Matthew Mould**. Birmingham, 2019–2023. Supported by STFC. Then postdoc at the Massachusetts Institute of Technology (MIT), Boston MA (USA).
+- **Matthew Mould**. Birmingham, 2019–2023. Supported by STFC. Then postdoc at the Massachusetts Institute of Technology, USA.
 
 ## Former MSc students
 
