@@ -39,29 +39,29 @@ J. Stegmann, **D. Gerosa**, I. Romero-Shaw, G. Fumagalli, H. Tagawa, L. Zwick.\
 <a href="https://arxiv.org/abs/2505.13589" style="color: inherit; text-decoration: none;">arXiv:2505.13589 [astro-ph.HE]</a>.
  
 **5.**
-*Ringdown mode amplitudes of precessing binary black holes*.\
-F. Nobili, S. Bhagwat, C. Pacilio, **D. Gerosa**.\
-<a href="https://arxiv.org/abs/2504.17021" style="color: inherit; text-decoration: none;">arXiv:2504.17021 [gr-qc]</a>.
- 
-**4.**
 *Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey*.\
 A. Pedrotti, M. Mancarella, J. Bel, **D. Gerosa**.\
 <a href="https://arxiv.org/abs/2504.10482" style="color: inherit; text-decoration: none;">arXiv:2504.10482 [astro-ph.CO]</a>.
  
-**3.**
+**4.**
 *A confirmed recoiling supermassive black hole in a powerful quasar*.\
 M. Chiaberge, T. Morishita, M. Boschini, S. Bianchi, A. Capetti, G. Castignani, **D. Gerosa**, M. Konishi, S. Koyama, K. Kushibiki, E. Lambrides, E. T. Meyer, K. Motohara, M. Stiavelli, H. Takahashi, G. R. Tremblay, C. Norman.\
 <a href="https://arxiv.org/abs/2501.18730" style="color: inherit; text-decoration: none;">arXiv:2501.18730 [astro-ph.GA]</a>.
  
-**2.**
+**3.**
 *A test for LISA foreground Gaussianity and stationarity. I. Galactic white-dwarf binaries*.\
 R. Buscicchio, A. Klein, V. Korol, F. Di Renzo, C. J. Moore, **D. Gerosa**, A. Carzaniga.\
 <a href="https://arxiv.org/abs/2410.08263" style="color: inherit; text-decoration: none;">arXiv:2410.08263 [astro-ph.HE]</a>.
  
-**1.**
+**2.**
 *The last three years: multiband gravitational-wave observations of stellar-mass binary black holes*.\
 A. Klein, G. Pratten, R. Buscicchio, P. Schmidt, C. J. Moore, E. Finch, A. Bonino, L. M. Thomas, N. Williams, **D. Gerosa**, S. McGee, M. Nicholl, A. Vecchio.\
 <a href="https://arxiv.org/abs/2204.03423" style="color: inherit; text-decoration: none;">arXiv:2204.03423 [gr-qc]</a>.
+ 
+**1.**
+*Ringdown mode amplitudes of precessing binary black holes*.\
+F. Nobili, S. Bhagwat, C. Pacilio, **D. Gerosa**.\
+Physical Review D in press. <a href="https://arxiv.org/abs/2504.17021" style="color: inherit; text-decoration: none;">arXiv:2504.17021 [gr-qc]</a>.
  
 
 ---
