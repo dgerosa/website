@@ -1,19 +1,19 @@
 ## Citation Summary
 
 - **Total ADS citations**: 8598
-- **Total INSPIRE citations**: 9270
-- **Total MAX citations**: 9339
+- **Total INSPIRE citations**: 9278
+- **Total MAX citations**: 9344
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
 
 | # | Author | Year | Title | ADS | INSPIRE | MAX |
 |---|--------|------|-------|-----|---------|-----|
-| **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1312 | 1463 | 1463 |
-| **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 778 | 851 | 851 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 574 | 545 | 574 |
+| **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1312 | 1464 | 1464 |
+| **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 778 | 853 | 853 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 574 | 548 | 574 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 437 | 447 | 447 |
-| **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 356 | 396 | 396 |
+| **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 356 | 397 | 397 |
 | **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 353 | 375 | 375 |
 | **7** | Gerosa | 2017 | Are merging black holes born from stellar collapse or previous mergers? | 288 | 311 | 311 |
 | **8** | Arun | 2022 | New horizons for fundamental physics with LISA | 250 | 282 | 282 |
@@ -55,8 +55,8 @@
 | **44** | Roebber | 2020 | Milky Way satellites shining bright in gravitational waves | 43 | 48 | 48 |
 | **45** | Sperhake | 2017 | Long-lived inverse chirp signals from core collapse in massive scalar-tensor gravity | 43 | 48 | 48 |
 | **46** | Gerosa | 2015 | Missing black holes in brightest cluster galaxies as evidence for the occurrence of superkicks in nature | 41 | 47 | 47 |
-| **47** | Mould | 2022 | Which black hole formed first? Mass-ratio reversal in massive binary stars from gravitational-wave data | 39 | 42 | 42 |
-| **48** | Mould | 2022 | Deep learning and Bayesian inference of gravitational-wave populations: hierarchical black-hole mergers | 39 | 41 | 41 |
+| **47** | Mould | 2022 | Deep learning and Bayesian inference of gravitational-wave populations: hierarchical black-hole mergers | 39 | 42 | 42 |
+| **48** | Mould | 2022 | Which black hole formed first? Mass-ratio reversal in massive binary stars from gravitational-wave data | 39 | 42 | 42 |
 | **49** | Moore | 2021 | Testing general relativity with gravitational-wave catalogs: the insidious nature of waveform systematics | 37 | 41 | 41 |
 | **50** | Trifiro' | 2016 | Distinguishing black-hole spin-orbit resonances by their gravitational wave signatures. II: Full parameter estimation | 36 | 41 | 41 |
 | **51** | Tso | 2019 | Optimizing LIGO with LISA forewarnings to improve black-hole spectroscopy | 38 | 40 | 40 |
@@ -161,19 +161,19 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| book | 1 |
-| CURJ | 1 |
-| Moriond | 1 |
-| JOSS | 1 |
-| NatAstro | 1 |
-| PRR | 1 |
-| JoPCS | 1 |
-| iScience | 1 |
-| Lincei | 1 |
-| AaSSP | 1 |
 | IAU | 1 |
 | GRG | 1 |
+| AaSSP | 1 |
+| Moriond | 1 |
+| PRR | 1 |
+| Lincei | 1 |
+| JoPCS | 1 |
+| CURJ | 1 |
+| JOSS | 1 |
+| NatAstro | 1 |
+| iScience | 1 |
 | PhD thesis | 1 |
+| book | 1 |
 | Symmetry | 1 |
 
 ## Papers per arXiv category
