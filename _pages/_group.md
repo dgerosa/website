@@ -143,6 +143,7 @@ Here are the amazing students who are currently completing research projects wit
 - **Erika Sottocorno**, MSc thesis, Milano-Bicocca, 2025.
 - **Serena Caslini**, MSc thesis, Milano-Bicocca, 2025.
 - **Simone Restuccia**, MSc thesis, Milano-Bicocca, 2025.
+- **Lorenzo Lecci**, BSc thesis, Milano-Bicocca, 2025.
 - **Arianna Pedone**, BSc thesis, Milano-Bicocca, 2025.
 - **Federico Quattrini**, BSc thesis, Milano-Bicocca, 2025.
 
@@ -192,6 +193,7 @@ Here are the amazing students who are currently completing research projects wit
 
 ## Former BSc students
 
+- **Sterling Scarlett**. Milano-Bicocca and Boston University, 2025.
 - **Alessandro Malfasi**. Milano-Bicocca, 2025.
 - **Rocco Giugni**. Milano-Bicocca, 2024.
 - **Giulia Foroni**. Milano-Bicocca, 2024.
