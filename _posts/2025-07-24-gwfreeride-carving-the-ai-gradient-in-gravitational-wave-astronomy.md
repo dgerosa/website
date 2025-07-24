@@ -1,3 +1,4 @@
+
 ---
 title: "GWfreeride: carving the AI gradient in gravitational-wave astronomy"
 date: 2025-07-24
@@ -18,3 +19,7 @@ We encourage early applications to facilitate hotel reservations, with a final d
 We look forward to welcoming you to Sexten!
 
 Stephen Green, Davide Gerosa, Max Dax, Natalia Korsakova
+
+<p style="text-align: center;">
+  <img src="/images/gwfreeride_image.jpg" alt="Gwfreeride" style="max-width: 30%; height: auto;" />
+</p>
