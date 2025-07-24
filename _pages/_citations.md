@@ -1,17 +1,17 @@
 ## Citation Summary
 
-- **Total ADS citations**: 8595
+- **Total ADS citations**: 8594
 - **Total INSPIRE citations**: 9287
-- **Total MAX citations**: 9352
+- **Total MAX citations**: 9350
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
 
 | # | Author | Year | Title | ADS | INSPIRE | MAX |
 |---|--------|------|-------|-----|---------|-----|
-| **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1312 | 1466 | 1466 |
+| **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1313 | 1466 | 1466 |
 | **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 778 | 853 | 853 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 574 | 549 | 574 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 573 | 549 | 573 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 437 | 448 | 448 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 356 | 397 | 397 |
 | **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 352 | 376 | 376 |
@@ -37,8 +37,8 @@
 | **26** | Taylor | 2018 | Mining gravitational-wave catalogs to understand binary stellar evolution: a new hierarchical bayesian framework | 88 | 89 | 89 |
 | **27** | Baibhav | 2020 | The mass gap, the spin gap, and the origin of merging binary black holes | 67 | 82 | 82 |
 | **28** | O'Shaughnessy | 2017 | Inferences about supernova physics from gravitational-wave measurements: GW151226 spin misalignment as an indicator of strong black-hole natal kicks | 74 | 81 | 81 |
-| **29** | Korol | 2020 | Populations of double white dwarfs in Milky Way satellites and their detectability with LISA | 75 | 72 | 75 |
-| **30** | Bouffanais | 2019 | Constraining the fraction of binary black holes formed in isolation and young star clusters with gravitational-wave data | 75 | 75 | 75 |
+| **29** | Bouffanais | 2019 | Constraining the fraction of binary black holes formed in isolation and young star clusters with gravitational-wave data | 75 | 75 | 75 |
+| **30** | Korol | 2020 | Populations of double white dwarfs in Milky Way satellites and their detectability with LISA | 74 | 72 | 74 |
 | **31** | Horbatsch | 2015 | Tensor-multi-scalar theories: relativistic stars and 3+1 decomposition | 69 | 73 | 73 |
 | **32** | Romero-Shaw | 2023 | Eccentricity or spin precession? Distinguishing subdominant effects in gravitational-wave data | 63 | 72 | 72 |
 | **33** | Gerosa | 2021 | A generalized precession parameter $$\chi_\mathrm{p}$$ to interpret gravitational-wave data | 61 | 70 | 70 |
@@ -161,20 +161,20 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| book | 1 |
 | IAU | 1 |
-| PhD thesis | 1 |
+| AaSSP | 1 |
+| book | 1 |
+| Symmetry | 1 |
+| GRG | 1 |
+| Lincei | 1 |
 | Moriond | 1 |
+| NatAstro | 1 |
+| PhD thesis | 1 |
+| JOSS | 1 |
 | JoPCS | 1 |
 | iScience | 1 |
-| Symmetry | 1 |
-| CURJ | 1 |
-| NatAstro | 1 |
-| JOSS | 1 |
-| GRG | 1 |
 | PRR | 1 |
-| AaSSP | 1 |
-| Lincei | 1 |
+| CURJ | 1 |
 
 ## Papers per arXiv category
 

@@ -1,7 +1,7 @@
 Invited talks marked with ✦.
 
 ## Summary
-**79** (**32**✦) [Talks at conferences](#talks-at-conferences) \
+**80** (**33**✦) [Talks at conferences](#talks-at-conferences) \
 **44** (**44**✦) [Talks at department seminars](#talks-at-department-seminars) \
 **6** (**5**✦) [Lectures at PhD schools](#lectures-at-phd-schools) \
 **8** (**4**✦) [Posters at conferences](#posters-at-conferences) \
@@ -10,6 +10,9 @@ Invited talks marked with ✦.
 ---
 
 ## Talks at conferences
+
+**80.** ✦ *Stacking gravitational-wave events for testing GR: proceed with care*  \\
+Testing Aspects of General Relativity-IV, Gandhinagar, India, (online), Jul 2024.
 
 **79.** *Which black hole? The labeling uncertainty in gravitational-wave astronomy*  \\
 24th International Conference on General Relativity and Gravitation (GR24) and 16th Edoardo Amaldi Conference, Glasgow, UK, Jul 2025.
