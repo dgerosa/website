@@ -1,4 +1,3 @@
-
 ---
 title: "GWfreeride: carving the AI gradient in gravitational-wave astronomy"
 date: 2025-07-24
