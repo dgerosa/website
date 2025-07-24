@@ -20,5 +20,5 @@ We look forward to welcoming you to Sexten!
 Stephen Green, Davide Gerosa, Max Dax, Natalia Korsakova
 
 <p style="text-align: center;">
-  <img src="/images/gwfreeride_image.jpg" alt="Gwfreeride" style="max-width: 30%; height: auto;" />
+  <img src="/images/gwfreeride_image.jpg" alt="Gwfreeride" style="max-width: 50%; height: auto;" />
 </p>
