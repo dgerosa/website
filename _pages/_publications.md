@@ -1,6 +1,6 @@
 ## Summary
 **10** [Submitted papers](#submitted-papers)\
-**98** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
+**99** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **12** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
 
@@ -49,24 +49,29 @@ M. Chiaberge, T. Morishita, M. Boschini, S. Bianchi, A. Capetti, G. Castignani, 
 <a href="https://arxiv.org/abs/2501.18730" style="color: inherit; text-decoration: none;">arXiv:2501.18730 [astro-ph.GA]</a>.
  
 **2.**
-*A test for LISA foreground Gaussianity and stationarity. I. Galactic white-dwarf binaries*.\
-R. Buscicchio, A. Klein, V. Korol, F. Di Renzo, C. J. Moore, **D. Gerosa**, A. Carzaniga.\
-<a href="https://arxiv.org/abs/2410.08263" style="color: inherit; text-decoration: none;">arXiv:2410.08263 [astro-ph.HE]</a>.
- 
-**1.**
 *The last three years: multiband gravitational-wave observations of stellar-mass binary black holes*.\
 A. Klein, G. Pratten, R. Buscicchio, P. Schmidt, C. J. Moore, E. Finch, A. Bonino, L. M. Thomas, N. Williams, **D. Gerosa**, S. McGee, M. Nicholl, A. Vecchio.\
 <a href="https://arxiv.org/abs/2204.03423" style="color: inherit; text-decoration: none;">arXiv:2204.03423 [gr-qc]</a>.
+ 
+**1.**
+*A test for LISA foreground Gaussianity and stationarity. I. Galactic white-dwarf binaries*.\
+R. Buscicchio, A. Klein, V. Korol, F. Di Renzo, C. J. Moore, **D. Gerosa**, A. Carzaniga.\
+European Physical Journal C, in press (2025). <a href="https://arxiv.org/abs/2410.08263" style="color: inherit; text-decoration: none;">arXiv:2410.08263 [astro-ph.HE]</a>.
  
 
 ---
 
 ## Papers published in major peer-reviewed journals
 
+**99.**
+*“LHS in LHS”: a new expansion strategy for Latin hypercube sampling in simulation design*.\
+M. Boschini, **D. Gerosa**, A. Crespi, M. Falconea.\
+SoftwareX, in press (2025). 
+ 
 **98.**
 *Ringdown mode amplitudes of precessing binary black holes*.\
 F. Nobili, S. Bhagwat, C. Pacilio, **D. Gerosa**.\
-Physical Review D in press. <a href="https://arxiv.org/abs/2504.17021" style="color: inherit; text-decoration: none;">arXiv:2504.17021 [gr-qc]</a>.
+Physical Review D, in pres (2025). <a href="https://arxiv.org/abs/2504.17021" style="color: inherit; text-decoration: none;">arXiv:2504.17021 [gr-qc]</a>.
  
 **97.**
 *Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory*.\
