@@ -1,6 +1,6 @@
 ## Summary
-**10** [Submitted papers](#submitted-papers)\
-**99** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
+**9** [Submitted papers](#submitted-papers)\
+**100** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **12** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
 
@@ -8,61 +8,61 @@
 
 ## Submitted papers
 
-**10.**
+**9.**
 *Comparing astrophysical models to gravitational-wave data in the observable space*.\
 A. Toubiana, **D. Gerosa**, M. Mould, S. Rinaldi, M. Arca Sedda, T. Bruel, R. Buscicchio, J. Gair, L. Paiella, F. Santoliquido, R. Tenorio, C. Ugolini.\
 <a href="https://arxiv.org/abs/2507.13249" style="color: inherit; text-decoration: none;">arXiv:2507.13249 [gr-qc]</a>.
  
-**9.**
+**8.**
 *GW200208_222617 as an eccentric black-hole binary merger: properties and astrophysical implications*.\
 I. Romero-Shaw, J. Stegmann, H. Tagawa, **D. Gerosa**, J. Samsing, N. Gupte, S. R. Green.\
 <a href="https://arxiv.org/abs/2506.17105" style="color: inherit; text-decoration: none;">arXiv:2506.17105 [astro-ph.HE]</a>.
  
-**8.**
+**7.**
 *Accelerated inference of binary black-hole populations from the stochastic gravitational-wave background*.\
 G. Giarda, A. I. Renzini, C. Pacilio, **D. Gerosa**.\
 <a href="https://arxiv.org/abs/2506.12572" style="color: inherit; text-decoration: none;">arXiv:2506.12572 [gr-qc]</a>.
  
-**7.**
+**6.**
 *Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters*.\
 D. Tornotti, M. Fossati, M. Fumagalli, **D. Gerosa**, L. Pizzuti, F. Arrigoni Battaia.\
 <a href="https://arxiv.org/abs/2506.10083" style="color: inherit; text-decoration: none;">arXiv:2506.10083 [astro-ph.GA]</a>.
  
-**6.**
+**5.**
 *Sequential simulation-based inference for extreme mass ratio inspirals*.\
 P. S. Cole, J. Alvey, L. Speri, C. Weniger, U. Bhardwaj, **D. Gerosa**, G. Bertone.\
 <a href="https://arxiv.org/abs/2505.16795" style="color: inherit; text-decoration: none;">arXiv:2505.16795 [gr-qc]</a>.
  
-**5.**
+**4.**
 *Distinguishing the origin of eccentric black-hole mergers with gravitational-wave spin measurements*.\
 J. Stegmann, **D. Gerosa**, I. Romero-Shaw, G. Fumagalli, H. Tagawa, L. Zwick.\
 <a href="https://arxiv.org/abs/2505.13589" style="color: inherit; text-decoration: none;">arXiv:2505.13589 [astro-ph.HE]</a>.
  
-**4.**
+**3.**
 *Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey*.\
 A. Pedrotti, M. Mancarella, J. Bel, **D. Gerosa**.\
 <a href="https://arxiv.org/abs/2504.10482" style="color: inherit; text-decoration: none;">arXiv:2504.10482 [astro-ph.CO]</a>.
  
-**3.**
+**2.**
 *A confirmed recoiling supermassive black hole in a powerful quasar*.\
 M. Chiaberge, T. Morishita, M. Boschini, S. Bianchi, A. Capetti, G. Castignani, **D. Gerosa**, M. Konishi, S. Koyama, K. Kushibiki, E. Lambrides, E. T. Meyer, K. Motohara, M. Stiavelli, H. Takahashi, G. R. Tremblay, C. Norman.\
 <a href="https://arxiv.org/abs/2501.18730" style="color: inherit; text-decoration: none;">arXiv:2501.18730 [astro-ph.GA]</a>.
  
-**2.**
+**1.**
 *The last three years: multiband gravitational-wave observations of stellar-mass binary black holes*.\
 A. Klein, G. Pratten, R. Buscicchio, P. Schmidt, C. J. Moore, E. Finch, A. Bonino, L. M. Thomas, N. Williams, **D. Gerosa**, S. McGee, M. Nicholl, A. Vecchio.\
 <a href="https://arxiv.org/abs/2204.03423" style="color: inherit; text-decoration: none;">arXiv:2204.03423 [gr-qc]</a>.
- 
-**1.**
-*A test for LISA foreground Gaussianity and stationarity. I. Galactic white-dwarf binaries*.\
-R. Buscicchio, A. Klein, V. Korol, F. Di Renzo, C. J. Moore, **D. Gerosa**, A. Carzaniga.\
-European Physical Journal C, in press (2025). <a href="https://arxiv.org/abs/2410.08263" style="color: inherit; text-decoration: none;">arXiv:2410.08263 [astro-ph.HE]</a>.
  
 
 ---
 
 ## Papers published in major peer-reviewed journals
 
+**100.**
+*A test for LISA foreground Gaussianity and stationarity. I. Galactic white-dwarf binaries*.\
+R. Buscicchio, A. Klein, V. Korol, F. Di Renzo, C. J. Moore, **D. Gerosa**, A. Carzaniga.\
+European Physical Journal C, in press (2025). <a href="https://arxiv.org/abs/2410.08263" style="color: inherit; text-decoration: none;">arXiv:2410.08263 [astro-ph.HE]</a>.
+ 
 **99.**
 *“LHS in LHS”: a new expansion strategy for Latin hypercube sampling in simulation design*.\
 M. Boschini, **D. Gerosa**, A. Crespi, M. Falconea.\

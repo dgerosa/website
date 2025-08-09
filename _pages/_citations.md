@@ -162,23 +162,23 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| IAU | 1 |
+| NatAstro | 1 |
+| Symmetry | 1 |
 | Moriond | 1 |
-| PRR | 1 |
-| JoPCS | 1 |
 | SoftwareX | 1 |
-| \prd, in pres | 1 |
-| CURJ | 1 |
+| European Physical Journal C | 1 |
 | PhD thesis | 1 |
 | JOSS | 1 |
-| European Physical Journal C | 1 |
-| AaSSP | 1 |
-| iScience | 1 |
 | book | 1 |
+| PRR | 1 |
+| iScience | 1 |
+| \prd, in pres | 1 |
 | Lincei | 1 |
-| NatAstro | 1 |
+| CURJ | 1 |
 | GRG | 1 |
-| Symmetry | 1 |
+| AaSSP | 1 |
+| JoPCS | 1 |
+| IAU | 1 |
 
 ## Papers per arXiv category
 
