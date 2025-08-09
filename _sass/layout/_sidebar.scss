@@ -262,3 +262,13 @@
     }
   }
 }
+
+
+.desktop-only {
+  @include breakpoint($large) {
+    display: block;
+  }
+  @media screen and (max-width: $large - 1) {
+    display: none;
+  }
+}
