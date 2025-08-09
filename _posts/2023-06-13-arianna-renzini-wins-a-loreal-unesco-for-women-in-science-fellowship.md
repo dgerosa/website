@@ -13,3 +13,5 @@ Arianna Renzini ([about to start a Marie-Curie Fellowship with us](posts/2022-06
 <p style="text-align: center;">
   <img src="/images/arianna_oreal.jpg" alt="Arianna Oreal" style="max-width: 60%; height: auto;" />
 </p>
+
+*This is a clip from the award ceremony...*
