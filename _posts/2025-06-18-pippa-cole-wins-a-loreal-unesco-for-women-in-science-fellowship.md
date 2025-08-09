@@ -14,4 +14,4 @@ I'm happy to share that Dr. Philippa Cole, a postdoc with us, has been awarded o
   <img src="/images/pippa_oreal.jpg" alt="Pippa Oreal" style="max-width: 60%; height: auto;" />
 </p>
 
-*...there's more to it of course, but the prize includes a giant cardboard of yourself!*
+*...there's more to it of course, but this grant includes a giant cardboard of yourself!*
