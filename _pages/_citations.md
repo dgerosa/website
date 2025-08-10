@@ -1,17 +1,17 @@
 ## Citation Summary
 
-- **Total ADS citations**: 8602
+- **Total ADS citations**: 8609
 - **Total INSPIRE citations**: 9351
-- **Total MAX citations**: 9410
+- **Total MAX citations**: 9411
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
 
 | # | Author | Year | Title | ADS | INSPIRE | MAX |
 |---|--------|------|-------|-----|---------|-----|
-| **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1313 | 1471 | 1471 |
+| **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1314 | 1471 | 1471 |
 | **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 778 | 857 | 857 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 579 | 556 | 579 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 580 | 556 | 580 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 437 | 451 | 451 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 356 | 399 | 399 |
 | **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 352 | 376 | 376 |
@@ -55,12 +55,12 @@
 | **44** | Roebber | 2020 | Milky Way satellites shining bright in gravitational waves | 43 | 48 | 48 |
 | **45** | Sperhake | 2017 | Long-lived inverse chirp signals from core collapse in massive scalar-tensor gravity | 43 | 48 | 48 |
 | **46** | Gerosa | 2015 | Missing black holes in brightest cluster galaxies as evidence for the occurrence of superkicks in nature | 41 | 47 | 47 |
-| **47** | Mould | 2022 | Deep learning and Bayesian inference of gravitational-wave populations: hierarchical black-hole mergers | 39 | 44 | 44 |
+| **47** | Mould | 2022 | Deep learning and Bayesian inference of gravitational-wave populations: hierarchical black-hole mergers | 40 | 44 | 44 |
 | **48** | Mould | 2022 | Which black hole formed first? Mass-ratio reversal in massive binary stars from gravitational-wave data | 39 | 44 | 44 |
 | **49** | Moore | 2021 | Testing general relativity with gravitational-wave catalogs: the insidious nature of waveform systematics | 38 | 41 | 41 |
 | **50** | Trifiro' | 2016 | Distinguishing black-hole spin-orbit resonances by their gravitational wave signatures. II: Full parameter estimation | 36 | 41 | 41 |
 | **51** | Tso | 2019 | Optimizing LIGO with LISA forewarnings to improve black-hole spectroscopy | 38 | 40 | 40 |
-| **52** | Gerosa | 2020 | Gravitational-wave selection effects using neural-network classifiers | 31 | 37 | 37 |
+| **52** | Gerosa | 2020 | Gravitational-wave selection effects using neural-network classifiers | 32 | 37 | 37 |
 | **53** | Lodato | 2013 | Black hole mergers: do gas discs lead to spin alignment? | 37 | 36 | 37 |
 | **54** | Santini | 2023 | Black-hole mergers in disk-like environments could explain the observed $$q-\chi_\mathrm{eff}$$ correlation | 33 | 32 | 33 |
 | **55** | Rosca-Mead | 2020 | Core collapse in massive scalar-tensor gravity | 27 | 32 | 32 |
@@ -99,8 +99,8 @@
 | **88** | Santoliquido | 2024 | Classifying binary black holes from Population III stars with the Einstein Telescope: a machine-learning approach | 9 | 8 | 9 |
 | **89** | Gangardt | 2022 | Constraining black-hole binary spin precession and nutation with sequential prior conditioning | 9 | 9 | 9 |
 | **90** | Nobili | 2025 | Ringdown mode amplitudes of precessing binary black holes | 7 | 8 | 8 |
-| **91** | Fabbri | 2025 | Reconstructing parametric gravitational-wave population fits from non-parametric results without refitting the data. | 5 | 8 | 8 |
-| **92** | Gerosa | 2024 | Quick recipes for gravitational-wave selection effects | 5 | 8 | 8 |
+| **91** | Fabbri | 2025 | Reconstructing parametric gravitational-wave population fits from non-parametric results without refitting the data. | 6 | 8 | 8 |
+| **92** | Gerosa | 2024 | Quick recipes for gravitational-wave selection effects | 6 | 8 | 8 |
 | **93** | Pacilio | 2024 | Catalog variance of testing general relativity with gravitational-wave data | 6 | 7 | 7 |
 | **94** | Mould | 2024 | Calibrating signal-to-noise ratio detection thresholds using gravitational-wave catalogs | 5 | 7 | 7 |
 | **95** | De Renzis | 2025 | Forecasting the population properties of merging black holes | 4 | 6 | 6 |
@@ -124,7 +124,7 @@
 | **113** | Stegmann | 2025 | Distinguishing the origin of eccentric black-hole mergers with gravitational-wave spin measurements | 2 | 2 | 2 |
 | **114** | Gerosa | 2023 | QLUSTER: quick clusters of merging binary black holes | 2 | 0 | 2 |
 | **115** | Gerosa | 2018 | Reanalysis of LIGO black-hole coalescences with alternative prior assumptions | 2 | 2 | 2 |
-| **116** | Giarda | 2025 | Accelerated inference of binary black-hole populations from the stochastic gravitational-wave background | 0 | 1 | 1 |
+| **116** | Giarda | 2025 | Accelerated inference of binary black-hole populations from the stochastic gravitational-wave background | 1 | 1 | 1 |
 | **117** | Gerosa | 2015 | Rival families: waveforms from resonant black-hole binaries as probes of their astrophysical formation history | 0 | 1 | 1 |
 | **118** | Toubiana | 2025 | Comparing astrophysical models to gravitational-wave data in the observable space | 0 | 0 | 0 |
 | **119** | Tornotti | 2025 | Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters | 0 | 0 | 0 |
@@ -156,29 +156,29 @@
 |---------|--------------|
 | PRD | 55 |
 | MNRAS | 12 |
-| arXiv | 10 |
 | CQG | 10 |
+| arXiv | 10 |
 | PRL | 9 |
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| NatAstro | 1 |
-| Symmetry | 1 |
 | Moriond | 1 |
-| SoftwareX | 1 |
-| European Physical Journal C | 1 |
-| PhD thesis | 1 |
 | JOSS | 1 |
-| book | 1 |
-| PRR | 1 |
-| iScience | 1 |
-| \prd, in pres | 1 |
-| Lincei | 1 |
-| CURJ | 1 |
-| GRG | 1 |
-| AaSSP | 1 |
+| Symmetry | 1 |
 | JoPCS | 1 |
+| \prd, in pres | 1 |
+| iScience | 1 |
+| CURJ | 1 |
+| NatAstro | 1 |
+| SoftwareX | 1 |
+| PhD thesis | 1 |
+| Lincei | 1 |
 | IAU | 1 |
+| PRR | 1 |
+| book | 1 |
+| European Physical Journal C | 1 |
+| AaSSP | 1 |
+| GRG | 1 |
 
 ## Papers per arXiv category
 
