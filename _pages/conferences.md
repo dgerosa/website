@@ -9,6 +9,8 @@ author_profile: true
 
 List of conferences, workshops, and study groups I have organized, together with the related material (like slides) when available.
 
+- **Conference: [GWfreeride: carving the AI gradient in gravitational-wave astronomy](https://sites.google.com/unimib.it/gwfreeride)**  
+  We got into the Sexten Astrophysics Center program again! This will be a focused workshop on AI applications to GW astronomy.
 
 - **Conference: [XXVI SIGRAV Conference on General Relativity and Gravitation](https://sites.google.com/unimib.it/sigrav2025)**  
   The 26th Conference of the Italian gravity society is being organized by myself and my group: Milan, September 2025!
