@@ -559,7 +559,7 @@ Covered by press release.
  
 **3.**
 *Distinguishing black-hole spin-orbit resonances by their gravitational-wave signatures*.\
-**D. Gerosa**, R. O'Shaughnessy, M. Kesden, E. Berti, U. Sperhake.\
+**D. Gerosa**, R. O'Shaughnessy, M. Kesden, E. Berti, U. Spehake.\
 <a href="http://dx.doi.org/10.1103/PhysRevD.89.124025" style="color: inherit; text-decoration: none;">Physical Review D 89 (2014) 124025</a>. <a href="https://arxiv.org/abs/1403.7147" style="color: inherit; text-decoration: none;">arXiv:1403.7147 [gr-qc]</a>.
  
 **2.**
