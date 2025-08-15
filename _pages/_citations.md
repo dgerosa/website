@@ -119,7 +119,7 @@
 | **108** | Romero-Shaw | 2025 | GW200208_222617 as an eccentric black-hole binary merger: properties and astrophysical implications | 2 | 3 | 3 |
 | **109** | Cole | 2025 | Sequential simulation-based inference for extreme mass ratio inspirals | 2 | 3 | 3 |
 | **110** | Pedrotti | 2025 | Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey | 2 | 3 | 3 |
-| **111** | Chiaberge | 2025 | A confirmed recoiling supermassive black hole in a powerful quasar | 3 | 2 | 3 |
+| **111** | Chiaberge | 2025 | A recoiling supermassive black hole in a powerful quasar | 3 | 2 | 3 |
 | **112** | Boschini | 2024 | Astrophysical and relativistic modeling of the recoiling black-hole candidate in quasar 3C 186 | 3 | 2 | 3 |
 | **113** | Stegmann | 2025 | Distinguishing the origin of eccentric black-hole mergers with gravitational-wave spin measurements | 2 | 2 | 2 |
 | **114** | Gerosa | 2023 | QLUSTER: quick clusters of merging binary black holes | 2 | 0 | 2 |
@@ -163,22 +163,22 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| iScience | 1 |
-| NatAstro | 1 |
-| PRR | 1 |
 | Symmetry | 1 |
-| JOSS | 1 |
-| book | 1 |
-| Moriond | 1 |
-| European Physical Journal C | 1 |
-| SoftwareX | 1 |
-| Lincei | 1 |
-| CURJ | 1 |
-| IAU | 1 |
-| PhD thesis | 1 |
-| AaSSP | 1 |
+| NatAstro | 1 |
+| iScience | 1 |
 | GRG | 1 |
+| PhD thesis | 1 |
+| PRR | 1 |
 | JoPCS | 1 |
+| Moriond | 1 |
+| SoftwareX | 1 |
+| book | 1 |
+| European Physical Journal C | 1 |
+| CURJ | 1 |
+| JOSS | 1 |
+| AaSSP | 1 |
+| Lincei | 1 |
+| IAU | 1 |
 
 ## Papers per arXiv category
 
