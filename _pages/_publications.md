@@ -1,5 +1,5 @@
 ## Summary
-**9** [Submitted papers](#submitted-papers)\
+**10** [Submitted papers](#submitted-papers)\
 **100** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **12** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
@@ -8,6 +8,11 @@
 
 ## Submitted papers
 
+**10.**
+*Can stellar physics explain GW231123?*.\
+D. Croon, J. Sakstein, **D. Gerosa**.\
+<a href="https://arxiv.org/abs/2508.10088" style="color: inherit; text-decoration: none;">arXiv:2508.10088 [astro-ph.HE]</a>.
+ 
 **9.**
 *Comparing astrophysical models to gravitational-wave data in the observable space*.\
 A. Toubiana, **D. Gerosa**, M. Mould, S. Rinaldi, M. Arca Sedda, T. Bruel, R. Buscicchio, J. Gair, L. Paiella, F. Santoliquido, R. Tenorio, C. Ugolini.\
@@ -65,13 +70,13 @@ European Physical Journal C, in press (2025). <a href="https://arxiv.org/abs/241
  
 **99.**
 *“LHS in LHS”: a new expansion strategy for Latin hypercube sampling in simulation design*.\
-M. Boschini, **D. Gerosa**, A. Crespi, M. Falconea.\
-SoftwareX, in press (2025). 
+M. Boschini, **D. Gerosa**, A. Crespi, M. Falcone.\
+<a href="https://authors.elsevier.com/sd/article/S2352-7110(25)00260-2" style="color: inherit; text-decoration: none;">SoftwareX 31 (2024) 102294</a>. 
  
 **98.**
 *Ringdown mode amplitudes of precessing binary black holes*.\
 F. Nobili, S. Bhagwat, C. Pacilio, **D. Gerosa**.\
-Physical Review D, in pres (2025). <a href="https://arxiv.org/abs/2504.17021" style="color: inherit; text-decoration: none;">arXiv:2504.17021 [gr-qc]</a>.
+Physical Review D, in press (2025). <a href="https://arxiv.org/abs/2504.17021" style="color: inherit; text-decoration: none;">arXiv:2504.17021 [gr-qc]</a>.
  
 **97.**
 *Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory*.\
