@@ -33,7 +33,7 @@ First, clone your old SNV repository using `git svn`. Use the same link you used
 ```
 git svn clone svn+ssh://USER@HOST/PATH/SVNNAME
 cd SVNNAME
-git remote add origin [\[email protected\]](https://davidegerosa.com/cdn-cgi/l/email-protection):USERNAME/GITNAME
+git remote add origin git@github.com:dgerosa/NEW_REPO
 git push origin --all
 ```
 
