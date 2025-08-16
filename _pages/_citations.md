@@ -1,8 +1,8 @@
 ## Citation Summary
 
 - **Total ADS citations**: 8620
-- **Total INSPIRE citations**: 9381
-- **Total MAX citations**: 9444
+- **Total INSPIRE citations**: 9382
+- **Total MAX citations**: 9445
 - **h-index**: 46
 
 ## Paper List Sorted by Citation Count
@@ -10,7 +10,7 @@
 | # | Author | Year | Title | ADS | INSPIRE | MAX |
 |---|--------|------|-------|-----|---------|-----|
 | **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1315 | 1471 | 1471 |
-| **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 780 | 860 | 860 |
+| **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 780 | 861 | 861 |
 | **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 585 | 558 | 585 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 437 | 452 | 452 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 356 | 399 | 399 |
@@ -129,7 +129,7 @@
 | **118** | Croon | 2025 | Can stellar physics explain GW231123? | 0 | 0 | 0 |
 | **119** | Toubiana | 2025 | Comparing astrophysical models to gravitational-wave data in the observable space | 0 | 0 | 0 |
 | **120** | Tornotti | 2025 | Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\alpha$$ emitters | 0 | 0 | 0 |
-| **121** | Boschini | 2024 | “LHS in LHS”: a new expansion strategy for Latin hypercube sampling in simulation design | 0 | 0 | 0 |
+| **121** | Boschini | 2025 | “LHS in LHS”: a new expansion strategy for Latin hypercube sampling in simulation design | 0 | 0 | 0 |
 | **122** | Gerosa | 2016 | Source modelling at the dawn of gravitational-wave astronomy | 0 | 0 | 0 |
 | **123** | Gerosa | 2014 | Spin alignment effects in black hole binaries | 0 | 0 | 0 |
 
@@ -148,8 +148,8 @@
 | 2021 | 12 |
 | 2022 | 10 |
 | 2023 | 12 |
-| 2024 | 11 |
-| 2025 | 19 |
+| 2024 | 10 |
+| 2025 | 20 |
 
 ## Papers per journal
 
@@ -163,22 +163,22 @@
 | A&A | 4 |
 | APJ | 3 |
 | LRR | 2 |
-| CURJ | 1 |
-| PRR | 1 |
-| NatAstro | 1 |
-| AaSSP | 1 |
-| GRG | 1 |
-| Symmetry | 1 |
-| book | 1 |
-| European Physical Journal C | 1 |
-| SoftwareX | 1 |
-| JoPCS | 1 |
-| Moriond | 1 |
-| PhD thesis | 1 |
-| iScience | 1 |
-| IAU | 1 |
-| JOSS | 1 |
 | Lincei | 1 |
+| CURJ | 1 |
+| JOSS | 1 |
+| JoPCS | 1 |
+| PRR | 1 |
+| PhD thesis | 1 |
+| SoftwareX | 1 |
+| IAU | 1 |
+| GRG | 1 |
+| book | 1 |
+| NatAstro | 1 |
+| European Physical Journal C | 1 |
+| Symmetry | 1 |
+| AaSSP | 1 |
+| Moriond | 1 |
+| iScience | 1 |
 
 ## Papers per arXiv category
 

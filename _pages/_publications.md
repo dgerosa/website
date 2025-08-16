@@ -71,7 +71,7 @@ European Physical Journal C, in press (2025). <a href="https://arxiv.org/abs/241
 **99.**
 *“LHS in LHS”: a new expansion strategy for Latin hypercube sampling in simulation design.*\
 M. Boschini, **D. Gerosa**, A. Crespi, M. Falcone.\
-<a href="https://authors.elsevier.com/sd/article/S2352-7110(25)00260-2" style="color: inherit; text-decoration: none;">SoftwareX 31 (2024) 102294</a>. 
+<a href="https://authors.elsevier.com/sd/article/S2352-7110(25)00260-2" style="color: inherit; text-decoration: none;">SoftwareX 31 (2025) 102294</a>. 
  
 **98.**
 *Ringdown mode amplitudes of precessing binary black holes.*\
