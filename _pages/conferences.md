@@ -18,7 +18,10 @@ List of conferences, workshops, and study groups I have organized, together with
 - **Conference: [Gravitational-wave snowballs, populations, and models](https://sites.google.com/unimib.it/gwsnowballs)**  
   Conference at the Sexten Center for Astrophysics, in the Italian Dolomites. From the dictionary: *"to snowball = to increase, accumulate, expand, or multiply at a rapidly accelerating rate."* Much like the GW catalog in the next few years.
 
-- **Conference: [Challenges and future perspectives in gravitational-wave astronomy: O4 and beyond](https://www.lorentzcenter.nl/challenges-and-future-perspectives-in-gravitational-wave-astronomy-o4-and-beyond.html)**  
+- **Conference: [Challenges and future perspectives in gravitational-wave astronomy: O4 and beyond](https://agenda.infn.it/event/40881/)**  
+  A PhD school on AI applications to Physics (not just astrophysics!), organized with some colleagues from Milano-Bicocca; great venue in Monopoli (close to Bari, Italy). 
+
+- **PhD school: [Artificial intelligence and modern physics: a two-way connection](https://www.lorentzcenter.nl/challenges-and-future-perspectives-in-gravitational-wave-astronomy-o4-and-beyond.html)**  
   Conference at the Lorentz Center (Leiden, the Netherlands) on "new" GW things, with O4 predictions.
 
 - **Workshops: [Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)](/lautaro/)** and **[Theoretical Horizons in Unraveling Relativity, Astrophysics, and Mergers (THURAM)](/thuram)**  
