@@ -22,7 +22,7 @@ If you’re looking for a PhD in gravitational astronomy, then Milan is **the** 
 
 ## Postdocs: Marie Skłodowska-Curie fellowships
 
-I actively support applications to the [Marie Skłodowska-Curie fellowships](http://ec.europa.eu/research/mariecurieactions/node_en) from the European Union, both their European and Global scheme. I supervised several of these applications (including a few winners!) and know the scheme very well. Our grant office in Milan will also help us. If you’re interested in this program, please get in touch. For winners of Global MSCA Fellowships with the incoming phase here at Milan-Bicocca, we can open a (strong) case for a faculty appointment.
+I actively support applications to the [Marie Skłodowska-Curie fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) from the European Union, both their European and Global scheme. I supervised several of these applications (including a few winners!) and know the scheme very well. Our grant office in Milan will also help us. If you’re interested in this program, please get in touch. For winners of Global MSCA Fellowships with the incoming phase here at Milan-Bicocca, we can open a (strong) case for a faculty appointment.
 
 ## Postdocs: Cariplo Foundation Fellowships
 
