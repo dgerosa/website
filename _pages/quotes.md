@@ -106,7 +106,7 @@ Here I collect some quotations on General Relativity, and science in general, wh
 
 > "Hidden in the perfection of the spherical shapes of the celestial bodies that shimmer and float in nothingness is the work of gravity, the first and greatest of designers. A craftsman whose hand tirelessly shapes the contents of the Universe to which we belong, determined in his quest for perfection."
 >
-> — *"Unknown Unknowns" exhibition, curated by Vaudo et al., Milan 2022*
+> — *"Unknown Unknowns" exhibition, curated by Vaudo et al., Milan 2022.*
 
 
 ## Francis Galton
@@ -114,3 +114,8 @@ Here I collect some quotations on General Relativity, and science in general, wh
 > "I know of scarcely anything so apt to impress the imagination as the wonderful form of cosmic order expressed by the "Law of Frequency of Error." The law would have been personified by the Greeks and deified, if they had known of it. It reigns with serenity and in complete self-effacement, amidst the wildest confusion. The huger the mob, and the greater the apparent anarchy, the more perfect is its sway. It is the supreme law of Unreason. Whenever a large sample of chaotic elements are taken in hand and marshaled in the order of their magnitude, an unsuspected and most beautiful form of regularity proves to have been latent all along."  
 > 
 > — *Sir Francis Galton, Natural Inheritance (1889). Now we call it the central limit theorem.*
+  
+## Arthur Eddington
+> "But, above all, there is the conviction that the pursuit of truth, whether in the minute structure of the atom or in the vast system of the stars, is a bond transcending human differences-to use it as a barrier fortifying national feuds is a degradation of the fair name of science."
+> 
+>  - *Sir Arthur Stanley Eddington, The future of international science, The Observatory 39, 270-272 (1916).*
