@@ -1,8 +1,8 @@
 ## Citation Summary
 
 - **Total ADS citations**: 8571
-- **Total INSPIRE citations**: 9410
-- **Total MAX citations**: 9451
+- **Total INSPIRE citations**: 9414
+- **Total MAX citations**: 9454
 - **h-index**: 46
 
 ## Paper list sorted by citation count
@@ -11,7 +11,7 @@
 |---|--------|------|-------|-----|---------|-----|
 | **1** | Berti | 2015 | Testing general relativity with present and future astrophysical observations | 1318 | 1471 | 1471 |
 | **2** | Barack | 2019 | Black holes, gravitational waves and fundamental physics: a roadmap | 784 | 861 | 861 |
-| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 581 | 563 | 581 |
+| **3** | Amaro-Seoane | 2022 | Astrophysics with the Laser Interferometer Space Antenna | 581 | 564 | 581 |
 | **4** | Belczynski | 2020 | Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes | 432 | 452 | 452 |
 | **5** | Barausse | 2020 | Prospects for fundamental physics with LISA | 353 | 399 | 399 |
 | **6** | Varma | 2019 | Surrogate models for precessing binary black hole simulations with unequal masses | 352 | 375 | 375 |
@@ -19,11 +19,11 @@
 | **8** | Arun | 2022 | New horizons for fundamental physics with LISA | 244 | 289 | 289 |
 | **9** | Gerosa | 2021 | Hierarchical mergers of stellar-mass black holes and their gravitational-wave signatures | 209 | 231 | 231 |
 | **10** | Gerosa | 2018 | Spin orientations of merging black holes formed from the evolution of stellar binaries | 195 | 222 | 222 |
-| **11** | Gerosa | 2015 | Multi-timescale analysis of phase transitions in precessing black-hole binaries | 130 | 152 | 152 |
-| **12** | Gerosa | 2013 | Resonant-plane locking and spin alignment in stellar-mass black-hole binaries: a diagnostic of compact-binary formation | 137 | 152 | 152 |
+| **11** | Gerosa | 2013 | Resonant-plane locking and spin alignment in stellar-mass black-hole binaries: a diagnostic of compact-binary formation | 137 | 153 | 153 |
+| **12** | Gerosa | 2015 | Multi-timescale analysis of phase transitions in precessing black-hole binaries | 130 | 152 | 152 |
 | **13** | Varma | 2019 | High-accuracy mass, spin, and recoil predictions of generic black-hole merger remnants | 132 | 145 | 145 |
 | **14** | Kesden | 2015 | Effective potentials and morphological transitions for binary black-hole spin precession | 111 | 130 | 130 |
-| **15** | Afshordi | 2023 | Waveform modelling for the Laser Interferometer Space Antenna | 108 | 128 | 128 |
+| **15** | Afshordi | 2023 | Waveform modelling for the Laser Interferometer Space Antenna | 108 | 129 | 129 |
 | **16** | Ng | 2018 | Gravitational-wave astrophysics with effective-spin measurements: asymmetries and selection biases | 104 | 119 | 119 |
 | **17** | Islam | 2021 | Eccentric binary black hole surrogate models for the gravitational waveform and remnant properties: comparable mass, nonspinning case | 111 | 118 | 118 |
 | **18** | Baibhav | 2019 | Gravitational-wave detection rates for compact binaries formed in isolation: LIGO/Virgo O3 and beyond | 100 | 118 | 118 |
@@ -62,8 +62,8 @@
 | **51** | Tso | 2019 | Optimizing LIGO with LISA forewarnings to improve black-hole spectroscopy | 36 | 40 | 40 |
 | **52** | Gerosa | 2020 | Gravitational-wave selection effects using neural-network classifiers | 32 | 37 | 37 |
 | **53** | Lodato | 2013 | Black hole mergers: do gas discs lead to spin alignment? | 37 | 36 | 37 |
-| **54** | Rosca-Mead | 2020 | Core collapse in massive scalar-tensor gravity | 27 | 33 | 33 |
-| **55** | Gangardt | 2024 | pAGN: the one-stop solution for AGN disc modeling | 31 | 32 | 32 |
+| **54** | Gangardt | 2024 | pAGN: the one-stop solution for AGN disc modeling | 31 | 33 | 33 |
+| **55** | Rosca-Mead | 2020 | Core collapse in massive scalar-tensor gravity | 27 | 33 | 33 |
 | **56** | Santini | 2023 | Black-hole mergers in disk-like environments could explain the observed $$q-\chi_\mathrm{eff}$$ correlation | 31 | 31 | 31 |
 | **57** | Gerosa | 2021 | High mass but low spin: an exclusion region to rule out hierarchical black-hole mergers as a mechanism to populate the pair-instability mass gap | 27 | 30 | 30 |
 | **58** | Wong | 2019 | Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: a case study. | 25 | 30 | 30 |
@@ -135,7 +135,7 @@
 
 ## Papers per year
 
-| Year | Paper Count |
+| Year | Paper count |
 |------|--------------|
 | 2013 | 2 |
 | 2014 | 2 |
@@ -153,7 +153,7 @@
 
 ## Papers per journal
 
-| Journal | Paper Count |
+| Journal | Paper count |
 |---------|--------------|
 | Physical Review D | 56 |
 | Monthly Notices of the Royal Astronomical Society | 12 |
@@ -163,22 +163,22 @@
 | Astronomy & Astrophysics | 4 |
 | Astrophysical Journal | 3 |
 | Living Reviews in Relativity | 2 |
-| General Relativity and Gravitation | 1 |
-| Symmetry | 1 |
-| PhD thesis | 1 |
-| Journal of Open Source Software | 1 |
-| Rendiconti Lincei | 1 |
-| IAU Proceedigs | 1 |
 | Book contribution | 1 |
+| Journal of Open Source Software | 1 |
 | Astrophysics and Space Science Proceedings | 1 |
-| iScience | 1 |
+| PhD thesis | 1 |
+| Nature Astronomy | 1 |
+| Moriond proceedings | 1 |
+| General Relativity and Gravitation | 1 |
+| Physical Review Research | 1 |
+| SoftwareX | 1 |
 | European Physical Journal C | 1 |
 | Journal of Physics: Conference Series | 1 |
 | Caltech Undergraduate Research Journal | 1 |
-| Moriond proceedings | 1 |
-| Physical Review Research | 1 |
-| Nature Astronomy | 1 |
-| SoftwareX | 1 |
+| iScience | 1 |
+| Rendiconti Lincei | 1 |
+| Symmetry | 1 |
+| IAU Proceedigs | 1 |
 
 ## Papers per arXiv category
 
