@@ -1,7 +1,7 @@
 ---
-title: "What do you think of the most masssive LVK black hole so far?"
+title: "What do you think of the most massive LVK black hole so far?"
 date: 2025-07-17
-permalink: /posts/2025-07-17-what-do-you-think-of-the-most-masssive-lvk-black-hole-so-far
+permalink: /posts/2025-07-17-what-do-you-think-of-the-most-massive-lvk-black-hole-so-far
 tags:
   - Milano
   - Outreach
