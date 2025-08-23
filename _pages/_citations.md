@@ -163,22 +163,22 @@
 | Astronomy & Astrophysics | 4 |
 | Astrophysical Journal | 3 |
 | Living Reviews in Relativity | 2 |
-| Nature Astronomy | 1 |
 | General Relativity and Gravitation | 1 |
-| iScience | 1 |
-| Physical Review Research | 1 |
-| Journal of Open Source Software | 1 |
+| Nature Astronomy | 1 |
+| Journal of Physics: Conference Series | 1 |
+| PhD thesis | 1 |
 | Astrophysics and Space Science Proceedings | 1 |
 | IAU Proceedigs | 1 |
-| Rendiconti Lincei | 1 |
-| Journal of Physics: Conference Series | 1 |
-| European Physical Journal C | 1 |
-| SoftwareX | 1 |
-| Caltech Undergraduate Research Journal | 1 |
-| Moriond proceedings | 1 |
-| PhD thesis | 1 |
-| Book contribution | 1 |
+| Physical Review Research | 1 |
 | Symmetry | 1 |
+| Journal of Open Source Software | 1 |
+| Rendiconti Lincei | 1 |
+| European Physical Journal C | 1 |
+| Moriond proceedings | 1 |
+| Caltech Undergraduate Research Journal | 1 |
+| iScience | 1 |
+| SoftwareX | 1 |
+| Book contribution | 1 |
 
 ## Papers per arXiv category
 
