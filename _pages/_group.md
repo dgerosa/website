@@ -241,7 +241,3 @@ Here are the amazing students who are currently completing research projects wit
 ---
 
 
-<br><br>
-
-<br><br>
-*Last updated: 2025-08-28 08:08:02 UTC*
