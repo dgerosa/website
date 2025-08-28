@@ -1,0 +1,42 @@
+name: Update Last Updated Date
+
+on:
+  push:
+    branches:
+      - main   # or your default branch
+
+permissions:
+  contents: write   # allow pushing commits
+
+jobs:
+  update-timestamps:
+    if: "! contains(github.event.head_commit.message, 'Update last updated timestamps')"  # prevent infinite loop
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update last updated timestamps
+        run: |
+          timestamp=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          for file in _talks.md _publications.md _group.md _citations.md; do
+            if [ -f "$file" ]; then
+              # remove old line if present
+              sed -i '/\*Last updated:/d' "$file"
+              # append new line at the end
+              echo -e "\n<br><br>\n*Last updated: $timestamp*" >> "$file"
+            fi
+          done
+
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add _talks.md _publications.md _group.md _citations.md
+            git commit -m "Update last updated timestamps"
+            git push
+          fi
