@@ -26,7 +26,7 @@ I actively support applications to the [Marie Skłodowska-Curie fellowships](htt
 
 ## Postdocs: Cariplo Foundation Fellowships
 
-The [Cariplo Foundation](https://www.fondazionecariplo.it/) is a private trust that operates in the Milan area. They have a [great fellowship scheme for early-career researchers](https://www.fondazionecariplo.it/it/bandi/ricerca/giovani-ricercatori.html), with full independence and very generous salaries. The deadline is usually in late winter / early spring. Please get in touch if you’re interested in applying with us!
+The [Cariplo Foundation](https://www.fondazionecariplo.it/) is a private trust that operates in the Milan area. They have a [great fellowship scheme for early-career researchers](https://www.fondazionecariplo.it/it/bandi/bandi.html), with full independence and very generous salaries. The deadline is usually in late winter / early spring. Please get in touch if you’re interested in applying with us!
 
 ## Postdocs: INFN group 5 fellowships
 
