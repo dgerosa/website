@@ -24,7 +24,7 @@ jobs:
       - name: Update last updated timestamps
         run: |
           timestamp=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          for file in _talks.md _publications.md _group.md _citations.md; do
+          for file in _pages/_talks.md _pages/_publications.md _pages/_group.md _pages/_citations.md; do
             if [ -f "$file" ]; then
               # remove old line if present
               sed -i '/\*Last updated:/d' "$file"
@@ -36,7 +36,7 @@ jobs:
       - name: Commit changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
-            git add _talks.md _publications.md _group.md _citations.md
+            git add _pages/_talks.md _pages/_publications.md _pages/_group.md _pages/_citations.md
             git commit -m "Update last updated timestamps"
             git push
           fi
