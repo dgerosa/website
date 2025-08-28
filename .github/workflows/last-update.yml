@@ -3,7 +3,7 @@ name: Update Last Updated Date
 on:
   push:
     branches:
-      - main   # or your default branch
+      - master   # or your default branch
 
 permissions:
   contents: write   # allow pushing commits
