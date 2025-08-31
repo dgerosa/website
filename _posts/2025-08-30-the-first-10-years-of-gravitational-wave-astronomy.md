@@ -13,5 +13,5 @@ In addition to celebrating the discovery of gravitational waves, our aim is to t
 
 
 <p style="text-align: center;">
-  <img src="https://lh3.googleusercontent.com/6Ag1GWFUXJ_KZeuZddqNzA6fFLi8Vhol20i888Jg3TXwfxOnwn6OinB1uNKzNVi-oENrRi44LI4d9wA0JN3yblHG89DdR2KOcHrry_wfE2SbObp45ilDMAVaz2D29p9sH1mGqYuXQdBuydBwE64ETuA5oo6F-plpt81qrV2ul3NjRUVWtSKxcw=w1280" alt="10yrs GW" style="max-width: 60%; height: auto;" />
+  <img src="/images/10yrsGW.jpg" alt="10yrs GW" style="max-width: 60%; height: auto;" />
 </p>
