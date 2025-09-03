@@ -1,13 +1,18 @@
 ## Summary
-**10** [Submitted papers](#submitted-papers)\
+**11** [Submitted papers](#submitted-papers)\
 **100** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
-**13** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
+**14** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
 
 ---
 
 ## Submitted papers
 
+**11.**
+*Probing modified gravitational-wave dispersion with bursts from eccentric black-hole binaries.*\
+N. Loutrel, A. Bailey, **D. Gerosa**.\
+<a href="https://arxiv.org/abs/2509.01614" style="color: inherit; text-decoration: none;">arXiv:2509.01614 [gr-qc]</a>.
+ 
 **10.**
 *Can stellar physics explain GW231123?*\
 D. Croon, J. Sakstein, **D. Gerosa**.\
@@ -76,7 +81,8 @@ R. Buscicchio, A. Klein, V. Korol, F. Di Renzo, C. J. Moore, **D. Gerosa**, A. 
 **98.**
 *“LHS in LHS”: a new expansion strategy for Latin hypercube sampling in simulation design.*\
 M. Boschini, **D. Gerosa**, A. Crespi, M. Falcone.\
-<a href="https://authors.elsevier.com/sd/article/S2352-7110(25)00260-2" style="color: inherit; text-decoration: none;">SoftwareX 31 (2025) 102294</a>. 
+<a href="https://authors.elsevier.com/sd/article/S2352-7110(25)00260-2" style="color: inherit; text-decoration: none;">SoftwareX 31 (2025) 102294</a>. <a href="https://arxiv.org/abs/2509.00159" style="color: inherit; text-decoration: none;">arXiv:2509.00159 [stat.ME]</a>.\
+Open source code.
  
 **97.**
 *Non-adiabatic dynamics of eccentric black-hole binaries in post-Newtonian theory.*\
@@ -582,6 +588,11 @@ G. Lodato, **D. Gerosa**.\
 
 ## Other publications (white papers, proceedings, etc.)
 
+**14.**
+*PRECESSION 2.1: black-hole binary spin precession on eccentric orbits.*\
+G. Fumagalli, **D. Gerosa**, N. Loutrel.\
+<a href="https://arxiv.org/abs/2508.21125" style="color: inherit; text-decoration: none;">arXiv:2508.21125 [gr-qc]</a>.
+ 
 **13.**
 *Coincident morphological transitions in precessing black-hole binaries.*\
 **D. Gerosa**, G. Foroni, G. Fumagalli, E. Berti.\
@@ -654,4 +665,4 @@ E. Berti, et al. (53 authors incl. **D. Gerosa**).\
 
 
 <br><br>
-*Last updated: 2025-08-29 13:35:31 UTC*
+*Last updated: 2025-09-03 05:11:20 UTC*
