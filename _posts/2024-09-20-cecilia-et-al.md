@@ -18,9 +18,3 @@ We also supervised three BSc students who defended their short projects:
 - Francesca Rattegni worked with Matteo “Bormio” Bonetti on how the Galaxy can cause Kozai-Lidov oscillations on wide binaries.
 
 Congrats all, Spritz time now.
-
-<p style="text-align: center;">
-  <img src="/images/graduations_sep2024.jpg" alt="Graduations Sep 2024" style="max-width: 60%; height: auto;" />
-</p>
-
-*(Wearing Laurel crowns is a [very Italian thing](https://dakotarosek.wordpress.com/2023/07/26/why-do-italian-university-graduates-wear-laurel-wreaths-the-scholastic-history-of-le-marches-floral-convocation-crown/) to do when graduating)*
