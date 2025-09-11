@@ -1,7 +1,7 @@
 Invited talks marked with ✦.
 
 ## Summary
-**81** (**34**✦) [Talks at conferences](#talks-at-conferences) \
+**82** (**34**✦) [Talks at conferences](#talks-at-conferences) \
 **44** (**44**✦) [Talks at department seminars](#talks-at-department-seminars) \
 **6** (**5**✦) [Lectures at PhD schools](#lectures-at-phd-schools) \
 **8** (**4**✦) [Posters at conferences](#posters-at-conferences) \
@@ -10,6 +10,9 @@ Invited talks marked with ✦.
 ---
 
 ## Talks at conferences
+
+**82.** *The full gravitational-wave population problem (aka: sample them all)*  \\
+XXVI SIGRAV Conference 2021, Milano, Italy, Sep 2025.
 
 **81.** ✦ *Spin precession across timescales*  \\
 EOB@Work25, Torino, Italy, Sep 2025.
@@ -508,4 +511,4 @@ Liceo Candia and Liceo Frassati, Seregno, Italy, Jan 2018.
 
 
 <br><br>
-*Last updated: 2025-09-05 11:50:13 UTC*
+*Last updated: 2025-09-11 05:21:37 UTC*

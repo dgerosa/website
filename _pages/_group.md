@@ -174,7 +174,7 @@ Here are the amazing students who are currently completing research projects wit
 - **Olga Pietrosanti**. Milano-Bicocca, 2025. Then PhD student at SISSA (Trieste, Italy).
 - **Nicole Grillo**. Milano-Bicocca, 2025. Then PhD student at GSSI (L'Aquila, Italy).
 - **Giovanni Giarda**. Milano-Bicocca, 2025. Then PhD student at ETH Zurich (Switzerland). Resulting publication: [arXiv:2506.12572](https://arxiv.org/abs/2506.12572).
-- **Federica Tettoni**. Milano-Bicocca, 2024. Resulting publication: [arXiv:2409.07519](https://arxiv.org/abs/2409.07519).
+- **Federica Tettoni**. Milano-Bicocca, 2024. Then engineer at Leonardo Helicopters. Resulting publication: [arXiv:2409.07519](https://arxiv.org/abs/2409.07519).
 - **Cecilia Fabbri**. Milano-Bicocca, 2024. Then PhD student at the University of Nottingham (UK). Resulting publication: [arXiv:2501.17233](https://arxiv.org/abs/2501.17233).
 - **Alessandro Pedrotti**. Milano-Bicocca, 2024. Then PhD student at the University of Aix-Marseille (France). Resulting publication: [arXiv:2504.10482](https://arxiv.org/abs/2504.10482).
 - **Francesco Nobili**. Milano-Bicocca and Birmingham, 2023. Then PhD student at the University of Insubria (Como, Italy). Resulting publication: [arXiv:2504.17021](https://arxiv.org/abs/2504.17021).
@@ -202,13 +202,13 @@ Here are the amazing students who are currently completing research projects wit
 - **Francesca Rattegni**. Milano-Bicocca, 2024.
 - **Matteo Pagani**. Milano-Bicocca, 2024.
 - **William Toscani**. Milano-Bicocca, 2024.
-- **Ava Bailey**. Milano-Bicocca and Duke, 2024.
-- **Alessandro Crespi**. Milano-Bicocca, 2024.
+- **Ava Bailey**. Milano-Bicocca and Duke, 2024. Resulting publication: [arXiv:2509.01614](https://arxiv.org/abs/2509.01614).
+- **Alessandro Crespi**. Milano-Bicocca, 2024. Resulting publication: [arXiv:2509.00159](https://arxiv.org/abs/2509.00159).
 - **Annalisa Amigoni**. Milano-Bicocca, 2024.
 - **Alice Palladino**. Milano-Bicocca, 2024.
 - **Lisa Merlo**. Milano-Bicocca, 2024.
 - **Serena Caslini**. Milano-Bicocca, 2023.
-- **Matteo Falcone**. Milano-Bicocca, 2023.
+- **Matteo Falcone**. Milano-Bicocca, 2023. Resulting publication: [arXiv:2509.00159](https://arxiv.org/abs/2509.00159).
 - **Marco Bianchi**. Milano-Bicocca, 2023.
 - **Martin Gerini**. Milano-Bicocca, 2023.
 - **Federico Ravelli**. Milano-Bicocca, 2023.
@@ -242,4 +242,4 @@ Here are the amazing students who are currently completing research projects wit
 
 
 <br><br>
-*Last updated: 2025-09-05 11:50:13 UTC*
+*Last updated: 2025-09-11 05:21:37 UTC*
