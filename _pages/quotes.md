@@ -119,3 +119,11 @@ Here I collect some quotations on General Relativity, and science in general, wh
 > "But, above all, there is the conviction that the pursuit of truth, whether in the minute structure of the atom or in the vast system of the stars, is a bond transcending human differences-to use it as a barrier fortifying national feuds is a degradation of the fair name of science."
 > 
 >  - *Sir Arthur Stanley Eddington, The future of international science, The Observatory 39, 270-272 (1916).*
+
+
+
+## Camille Flammarion
+
+>If the night was deprived of stars, said a philosopher, and there was only one place on the Earth whence the constellations and bodies would be visible, the pilgrimage to this place would never cease, and each would wish to admire these wonders.
+>
+> - *Camille Flammarion, Winifred James Lockyer, The Wonders of the Heavens (1871)*
