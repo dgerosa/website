@@ -34,6 +34,7 @@ The python programming language and its library ecosystem are essential tools in
 
 **Previous editions:**
 
+- [Scientific Computing. 2025-2025](https://github.com/dgerosa/scientificcomputing_bicocca_2025)
 - [Scientific Computing. 2024-2025](https://github.com/dgerosa/scientificcomputing_bicocca_2024)
 - [Scientific Computing. 2023-2024](https://github.com/dgerosa/scientificcomputing_bicocca_2023)
 
@@ -47,7 +48,7 @@ Machine learning and data mining are quickly becoming essential techniques in th
 
 **Previous editions:**
 
-- [Machine for Physics and Astronomy. 2024-2024](https://github.com/dgerosa/machinelearning4physics_bicocca_2025)
+- [Machine for Physics and Astronomy. 2024-2025](https://github.com/dgerosa/machinelearning4physics_bicocca_2025)
 - [Machine for Physics and Astronomy. 2023-2024](https://github.com/dgerosa/machinelearning4physics_bicocca_2024)
 
 ## General physics for Computer Science majors
