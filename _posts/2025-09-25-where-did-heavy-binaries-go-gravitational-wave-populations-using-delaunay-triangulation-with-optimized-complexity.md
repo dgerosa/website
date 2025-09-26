@@ -11,4 +11,4 @@ tags:
 
 
 R. Tenorio, A. Toubiana, T. Bruel, **D. Gerosa**, J. Gair.\
-[arXiv:2509.19466 astro-ph.HE]](https://arxiv.org/abs/2509.19466).
+[arXiv:2509.19466 astro-ph.HE](https://arxiv.org/abs/2509.19466).
