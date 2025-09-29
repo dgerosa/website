@@ -80,7 +80,7 @@ Here are the amazing people in my group. Come visit and chat science with us! If
     <strong>Matilde Garcia</strong><br>
     PhD student<br>
 <a href="mailto:m.garcia5@campus.unimib.it">m.garcia5@campus.unimib.it</a><br>
-    <em>Black holes and gravitational waves enthusiast. Testing gravity on ski slopes and volleyball courts, sticking to GR predictions at work.”</em>
+    <em>Black holes and gravitational waves enthusiast. Testing gravity on ski slopes and volleyball courts, sticking to GR predictions at work.</em>
   </div>
 </div>
 <div class="person">
@@ -126,6 +126,15 @@ Here are the amazing people in my group. Come visit and chat science with us! If
     PhD student<br>
 <a href="mailto:g.fumagalli47@campus.unimib.it">g.fumagalli47@campus.unimib.it</a><br>
     <em>Eccentricity calculator, outlier nightmare, PN analyzer. Likes gravitational waves, black holes, and cats. Specialized in cakes, cookies, and any sweet treats (by far the best chocolate brownie in town!). A marathon every now and then just to let off steam.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/davide-gerosa.jpg' | relative_url }}" alt="Davide Gerosa" class="person-photo">
+  <div class="person-text">
+    <strong>Davide Gerosa</strong><br>
+    Associate professor<br>
+<a href="mailto:davide.gerosa@unimib.it">davide.gerosa@unimib.it</a><br>
+    <em>... and that's me. Running around, gravity, football, rock music, some more gravity. Astrophysics when I want to remember things are real, mountains when I want to see things are beautiful.</em>
   </div>
 </div>
 </div>
@@ -244,4 +253,4 @@ Here are the amazing students who are currently completing research projects wit
 
 
 <br><br>
-*Last updated: 2025-09-28 09:49:31 UTC*
+*Last updated: 2025-09-29 17:03:05 UTC*
