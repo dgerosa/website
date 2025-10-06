@@ -72,7 +72,7 @@ Python module to extract black-hole recoils from waveform approximants by direct
 - **[popodds](https://github.com/mdmould/popodds): One to many: comparing single gravitational-wave events to astrophysical populations.** The right way to compare many simulated gravitational wave sources against a single gravitational-wave event. Don't overplot, compute detection-weighted Bayes factors. Supporting
 [2305.18539](https://arxiv.org/abs/2305.18539)
 
-- **[gw_catalog_mining](https://github.com/stevertaylor/gw_catalog_mining)**: Mining gravitational-wave catalogs to understand binary stellar evolution: a new hierarchical bayesian framework** What are we going to do with thousands of gravitational wave observations? Maybe Gaussain process emulators and hierarchical analyses. Supporting: [1806.08365](https://arxiv.org/abs/1806.08365).
+- **[gw_catalog_mining](https://github.com/stevertaylor/gw_catalog_mining): Mining gravitational-wave catalogs to understand binary stellar evolution: a new hierarchical bayesian framework** What are we going to do with thousands of gravitational wave observations? Maybe Gaussain process emulators and hierarchical analyses. Supporting: [1806.08365](https://arxiv.org/abs/1806.08365).
 
 - **[GPRHBA](https://github.com/kazewong/GPRHBA): Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: a case study.** An early sampler for the gravitational population likelihood, using interpolation of some population-synthesis simulations as the targeted model. Supporting
 [1909.06373](https://arxiv.org/abs/1909.06373). 
