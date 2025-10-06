@@ -18,7 +18,7 @@ Are you tired of copying bibtex records when writing papers? We got you covered.
 - **[writeapaper](https://github.com/dgerosa/writeapaper): templates and github action for scientific papers.**
 This is a template github repository to write scientific papers. Templates for the journals I commonly use are provided, and a github action compiles the paper at every commit and deploys it to an orphan branch. So much better (and free!) than overleaf.
 
-- **[spinprecession](https://github.com/dgerosa/precession): Black-hole binary inspiral: a precession-averaged approach.**
+- **[spinprecession](https://github.com/dgerosa/spinprecession): Black-hole binary inspiral: a precession-averaged approach.**
 Some animations and data on black-hole binary spin precession. Supporting
 [arXiv:1411.0674](https://arxiv.org/abs/1411.0674),
 [arXiv:1506.03492](https://arxiv.org/abs/1506.03492),
