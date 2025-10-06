@@ -10,7 +10,7 @@ author_profile: true
 Public codes and datasets supporting my publications and other software I've contributed to. There’s a bit of everything here: black holes, machine learning, laTex workflows.
 
 - **[precession](https://github.com/dgerosa/precession): Dynamics of spinning black-hole binaries with python.**
-Public python module to perform post-Newtornian evolution of precessing exploiting multi-timescale methods. The code is described carefully [arXiv:1605.01067](https://arxiv.org/abs/1605.01067) (v1) and [arXiv:2304.04801](https://arxiv.org/abs/2304.04801) (v2), and has by now been used in many papers by us and others.
+Public python module to perform post-Newtornian evolution of precessing exploiting multi-timescale methods. The code is described in [arXiv:1605.01067](https://arxiv.org/abs/1605.01067) (v1) and [arXiv:2304.04801](https://arxiv.org/abs/2304.04801) (v2), and has by now been used in many papers by us and others.
 
 - **[filltex](https://github.com/dgerosa/filltex):  Automagically fill LaTex bibliography.** 
 Are you tired of copying bibtex records when writing papers? We got you covered. This is a web-scraping tool to automatically download citation records from both ADS and INSPIRE and automagically fill bib files. Usage from the terminal is straightforward, and our code is also integrated with TexShop.
