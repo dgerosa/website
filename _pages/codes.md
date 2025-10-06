@@ -31,6 +31,8 @@ Some animations and data on black-hole binary spin precession. Supporting
 
 - **[QLUSTER](https://github.com/mdmould/qluster): Quick clusters of merging black holes.** Toy model for the evolution of black hole binaries in star clusters, with a specific focus on hierarchical mergers. The code is described in [arXiv:2305.04987](https://arxiv.org/abs/2305.04987). Key results were reported in [arXiv:2305.04987](https://arxiv.org/abs/2305.04987) and [arXiv:2305.04987](https://arxiv.org/abs/2305.04987).
 
+- **[expandLHS](https://github.com/m-boschini/expandLHS): “LHS in LHS”: a new expansion strategy for Latin hypercube sampling in simulation design.** Algorithm and implementation to expand and existing Latin Hypercube sampling while keeping its space-filling properties. Supporting [arXiv:2509.00159](https://arxiv.org/abs/2509.00159).
+
 - **[pAGN](https://github.com/DariaGangardt/pAGN): The one-stop solution for AGN disc modeling.** Great public code to easily compute 1D models of AGN disks. Supporting [arXiv:2304.13063](https://arxiv.org/abs/2304.13063).
 
 - **[surfinBH](https://github.com/vijayvarma392/surfinBH): *sur*rogate *fin*al *B*lack *H*ole properties for mergers of binary black holes.** Public python module to estimate post-merger masses, spins, and kicks for generic systems. Supporting
