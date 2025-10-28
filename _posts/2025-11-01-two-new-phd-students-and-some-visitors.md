@@ -1,6 +1,6 @@
 ---
 title: Two new PhD students (and some visitors)
-date: 2024-10-08
+date: 2025-11-01
 permalink: /posts/2025-11-01-two-new-phd-students-and-some-visitors
 tags:
   - Milano
