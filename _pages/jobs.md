@@ -41,6 +41,7 @@ For students at the University of Milano-Bicocca, I have several thesis projects
 I welcome externally funded students and researchers who wish to visit my group to complete a project together. A few examples of funding sources include:
 
 - The [StudyInItaly](https://studyinitaly.esteri.it/) program offers grants that can be used for research projects (and not only to formally enroll in classes here as the website seems to imply).
+- For researchers/students from developing countries, the [Training and Research in Italian Laboratories (TRIL)](https://www.ictp.it/opportunity/training-and-research-italian-laboratories-tril) program offers fellowships, which can be hosted in my group through our INFN association. 
 - For European students, the [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) program provides funding that can be used for research projects.
 - For researchers/students from Japan, have a look at the [Canon Foundation Fellowships](https://www.canonfoundation.org/programmes/research-fellowships/).
 - For PhD students from the UK, check out these [Study Abroad Studentships](https://www.leverhulme.ac.uk/study-abroad-studentships) from the Leverhulme Trust.
