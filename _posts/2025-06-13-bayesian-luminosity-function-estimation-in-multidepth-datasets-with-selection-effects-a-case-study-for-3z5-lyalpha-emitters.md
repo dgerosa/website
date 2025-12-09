@@ -1,7 +1,7 @@
 ---
-title: "Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Ly$$\\alpha$$ emitters"
+title: "Bayesian luminosity function estimation in multidepth datasets with selection effects: a case study for $$3<z<5$$ Lyman$$\\alpha$$ emitters"
 date: 2025-06-13
-permalink: /posts/2025-06-13-bayesian-luminosity-function-estimation-in-multidepth-datasets-with-selection-effects-a-case-study-for-3z5-lyalpha-emitters
+permalink: /posts/2025-06-13-bayesian-luminosity-function-estimation-in-multidepth-datasets-with-selection-effects-a-case-study-for-3z5-lymanalpha-emitters
 tags:
   - Papers
   - Milano
