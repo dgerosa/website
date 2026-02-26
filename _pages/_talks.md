@@ -2,8 +2,8 @@ Invited talks marked with ✦.
 
 ## Summary
 **84** (**35**✦) [Talks at conferences](#talks-at-conferences) \
-**46** (**46**✦) [Talks at department seminars](#talks-at-department-seminars) \
-**7** (**6**✦) [Lectures at PhD schools](#lectures-at-phd-schools) \
+**47** (**47**✦) [Talks at department seminars](#talks-at-department-seminars) \
+**8** (**7**✦) [Lectures at PhD schools](#lectures-at-phd-schools) \
 **8** (**4**✦) [Posters at conferences](#posters-at-conferences) \
 **18** (**18**✦) [Outreach talks](#outreach-talks)
 
@@ -284,6 +284,9 @@ BritGrav 14, Cambridge, UK, Mar 2014.
 
 ## Talks at department seminars
 
+**47.** ✦ *Merging binary black holes, the first ten years*  \\
+Physics colloquium, Instituto Superior Técnico, Lisbon, Portugal, Feb 2026.
+
 **46.** ✦ *What gravitational waves can(not) reveal about merging black holes*  \\
 CPT seminars, Centre de Physique Théorique, Université d'Aix-Marseille, Marseille, France, Oct 2025.
 
@@ -431,6 +434,9 @@ Lunch talks, Leiden Observatory, Leiden, The Netherlands, Jan 2012.
 
 ## Lectures at PhD schools
 
+**8.** ✦ *Bayesian inference and stochastic sampling in (astro)physics*  \\
+Visitor program mini-course, Instituto Superior Técnico, Lisbon, Portugal, Feb 2026.
+
 **7.** ✦ *PhDs, postdocs, faculties, and all that*  \\
 AstroCareer Day @ University of Milano-Bicocca, Milan, Italy, Dec 2025.
 
@@ -489,7 +495,8 @@ DPG Physics School ``General Relativity @99'', Bad Honnef, Germany, Sep 2014.
 ## Outreach talks
 
 **18.** ✦ *Onde di gravit\`a*  \\
-MEETmeTonight European Researchers' Night, Milan, Italy, Sep 2025.
+MEETmeTonight European Researchers' Night, Milan, Italy, Sep 2025.  \\
+ [Recording](https://www.youtube.com/watch?v=djgzGCjuwmM).
 
 **17.** ✦ *Buchi neri ed onde gravitazionali (aka: ``Cosa racconto alla vostra prof. dopo una giornata di lavoro'')*  \\
 Collegio San Carlo, Milan, Italy, Jun 2024.
@@ -549,4 +556,4 @@ Liceo Candia and Liceo Frassati, Seregno, Italy, Jan 2018.
 
 
 <br><br>
-*Last updated: 2026-02-11 01:01:19 UTC*
+*Last updated: 2026-02-26 01:01:30 UTC*
