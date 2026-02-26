@@ -8,7 +8,8 @@ tags:
 
 It is a pleasure to announce the workshop “Binary compact objects on eccentric orbits and their gravitational-wave signatures,” which we are organizing for September 1st-6th 2026 in beautiful Corfu, Greece.
 
-https://sites.google.com/unimib.it/gweccentricity
+[sites.google.com/unimib.it/gweccentricity
+](https://sites.google.com/unimib.it/gweccentricity)
 
 The discovery of gravitational waves has opened an entirely new observational window on the Universe, and eccentric systems represent one of the most exciting frontiers. While most detected binaries to date are consistent with circular inspirals, there is mounting evidence that eccentricity may already be present in current events, with claims ranging from high-mass and low-mass black hole binaries to neutron star-black hole systems. Understanding, modeling, and interpreting eccentric sources is both timely and urgent. The workshop will bring together experts in theory, numerical relativity, data analysis, and astrophysics, as well as early-career researchers entering these fields. We aim to create a collaborative environment where participants can share results, exchange ideas, and identify the next key steps.
 
