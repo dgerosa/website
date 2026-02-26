@@ -1,7 +1,7 @@
 ---
-title: "Inferring the population properties of galactic binaries from LISA'sstochastic foreground"
+title: "Inferring the population properties of galactic binaries from LISA's stochastic foreground"
 date: 2026-02-25
-permalink: /posts/2026-02-25-inferring-the-population-properties-of-galactic-binaries-from-lisasstochastic-foreground
+permalink: /posts/2026-02-25-inferring-the-population-properties-of-galactic-binaries-from-lisas-stochastic-foreground
 tags:
   - Papers
   - Milano
