@@ -5,10 +5,10 @@ permalink: /posts/2025-09-25-where-did-heavy-binaries-go-gravitational-wave-popu
 tags:
   - Papers
   - Milano
+  - APJ
 ---
 
 [GWTC-4](https://arxiv.org/abs/2508.18082), the new amazing data release by LIGO/Virgo/KAGRA, just came out, and we of course started looking into it immediately. That was actually the perfect playground for a new approach we were developing for quite some time, namely using [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) to model black holes. This is part of a long research trend of developing “non-parametric” methods for gravitational-wave populations, where the goal is to fit the data without imposing a particular functional form. Ok, with new data and a new model, we looked at the correlation between masses and redshifts in merging black holes. You need to read the paper now, but the key result here is that the mass distribution does not have a peak at low redshifts.
 
-
 R. Tenorio, A. Toubiana, T. Bruel, **D. Gerosa**, J. Gair.\
-[arXiv:2509.19466 astro-ph.HE](https://arxiv.org/abs/2509.19466).
+[Astrophysical Journal 994 (2025) L52](https://iopscience.iop.org/article/10.3847/2041-8213/ae1cbd). [arXiv:2509.19466 [astro-ph.HE]](https://arxiv.org/abs/2509.19466).

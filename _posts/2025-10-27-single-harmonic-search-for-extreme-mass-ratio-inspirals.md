@@ -5,10 +5,11 @@ permalink: /posts/2025-10-27-single-harmonic-search-for-extreme-mass-ratio-inspi
 tags:
   - Papers
   - Milano
+  - PRD
 ---
 
 Extreme mass ratio inspirals (EMRIs) are, I guess, the most complex signals that LISA will observe. From a data analysis perspective, they’re incredibly hard to detect, extract from the data, and characterize. This paper illustrates a possible strategy to do so, which relies on breaking the signal into chunks and proceeding "semi-coherently." Hopefully, we’ll find EMRIs this way once LISA flies!
 
 
 L. Speri, R. Tenorio, C. Chapman-Bird, **D. Gerosa**.\
-[arXiv:2510.20891 [gr-qc]](https://arxiv.org/abs/2510.20891).
+[Physical Review D 113 (2026) 024061](https://journals.aps.org/prd/abstract/10.1103/dh3j-ksfl). [arXiv:2510.20891 [gr-qc]](https://arxiv.org/abs/2510.20891).

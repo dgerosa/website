@@ -5,6 +5,7 @@ permalink: /posts/2025-06-23-gw200208-222617-as-an-eccentric-black-hole-binary-m
 tags:
   - Papers
   - Milano
+  - PRD
 ---
 
 

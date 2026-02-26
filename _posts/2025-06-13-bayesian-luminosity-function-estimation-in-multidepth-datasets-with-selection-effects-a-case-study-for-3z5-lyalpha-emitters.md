@@ -5,9 +5,10 @@ permalink: /posts/2025-06-13-bayesian-luminosity-function-estimation-in-multidep
 tags:
   - Papers
   - Milano
+  - A&A
 ---
 
 I started collaborating with some galaxy folks here at my institution, which is just great. Their problem is that of estimating the luminosity function of some objects, with the complication that the survey is flux limited. They've been referring to this as a "completeness function". We looked into the stats togehter, and realized that is exactly the same problem we GW people solve with hierarchical Bayesian analysis, and that completeness function is nothing but our $$p_{\rm det}$$ with some weird astro units. 
 
 D. Tornotti, M. Fossati, M. Fumagalli, **D. Gerosa**, L. Pizzuti, F. Arrigoni Battaia.\
-[arXiv:2506.10083 [astro-ph.GA]](https://arxiv.org/abs/2506.10083).
+[Astronomy & Astrophysics 704 (2025) A201](https://doi.org/10.1051/0004-6361/202555898). [arXiv:2506.10083 [astro-ph.GA]](https://arxiv.org/abs/2506.10083).
