@@ -57,7 +57,7 @@ _Galileo Galilei Institute for Theoretical Physics, Florence_
 
 I prepared this material for the PhD school *Theoretical Aspects of Astroparticle Physics, Cosmology and Gravitation*, which took place in Florence in March 2026. 
 
-[dgerosa.github.io/gwbinaries\_florence\_2026/](https://dgerosa.github.io/gwbinaries_florence_2026/)
+[dgerosa.github.io/gwbinaries\_florence\_2026/](https://dgerosa.github.io/gwbinaries_florence_2026)
 
 I cover the principles of gravitational-wave propagation and emission, from the linearized Einstein equations to the quadrupole formula. This formalism is then applied to the specific case of binary black holes, including their dynamics on eccentric orbits and gravitational-wave propagation on cosmological backgrounds. I then cover the theory behind gravitational-wave detectors with laser interferometers. Example classes were delivered by Caroline Owen.
 
