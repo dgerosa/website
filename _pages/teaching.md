@@ -24,7 +24,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 - [Astrostatistics. 2022-2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
 - [Astrostatistics. 2021-2022](https://github.com/dgerosa/astrostatistics_bicocca_2022)
 
-## Scientific computing with Python
+## Scientific computing with python
 
 _PhD in Physics and Astronomy at Milano-Bicocca_
 
@@ -38,7 +38,7 @@ The python programming language and its library ecosystem are essential tools in
 - [Scientific Computing. 2024-2025](https://github.com/dgerosa/scientificcomputing_bicocca_2024)
 - [Scientific Computing. 2023-2024](https://github.com/dgerosa/scientificcomputing_bicocca_2023)
 
-## Machine for Physics and Astronomy
+## Machine for physics and astronomy
 
 _BSc in Artificial Intelligence, joint Milano-Bicocca + Milano-Statale + Pavia_
 
