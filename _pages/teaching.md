@@ -51,6 +51,29 @@ Machine learning and data mining are quickly becoming essential techniques in th
 - [Machine for Physics and Astronomy. 2024-2025](https://github.com/dgerosa/machinelearning4physics_bicocca_2025)
 - [Machine for Physics and Astronomy. 2023-2024](https://github.com/dgerosa/machinelearning4physics_bicocca_2024)
 
+## Gravitational waves from compact binaries
+
+_Galileo Galilei Institute for Theoretical Physics, Florence_
+
+I prepared this material for the PhD school *Theoretical Aspects of Astroparticle Physics, Cosmology and Gravitation*, which took place in Florence in March 2026. 
+
+[dgerosa.github.io/gwbinaries\_florence\_2026/](https://dgerosa.github.io/gwbinaries_florence_2026/)
+
+I cover the principles of gravitational-wave propagation and emission, from the linearized Einstein equations to the quadrupole formula. This formalism is then applied to the specific case of binary black holes, including their dynamics on eccentric orbits and gravitational-wave propagation on cosmological backgrounds. I then cover the theory behind gravitational-wave detectors with laser interferometers. Example classes were delivered by Caroline Owen.
+
+## Bayesian inference and stochastic sampling in (astro)physics
+
+_Instituto Superior Técnico, University of Lisbon_
+
+This is a mini-cours I delivered at Instituto Superior Técnico, Lisbon, in February 2026.
+
+[github.com/dgerosa/bayesianinference\_lisbon\_2026](https:github.com/dgerosa/bayesianinference_lisbon_2026)
+
+Extracting knowledge from data—the numbers we measure in physics—requires rigorous statistical inference. This mini-course introduces the fundamentals of Bayesian reasoning and its role in modern scientific analysis. Participants will explore key stochastic sampling methods, including Markov Chain Monte Carlo and, time permitting, nested sampling. The session concludes with a hands-on astrophysics example, guiding students through a complete inference workflow in practice.
+
+
+
+
 ## General physics for Computer Science majors
 
 _BSc in Computer Science at Milano-Bicocca_
