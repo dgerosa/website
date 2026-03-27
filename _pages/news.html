@@ -14,7 +14,25 @@ author_profile: true
 {%- comment -%}
 Group posts by year-month like 2025-06
 {%- endcomment -%}
-{% assign posts_by_month = site.posts | group_by_exp:"post", "post.date | date: '%Y-%m'" %}
+{% assign pinned_posts_all = site.posts | where_exp:"p", "p.pinned == true" %}
+{% assign pinned_with_order = pinned_posts_all | where_exp:"p", "p.pinned_order" | sort: "pinned_order" %}
+{% assign pinned_without_order = pinned_posts_all | where_exp:"p", "p.pinned_order == nil" %}
+{% assign pinned_posts = pinned_with_order | concat: pinned_without_order %}
+
+{% assign normal_posts = site.posts | where_exp:"p", "p.pinned != true" %}
+{% assign posts_by_month = normal_posts | group_by_exp:"post", "post.date | date: '%Y-%m'" %}
+
+{% if pinned_posts.size > 0 %}
+  <h2 id="pinned" class="archive__subtitle">Pinned</h2>
+
+  {% for post in pinned_posts %}
+
+    {% include archive-single.html %}
+
+    <hr style="border: none; border-bottom: 1px solid var(--global-border-color); margin: 1.414em 0;" />
+
+  {% endfor %}
+{% endif %}
 
 {% for month in posts_by_month %}
   {% assign display_date = month.name | append: "-01" | date: "%B %Y" %}

@@ -27,16 +27,28 @@
       {% endif %}
     {% endif %}
 
-    {% if page.url == "/news/" or page.url == "/tags/" or page.url == "/date/" %}
-    <div class="desktop-only">
-      <br>
-      <h3>News archive</h3>
-      <ul>
-        {% assign posts_by_month = site.posts | group_by_exp:"post", "post.date | date: '%Y-%m'" %}
-        {% for month in posts_by_month %}
-          <li><a href="/news/#{{ month.name }}">{{ month.name | append: "-01" | date: "%b %Y" }}</a> ({{ month.items | size }})</li>
-        {% endfor %}
-      </ul>
+	    {% if page.url == "/news/" or page.url == "/tags/" or page.url == "/date/" %}
+	    <div class="desktop-only">
+	      <br>
+	      <h3>News archive</h3>
+	      <ul>
+	        {% if page.url == "/news/" %}
+	          {% assign pinned_posts = site.posts | where_exp:"p", "p.pinned == true" %}
+	          {% assign posts_for_archive = site.posts | where_exp:"p", "p.pinned != true" %}
+	        {% else %}
+	          {% assign pinned_posts = "" | split: "," %}
+	          {% assign posts_for_archive = site.posts %}
+	        {% endif %}
+
+	        {% if pinned_posts.size > 0 %}
+	          <li><a href="/news/#pinned">Pinned</a> ({{ pinned_posts | size }})</li>
+	        {% endif %}
+
+	        {% assign posts_by_month = posts_for_archive | group_by_exp:"post", "post.date | date: '%Y-%m'" %}
+	        {% for month in posts_by_month %}
+	          <li><a href="/news/#{{ month.name }}">{{ month.name | append: "-01" | date: "%b %Y" }}</a> ({{ month.items | size }})</li>
+	        {% endfor %}
+	      </ul>
 
       <h3>News tags</h3>
       <ul>
