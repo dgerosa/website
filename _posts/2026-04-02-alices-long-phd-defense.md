@@ -13,4 +13,4 @@ Yeee! Alice Spadaro got her PhD yesterday! She defended her PhD thesis titled *â
   <img src="/images/alices_phd.jpg" alt="Giulia PhD" style="max-width: 80%; height: auto;" />
 </p>
 
-_Alice likes surfing, merging black holes, her purple hoodie... and deals with DINGOs!â€¦_
+_Alice likes surfing, merging black holes, her purple hoodie... and deals with DINGOs!_
