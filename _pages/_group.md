@@ -21,30 +21,12 @@ Here are the amazing people in my group. Come visit and chat science with us! If
   </div>
 </div>
 <div class="person">
-  <img src="{{ '/images/caroline-owen.jpg' | relative_url }}" alt="Caroline Owen" class="person-photo">
-  <div class="person-text">
-    <strong>Caroline Owen</strong><br>
-    Postdoc<br>
-<a href="mailto:caroline.owen@unimib.it">caroline.owen@unimib.it</a><br>
-    <em>Inspiral modeler, fundamental physics explorer, gravitational-wave enthusiast. Loves a long walk. Prefers to be in the woods.</em>
-  </div>
-</div>
-<div class="person">
   <img src="{{ '/images/tristan-bruel.jpg' | relative_url }}" alt="Tristan Bruel" class="person-photo">
   <div class="person-text">
     <strong>Tristan Bruel</strong><br>
     Postdoc<br>
 <a href="mailto:tristan.bruel@unimib.it">tristan.bruel@unimib.it</a><br>
     <em>Binary black holes enjoyer, population synthesizer, star cluster simulator. Dream of identifying the host galaxies of black hole mergers. Addicted to endurance sports and eager to bring a French touch to local Italian rugby.</em>
-  </div>
-</div>
-<div class="person">
-  <img src="{{ '/images/rodrigo-tenorio.jpg' | relative_url }}" alt="Rodrigo Tenorio" class="person-photo">
-  <div class="person-text">
-    <strong>Rodrigo Tenorio</strong><br>
-    Postdoc<br>
-<a href="mailto:rodrigo.tenorio@unimib.it">rodrigo.tenorio@unimib.it</a><br>
-    <em>Long-signal searcher, stats geek, thinks that everything is a sinusoid if you look close enough. He enjoys crunching numbers on a GPU, playing bagpipes, and using Bayesian probability to climb up walls efficiently. Also, Fëanor did nothing wrong.</em>
   </div>
 </div>
 <div class="person">
@@ -57,12 +39,21 @@ Here are the amazing people in my group. Come visit and chat science with us! If
   </div>
 </div>
 <div class="person">
-  <img src="{{ '/images/nicholas-loutrel.jpg' | relative_url }}" alt="Nicholas Loutrel" class="person-photo">
+  <img src="{{ '/images/caroline-owen.jpg' | relative_url }}" alt="Caroline Owen" class="person-photo">
   <div class="person-text">
-    <strong>Nicholas Loutrel</strong><br>
+    <strong>Caroline Owen</strong><br>
     Postdoc<br>
-<a href="mailto:nicholas.loutrel@unimib.it">nicholas.loutrel@unimib.it</a><br>
-    <em>Stationary phaser, burst calculator, catastrophe theorizer. Perhaps a secret agent. Still can’t understand why we talk probabilities while he lives in a deterministic world.</em>
+<a href="mailto:caroline.owen@unimib.it">caroline.owen@unimib.it</a><br>
+    <em>Inspiral modeler, fundamental physics explorer, gravitational-wave enthusiast. Loves a long walk. Prefers to be in the woods.</em>
+  </div>
+</div>
+<div class="person">
+  <img src="{{ '/images/rodrigo-tenorio.jpg' | relative_url }}" alt="Rodrigo Tenorio" class="person-photo">
+  <div class="person-text">
+    <strong>Rodrigo Tenorio</strong><br>
+    Postdoc<br>
+<a href="mailto:rodrigo.tenorio@unimib.it">rodrigo.tenorio@unimib.it</a><br>
+    <em>Long-signal searcher, stats geek, thinks that everything is a sinusoid if you look close enough. He enjoys crunching numbers on a GPU, playing bagpipes, and using Bayesian probability to climb up walls efficiently. Also, Fëanor did nothing wrong.</em>
   </div>
 </div>
 <div class="person">
@@ -122,6 +113,7 @@ Here are the amazing students who are currently completing research projects wit
 - **Giorgio Monti**, MSc thesis, Milano-Bicocca and GSSI L'Aquila, 2026.
 - **Serena Caslini**, MSc thesis, Milano-Bicocca, 2026.
 - **Laura Canova**, BSc thesis, Milano-Bicocca, 2026.
+- **Giacomo Brugali**, BSc thesis, Milano-Bicocca, 2026.
 - **Federico Massacesi**, BSc thesis, Milano-Bicocca, 2026.
 - **Nicola Toselli**, BSc thesis, Milano-Bicocca, 2026.
 - **Alessandro Zappietro**, BSc thesis, Milano-Bicocca and Pavia, 2026.
@@ -137,8 +129,9 @@ Here are the amazing students who are currently completing research projects wit
 
 ## Former postdocs
 
+- **Nicholas Loutrel**. Milano-Bicocca, 2023–2026. Supported by the ERC. Then journal editor at Physical Review Letters, American Physical Society.
 - **Philippa Cole**. Milano-Bicocca, 2023–2026. Supported by the ERC. Then faculty at Queen Mary University of London (UK).
-- **Arianna Renzini**. Milano-Bicocca, 2023–2025. Marie Skłodowska-Curie Fellow. Then permanent researcher at ETH, Zurich.
+- **Arianna Renzini**. Milano-Bicocca, 2023–2025. Marie Skłodowska-Curie Fellow. Then permanent researcher at ETH Zurich (Switzerland).
 - **Costantino Pacilio**. Milano-Bicocca, 2022–2025. Supported by the ERC. Then permanent researcher at INFN, Rome (Italy).
 - **Swetha Baghwat**. Birmingham, 2022–2025. Stephen Hawking Fellow.
 - **Michele Mancarella**. Milano-Bicocca, 2022–2024. Supported by the ERC. Then faculty at the University of Aix-Marseille (France).
@@ -158,7 +151,7 @@ Here are the amazing students who are currently completing research projects wit
 - **Pietro Zeduri**. Milano-Bicocca and Aix-Marseille, 2026.
 - **Alessia Corelli**. Milano-Bicocca and Nottingham, 2026. Resulting publication: [arXiv:2603.00239](https://arxiv.org/abs/2603.00239).
 - **Federico Leto di Priolo**. Milano-Bicocca and ESO Garching, 2026.
-- **Oliver Rossi**. Milano-Bicocca, 2026. The software engineer at NetCom Group (Italy).
+- **Oliver Rossi**. Milano-Bicocca, 2026. The software engineer at Netcom Engineering (Italy).
 - **Giulia Conti**. Milano-Bicocca, 2026.
 - **Martin Gerini**. Milano-Bicocca, 2026. Then PhD student at the University of Louvain (Belgium).
 - **Erika Sottocorno**. Milano-Bicocca, 2025. Then PhD student at SISSA (Trieste, Italy).
@@ -239,4 +232,4 @@ Here are the amazing students who are currently completing research projects wit
 
 
 <br><br>
-*Last updated: 2026-04-10 04:22:46 UTC*
+*Last updated: 2026-04-18 04:09:20 UTC*
