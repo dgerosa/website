@@ -5,7 +5,6 @@ permalink: /posts/2026-03-19-joint-phd-position-in-gravitational-wave-astronomy-
 tags:
   - Milano
   - Jobs
-pinned: true
 ---
 
 The University of Milano-Bicocca (Italy) and Aix-Marseille University (France) welcome applications for a joint PhD scholarship in gravitational-wave astronomy. The application deadline is April 17th, 2026 (noon CEST) for positions starting in Fall 2026:
