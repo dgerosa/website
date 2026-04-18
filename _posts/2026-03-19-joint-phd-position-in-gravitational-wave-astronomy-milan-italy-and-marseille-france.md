@@ -17,7 +17,7 @@ This joint position will be supervised by Davide Gerosa at Milano-Bicocca and Mi
 
 Applications should be submitted through Milano-Bicocca using the link above. The PhD admission program includes several “open scholarships”, covering all research areas in the department (including ours), for which all applicants are automatically considered. Candidates interested in this joint position should explicitly indicate their interest by selecting the “project scholarship” number PROG.5, titled “Interpreting gravitational-wave data with modern inference techniques.”
 
-For more information on our research groups, see [www.davidegerosa.com/group](www.davidegerosa.com/group) and [www.cpt.univ-mrs.fr/~mancarella](www.cpt.univ-mrs.fr/~mancarella).
+For more information on our research groups, see [www.davidegerosa.com/group](https://www.davidegerosa.com/group) and [www.cpt.univ-mrs.fr/~mancarella](https://www.cpt.univ-mrs.fr/~mancarella).
 
-We are committed to building an inclusive research environment and welcome applications from all interested candidates. For informal inquiries or expressions of interest, please contact [davide.gerosa@unimib.it](davide.gerosa@unimib.it) and [michele.mancarella@cpt.univ-mrs.fr](michele.mancarella@cpt.univ-mrs.fr).
+We are committed to building an inclusive research environment and welcome applications from all interested candidates. For informal inquiries or expressions of interest, please contact [davide.gerosa@unimib.it](mailto:davide.gerosa@unimib.it) and [michele.mancarella@cpt.univ-mrs.fr](mailto:michele.mancarella@cpt.univ-mrs.fr).
 
