@@ -40,8 +40,11 @@ Some animations and data on black-hole binary spin precession. Supporting
 [arXiv:1809.09125](https://arxiv.org/abs/1809.09125).
 
 - **[postmerger](https://github.com/cpacilio/postmerger). Ringdown amplitude fits.** Surrogate models for the ringdown amplitudes, fitted to numerical-relativity simulations. Supporting
-[arXiv:2408.05276 ](https://arxiv.org/abs/2408.05276 ),
+[arXiv:2408.05276](https://arxiv.org/abs/2408.05276),
 [arXiv:2504.17021](https://arxiv.org/abs/2504.17021).
+
+- **[gwfast.population](https://github.com/cpacilio/postmerger). Fisher matrix for black-hole populations** Approximate hierarchical Bayesian analysis for GW population using the Fisher formalism; implemented inside the populat GWfast package. Supporting
+[arXiv:2410.17325](https://arxiv.org/abs/2410.17325 ).
 
 - **[skywalker](https://github.com/dgerosa/skywalker). Things I like in Python.**
 This is a python module made mostly for myself, where I collect useful functions and tricks to be imported from everywhere.
@@ -77,6 +80,10 @@ Python module to extract black-hole recoils from waveform approximants by direct
 - **[ringdown_GW190521](https://github.com/chiaranselmo17/ringdown_GW190521). Black-hole ringdown with templates capturing spin precession: a critical re-analysis of GW190521** Posterior distributions of our ringdown-only analyses of GW190521 using templates with and without spin precession. Supporting: [2512.05193](https://arxiv.org/abs/2512.05193).
 
 - **[EMRI-Search](https://github.com/lorenzsp/EMRI-Search/). Single-harmonic search for extreme mass-ratio inspirals** A prototype search for extreme-mass-ratio inspirals in LISA data, using short Fourier transforms, SVD decomposition, and simulation-based inference. Supporting: [2510.20891](https://arxiv.org/abs/2510.20891).
+
+- **[Dingo-LISA](https://github.com/AliSword/dingo-lisa)** First attempt to extend the DINGO simulation-based inference code to handle supermassive BH binaries detected by LISA. Supporting: [2603.20431](https://arxiv.org/abs/2603.20431).
+
+- **[GW231123 with MESA](https://zenodo.org/records/16898502)** Reproduction Package for the paper *"Can GW231123 have a stellar origin?"*, including inputs for the MESA stellar-evoltuion code and post-processing tools. Supporting: [2508.10088](https://arxiv.org/abs/2508.10088).
 
 - **[GPRHBA](https://github.com/kazewong/GPRHBA). Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: a case study.** An early sampler for the gravitational population likelihood, using interpolation of some population-synthesis simulations as the targeted model. Supporting
 [1909.06373](https://arxiv.org/abs/1909.06373). 
