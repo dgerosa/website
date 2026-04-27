@@ -11,4 +11,4 @@ When black-hole binaries are eccentric, their gravitational-wave emission is ver
 
 
 N. Loutrel, A. Bailey, **D. Gerosa**.\
-[arXiv:2509.01614 [gr-qc]](https://arxiv.org/abs/2509.01614).
+[Classical and Quantum Gravity 43 (2026) 075010](https://iopscience.iop.org/article/10.1088/1361-6382/ae59e4). [arXiv:2509.01614 [gr-qc]](https://arxiv.org/abs/2509.01614).
