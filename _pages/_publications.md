@@ -1,5 +1,5 @@
 ## Summary
-**7** [Submitted papers](#submitted-papers)\
+**8** [Submitted papers](#submitted-papers)\
 **111** [Papers published in major peer-reviewed journals](#papers-published-in-major-peer-reviewed-journals)\
 **15** [Other publications (white papers, proceedings, etc.)](#other-publications-white-papers-proceedings-etc)
 
@@ -8,6 +8,11 @@
 
 ## Submitted papers
 
+**8.**
+*Gravitational-wave astronomy requires population-informed parameter estimation.*\
+M. Mould, R. Tenorio, **D. Gerosa**.\
+<a href="https://arxiv.org/abs/2604.15885" style="color: inherit; text-decoration: none;">arXiv:2604.15885 [gr-qc]</a>.
+ 
 **7.**
 *Accurate and efficient simulation-based inference for massive black-hole binaries with LISA.*\
 A. Spadaro, J. Gair, **D. Gerosa**, S. R. Green, R. Buscicchio, N. Gupte, R. Tenorio, S. Clyne, M. Purrer, N. Korsakova.\
@@ -49,14 +54,14 @@ M. Chiaberge, T. Morishita, M. Boschini, S. Bianchi, A. Capetti, G. Castignani, 
 ## Papers published in major peer-reviewed journals
 
 **111.**
-*Probing modified gravitational-wave dispersion with bursts from eccentric black-hole binaries.*\
-N. Loutrel, A. Bailey, **D. Gerosa**.\
-Classical and Quantum Gravity, in press. <a href="https://arxiv.org/abs/2509.01614" style="color: inherit; text-decoration: none;">arXiv:2509.01614 [gr-qc]</a>.
- 
-**110.**
 *Impact of facility timing and coordination for next-generation gravitational-wave detectors.*\
 S. Borhanian, A. Renzini, P. S. Cole, C. Pacilio, M. Mancarella, **D. Gerosa**.\
-Classical and Quantum Gravity, in press. <a href="https://arxiv.org/abs/2510.11861" style="color: inherit; text-decoration: none;">arXiv:2510.11861 [gr-qc]</a>.
+<a href="https://iopscience.iop.org/article/10.1088/1361-6382/ae5b1a" style="color: inherit; text-decoration: none;">Classical and Quantum Gravity 43 (2026) 085008</a>. <a href="https://arxiv.org/abs/2510.11861" style="color: inherit; text-decoration: none;">arXiv:2510.11861 [gr-qc]</a>.
+ 
+**110.**
+*Probing modified gravitational-wave dispersion with bursts from eccentric black-hole binaries.*\
+N. Loutrel, A. Bailey, **D. Gerosa**.\
+<a href="https://iopscience.iop.org/article/10.1088/1361-6382/ae59e4" style="color: inherit; text-decoration: none;">Classical and Quantum Gravity 43 (2026) 075010</a>. <a href="https://arxiv.org/abs/2509.01614" style="color: inherit; text-decoration: none;">arXiv:2509.01614 [gr-qc]</a>.
  
 **109.**
 *Comparing astrophysical models to gravitational-wave data in the observable space.*\
@@ -705,4 +710,4 @@ E. Berti, et al. (53 authors incl. **D. Gerosa**).\
 
 
 <br><br>
-*Last updated: 2026-04-18 04:09:20 UTC*
+*Last updated: 2026-04-27 04:46:50 UTC*
