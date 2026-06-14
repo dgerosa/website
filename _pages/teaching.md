@@ -19,6 +19,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 
 **Previous editions:**
 
+- [Astrostatistics. 2026-2027](https://github.com/dgerosa/astrostatistics_bicocca_2026)
 - [Astrostatistics. 2024-2025](https://github.com/dgerosa/astrostatistics_bicocca_2025)
 - [Astrostatistics. 2023-2024](https://github.com/dgerosa/astrostatistics_bicocca_2024)
 - [Astrostatistics. 2022-2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
