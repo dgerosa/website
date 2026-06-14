@@ -1,7 +1,7 @@
 ---
-title: "Black-hole ringdown with templates capturing spin precession: a critical re-analysis of GW190521"
+title: "Black-hole ringdown with templates capturing spin precession: a reanalysis of GW190521"
 date: 2025-12-08
-permalink: /posts/2025-12-08-black-hole-ringdown-with-templates-capturing-spin-precession-a-critical-re-analysis-of-gw190521
+permalink: /posts/2025-12-08-black-hole-ringdown-with-templates-capturing-spin-precession-a-reanalysis-of-gw190521
 tags:
   - Papers
   - Milano
