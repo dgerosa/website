@@ -16,7 +16,7 @@ Do you like black holes and gravitational waves? Come and join us at the [Univer
 Here I list a few possible opportunities to work with me and my group. If you’re interested in any of these, feel free to drop me a line at [davide.gerosa@unimib.it](mailto:davide.gerosa@unimib.it) to discuss the application process.
 
 
-## PhD in Milan
+## PhD at Milano-Bicocca
 
 If you’re looking for a PhD in gravitational astronomy, then Milan is **the** place for you! The deadline is usually in April/May each year for positions starting in the fall. Here is some [general information](https://en.unimib.it/education/doctoral-research-phd-programmes/how-apply-phd-programme) on the program, including funding, etc. Please get in touch with me at any time for tips on the application call.
 
