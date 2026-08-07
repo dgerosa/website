@@ -5,6 +5,7 @@ permalink: /posts/2025-10-15-impact-of-facility-timing-and-coordination-for-next
 tags:
   - Papers
   - Milano
+  - CQG
 ---
 
 Third-generation gravitational-wave detectors are going to be amazing! They will observe millions of black holes with unprecedented precision. There are currently two major proposals: the Einstein Telescope, developed here in Europe, and Cosmic Explorer, led by colleagues in the USA. In this paper, we examine how the scientific potential of these future facilities depends on the timing of their data-taking periods. Together is better.
