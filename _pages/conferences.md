@@ -9,20 +9,23 @@ author_profile: true
 
 List of conferences, workshops, and study groups I have organized, together with the related material (like slides) when available.
 
+- **Conference: [Binary compact objects on eccentric orbits and their gravitational-wave signatures](https://sites.google.com/unimib.it/gweccentricity)**  
+  A workshop entirely dedicated to eccentricity in GW events (eccentricity is the next cool thing!) in beautiful Corfu, Greece.
+
 - **Conference: [GWfreeride: carving the AI gradient in gravitational-wave astronomy](https://sites.google.com/unimib.it/gwfreeride)**  
-  We got into the Sexten Astrophysics Center program again! This will be a focused workshop on AI applications to GW astronomy.
+  We got into the Sexten Astrophysics Center program again! This is a focused workshop on AI applications to GW astronomy.
 
 - **Conference: [XXVI SIGRAV Conference on General Relativity and Gravitation](https://sites.google.com/unimib.it/sigrav2025)**  
-  The 26th Conference of the Italian gravity society is being organized by myself and my group: Milan, September 2025!
+  The 26th Conference of the Italian gravity society was organized by me and my group: Milan, September 2025!
 
 - **Conference: [Gravitational-wave snowballs, populations, and models](https://sites.google.com/unimib.it/gwsnowballs)**  
   Conference at the Sexten Center for Astrophysics, in the Italian Dolomites. From the dictionary: *"to snowball = to increase, accumulate, expand, or multiply at a rapidly accelerating rate."* Much like the GW catalog in the next few years.
 
 - **Conference: [Challenges and future perspectives in gravitational-wave astronomy: O4 and beyond](https://agenda.infn.it/event/40881/)**  
-  A PhD school on AI applications to Physics (not just astrophysics!), organized with some colleagues from Milano-Bicocca; great venue in Monopoli (close to Bari, Italy). 
+  Conference at the Lorentz Center (Leiden, the Netherlands) on "new" GW things, with O4 predictions.
 
 - **PhD school: [Artificial intelligence and modern physics: a two-way connection](https://www.lorentzcenter.nl/challenges-and-future-perspectives-in-gravitational-wave-astronomy-o4-and-beyond.html)**  
-  Conference at the Lorentz Center (Leiden, the Netherlands) on "new" GW things, with O4 predictions.
+A PhD school on AI applications to Physics (not just astrophysics!), organized with some colleagues from Milano-Bicocca; great venue in Monopoli (close to Bari, Italy).
 
 - **Workshops: [Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)](/lautaro/)** and **[Theoretical Horizons in Unraveling Relativity, Astrophysics, and Mergers (THURAM)](/thuram)**  
   Mini-workshops with Andrea Maselli’s group from GSSI L’Aquila supporting our joint PRIN grant.
