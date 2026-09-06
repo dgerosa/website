@@ -6,7 +6,7 @@ tags:
   - Conferences
 ---
 
-I just had the pleasure of organizing an amazing workshop, “[Binary compact objects on eccentric orbits and their gravitational-wave signatures](sites.google.com/unimib.it/gweccentricity),” in beautiful Corfu, Greece. Huge thanks to Isobel Romero-Shaw, Rossella Gamba, and Michalis Aghatos for organizing it with me.
+I just had the pleasure of organizing an amazing workshop, “[Binary compact objects on eccentric orbits and their gravitational-wave signatures](sites.google.com/unimib.it/gweccentricity),” in beautiful Corfu, Greece. Huge thanks to Isobel Romero-Shaw, Rossella Gamba, and Michalis Agathos for organizing it with me.
 
 We learned that defining eccentricity is scary and that there are too many definitions—but also that perhaps we don’t need to agree on one, as long as we can convert between them. We learned that the waveform folks are making outstanding progress on eccentric, precessing, and inspiral-merger-ringdown models. We learned that a starfish is cute, that seafood moussaka is a nice variation and that, when the coffee machine doesn’t work, nothing really works.
 
