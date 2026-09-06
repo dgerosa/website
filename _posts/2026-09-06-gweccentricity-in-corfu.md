@@ -20,7 +20,7 @@ Here are some pictures, as well as the list of the sessions.
 </p>
 
 <p style="text-align: center;">
-  <img src="/images/corfu_sep2026_a.jpg" alt="Lake July 2026b" style="max-width: 60%; height: auto;" />
+  <img src="/images/corfu_sep2026_b.jpg" alt="Lake July 2026b" style="max-width: 60%; height: auto;" />
 </p>
 
 
