@@ -43,7 +43,7 @@ Some animations and data on black-hole binary spin precession. Supporting
 [arXiv:2408.05276](https://arxiv.org/abs/2408.05276),
 [arXiv:2504.17021](https://arxiv.org/abs/2504.17021).
 
-- **[gwfast.population](https://github.com/cpacilio/postmerger). Fisher matrix for black-hole populations** Approximate hierarchical Bayesian analysis for GW population using the Fisher formalism; implemented inside the populat GWfast package. Supporting
+- **[gwfast.population](https://github.com/CosmoStatGW/gwfast/tree/master/gwfast/population). Fisher matrix for black-hole populations** Approximate hierarchical Bayesian analysis for GW population using the Fisher formalism; implemented inside the populat GWfast package. Supporting
 [arXiv:2410.17325](https://arxiv.org/abs/2410.17325 ).
 
 - **[skywalker](https://github.com/dgerosa/skywalker). Things I like in Python.**
