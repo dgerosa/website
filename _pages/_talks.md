@@ -1,7 +1,7 @@
 Invited talks marked with ✦.
 
 ## Summary
-**87** (**38**✦) [Talks at conferences](#talks-at-conferences) \
+**89** (**40**✦) [Talks at conferences](#talks-at-conferences) \
 **49** (**49**✦) [Talks at department seminars](#talks-at-department-seminars) \
 **9** (**8**✦) [Lectures at PhD schools](#lectures-at-phd-schools) \
 **8** (**4**✦) [Posters at conferences](#posters-at-conferences) \
@@ -10,6 +10,12 @@ Invited talks marked with ✦.
 ---
 
 ## Talks at conferences
+
+**89.** ✦ *The astrophysics we are (not) learning with LVK and we might (not) learn with 3G*  \\
+Listening to the cosmos: new frontiers in gravitational-wave physics (workshop week 4), Florence, Italy, Sep 2026.
+
+**88.** ✦ *Simulation-based inference in gravitational-wave astronomy*  \\
+Listening to the cosmos: new frontiers in gravitational-wave physics (conference week 3), Florence, Italy, Sep 2026.
 
 **87.** ✦ *(Over)interpreting gravitational-wave populations*  \\
 8th Unsolved problems in astrophysics and cosmology, Vienna, Austria, Jul 2026.
@@ -576,4 +582,4 @@ Liceo Candia and Liceo Frassati, Seregno, Italy, Jan 2018.
 
 
 <br><br>
-*Last updated: 2026-09-08 11:59:54 UTC*
+*Last updated: 2026-09-29 07:05:29 UTC*

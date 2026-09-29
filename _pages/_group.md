@@ -83,16 +83,14 @@ Here are the amazing students who are currently completing research projects wit
 - **Martina Berva**, MSc thesis, Milano-Bicocca and Aix-Marseille, 2027.
 - **Giulia Foroni**, MSc thesis, Milano-Bicocca and Columbia, 2026.
 - **Rocco Giugni**, MSc thesis, Milano-Bicocca and Roma-Sapienza, 2026.
-- **Lisa Merlo**, MSc thesis, Milano-Bicocca, 2026.
-- **Sofia Dossena**, MSc thesis, Milano-Bicocca, 2026.
 - **Serena Caslini**, MSc thesis, Milano-Bicocca, 2026.
 - **Diego Noseda**, BSc thesis, Milano-Bicocca, 2026.
 - **Andrea La Canna**, BSc thesis, Milano-Bicocca, 2026.
-- **Ecaterina Tsuhuy**, BSc thesis, Milano-Bicocca and Pavia, 2026.
 - **Laura Canova**, BSc thesis, Milano-Bicocca, 2026.
 - **Federico Massacesi**, BSc thesis, Milano-Bicocca, 2026.
 - **Nicola Toselli**, BSc thesis, Milano-Bicocca, 2026.
 - **Alessandro Zappietro**, BSc thesis, Milano-Bicocca and Pavia, 2026.
+- **Pablo Basta**, BSc thesis, Milano-Bicocca, 2026.
 
 <br>
 
@@ -126,6 +124,8 @@ Here are the amazing students who are currently completing research projects wit
 
 ## Former MSc students
 
+- **Lisa Merlo**. Milano-Bicocca, 2026. Then PhD student in my group.
+- **Sofia Dossena**. Milano-Bicocca, 2026. Then PhD student at SISSA (Trieste, Italy).
 - **Marco Bianchi**. Milano-Bicocca, 2026. Then PhD student at GSSI (L'Aquila, Italy).
 - **Giorgio Monti**. Milano-Bicocca and GSSI L'Aquila, 2026.
 - **Pietro Zeduri**. Milano-Bicocca and Aix-Marseille, 2026.
@@ -159,6 +159,7 @@ Here are the amazing students who are currently completing research projects wit
 
 ## Former BSc students
 
+- **Ecaterina Tsuhuy**. Milano-Bicocca and Pavia, 2026.
 - **Giacomo Brugali**. Milano-Bicocca, 2026.
 - **Simone Abeni**. Milano-Bicocca, 2026.
 - **Lorenzo Lecci**. Milano-Bicocca, 2025.
@@ -213,4 +214,4 @@ Here are the amazing students who are currently completing research projects wit
 
 
 <br><br>
-*Last updated: 2026-09-08 11:59:54 UTC*
+*Last updated: 2026-09-29 07:05:29 UTC*
