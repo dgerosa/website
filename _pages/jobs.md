@@ -25,7 +25,7 @@ Note that starting a PhD in Italy requires holding an MSc degree. If you're stil
 
 ## Postdocs: Marie Skłodowska-Curie fellowships
 
-I actively support applications to the [Marie Skłodowska-Curie fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) from the European Union, both their European and Global scheme. I supervised several of these applications (including a few winners!) and know the scheme very well. Our grant office in Milan will also help us. If you’re interested in this program, please get in touch. **For winners of Global MSCA Fellowships with the incoming phase here at Milan-Bicocca, we can open a case for a faculty appointment.**
+I actively support applications to the [Marie Skłodowska-Curie fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) from the European Union, both their European and Global scheme. I supervised several of these applications (including a few winners!) and know the scheme very well. Our grant office in Milan will also help us. If you’re interested in this program, please get in touch. **For winners of Global MSCA Fellowships with the incoming phase here at Milano-Bicocca, we can open a case for a faculty appointment.**
 
 ## Postdocs: Cariplo Foundation Fellowships
 
