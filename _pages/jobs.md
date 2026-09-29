@@ -20,6 +20,9 @@ Here I list a few possible opportunities to work with me and my group. If you’
 
 If you’re looking for a PhD in gravitational astronomy, then Milan is **the** place for you! The deadline is usually in April/May each year for positions starting in the fall. Here is some [general information](https://en.unimib.it/education/doctoral-research-phd-programmes/how-apply-phd-programme) on the program, including funding, etc. Please get in touch with me at any time for tips on the application call.
 
+Note that starting a PhD in Italy requires holding an MSc degree. If you're still getting your MSc, that's ok; you can definitely apply, but you must obtain your degree before starting your PhD with us. If instead you're still in a BSc course, consider enrolling in [our MSc degree in Astrophysics](https://www.unimib.it/graduate/astrophysics-and-space-physics)! It's a two-year module, with roughly one year of classes and one year of research (and consider that tuition fees in Italy are very low compared to elsewhere). 
+
+
 ## Postdocs: Marie Skłodowska-Curie fellowships
 
 I actively support applications to the [Marie Skłodowska-Curie fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) from the European Union, both their European and Global scheme. I supervised several of these applications (including a few winners!) and know the scheme very well. Our grant office in Milan will also help us. If you’re interested in this program, please get in touch. For winners of Global MSCA Fellowships with the incoming phase here at Milan-Bicocca, we can open a case for a faculty appointment.
